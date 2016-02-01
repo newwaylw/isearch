@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<TITLE>号码百事通编码查询演示</TITLE>
+<meta name="keywords" content="号码百事通编码查询演示"/>
+<meta name="description" content="号码百事通编码查询演示"/>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<SCRIPT src="html/js/main.js" type=text/javascript></SCRIPT>
+
+<style>
+
+</style>
+</head>
+<body>
+<div id="wrapper">
+<div class="reg">
+<UL>
+<li class="wen2"><img src="images/register.gif" /></li>
+<li class="wen2"><img src="images/login.gif" /></li>
+<li class="wen2">密码：<input class="input_93"  name="" type="text" /></li>
+<li class="wen2">用户名：<input class="input_93"  name="" type="text" /></li>
+<li class="wen1">Hi，下午好！</li>
+</UL>
+</div>
+<div class="logo"><img src="images/logo.jpg" /></div>
+<DIV id=ssk>
+<DIV class=ss>
+<DIV class=title id=kxss><SPAN class=sp00 onClick="kxchange('kxss',0)">首字母</SPAN>
+<SPAN class=sp1 onclick="kxchange('kxss',1)">拼音查询</SPAN>
+<SPAN class=sp2 onclick="kxchange('kxss',2)">汉字查询</SPAN></DIV>
+<DIV class=content>
+
+<DIV class=jp id=kxss_ul_0 style="position: relative;">
+
+<FORM id=Text" name="search" action="isearch.php" action=GET>
+<DIV class=radio >
+ <div id="search-results" style="DISPLAY: none;  WIDTH: 653px;  " class="ac_results"></div>
+ <input class="input_250" id=keyword name=keyword>
+
+
+  <a href="#"><input type=image name=submit  src="images/search.gif" width="29" height="25" border="0"></a></DIV>
+
+
+  <DIV class=xunzhe>
+ {%$list%}</DIV>
+</FORM></DIV>
+
+<DIV class=jp id=kxss_ul_1 style="DISPLAY: none;position: relative;">
+<FORM id=Text" name="search" action="search_f.php" action=GET>
+<DIV class=radio > <input class="input_250" id=keyword1 name=keywor1 autocomplete="off" onkeyup="buscar(document.getElementById('keyword').value,{'target':'search-results','preloader':'pr'});">
+<div id="search-results2" style="DISPLAY: none;  WIDTH: 653px;  " class="ac_results"></div>
+
+  <a href="#"><input type=image name=submit  src="images/search.gif" width="29" height="25" border="0"></a></DIV>
+
+
+  <DIV class=xunzhe>{%$list%}</DIV>
+</FORM></DIV>
+
+
+
+<DIV class=flash id=kxss_ul_2 style="DISPLAY: none;position: relative;">
+
+<FORM id=Text" name="search" action="isearch.php" action=GET>
+<DIV class=radio >
+
+<div id="search-results2" style="DISPLAY: none;  WIDTH: 453px;  " class="ac_results"></div>
+<input class="input_250" id=keyword2 name=keyword2 autocomplete="off" onkeyup="buscar(document.getElementById('keyword').value,{'target':'search-results','preloader':'pr'});">
+  <a href="#"><input type=image name=submit  src="images/search.gif" width="29" height="25" border="0"></a></DIV>
+
+
+  <DIV class=xunzhe>{%$list%}</DIV>
+</FORM>
+</DIV>
+
+</DIV>
+</DIV></DIV>
+
+
+
+
+</div>
+<span id='pr' name='pr' style='visibility:hidden;float:right;'><img src='skins/images/wait.gif'></span>
+<div id="footer">
+    <div id="infoot">
+        <a href="#">关于我们</a> | <a href="#">联系我们</a> | <a href="#">友情链接</a> | <a href="#">意见反馈</a> 　©2009 IMSL & IER
+    </div>
+</div>
+</body>
+</html>

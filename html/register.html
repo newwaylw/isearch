@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<TITLE>音乐搜索引擎</TITLE>
+<meta name="keywords" content="致力于查找并发现乐曲和人群。您可以用自己的声音立即连接到您喜爱的乐曲，并与和您音乐兴趣相同的人群建立起联系。"/>
+<meta name="description" content="音乐搜索、歌词、社区、唱歌搜索、声音识别、指定旋律、在线卡拉 OK、哼唱检索、嗓音识别、语音识别、歌唱"/>
+<link href="css/info.css" rel="stylesheet" type="text/css" />
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<link href="css/dataTable.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+
+<div class="reg">
+<UL>
+<li class="logo3"><img src="images/logo3.jpg" /></li> 
+<li class="wen2"><img src="images/register.gif" /></li> 
+<li class="wen2"><img src="images/login.gif" /></li> 
+<li class="wen2">密码：<input class="input_93"  name="" type="text" /></li>
+<li class="wen2">用户名：<input class="input_93"  name="" type="text" /></li>
+<li class="wen1">Hi，下午好！</li>
+</UL>
+</div>
+
+
+<DIV id=ssk>
+  <!--搜索结果-->
+  <div class="center_r">
+<div class="register">用户注册:</div>
+<div class="center_sound_info">
+  <p>请注意：带有“<font color="red">*</font>”的项目必须填写。</p>
+  <table class="ttable2" cellspacing="4" cellpadding="5" width="100%" border="0">
+    <form action="" 
+  method="post" name="st_one" id="st_one" onsubmit="return Validator.Validate(this,2)">
+      <input type="hidden" value="doRegister" name="action" />
+      <tbody>
+        <tr class="form_list">
+          <th width="13%" align="right">会员帐号：</th>
+          <td width="31%"><input name="admin_name" class="input_180" size="25" maxlength="40" msg="用户名不符合规范" 
+      regexp="^[a-zA-z0-9\u0391-\uFFE5]{4,50}$" datatype="Custom" />
+              <font 
+      color="red">*</font> </td>
+          <td width="56%"></td>
+        </tr>
+        <tr class="form_list">
+          <th align="right">登录密码：</th>
+          <td><input name="admin_password" type="password" class="input_180" maxlength="40" msg="密码不符合规范" 
+      regexp="^[a-zA-z0-9\u0391-\uFFE5]{6,50}$" datatype="Custom" />
+              <font 
+      color="red">*</font></td>
+          <td>中文、英文、数字 组成。6-50位字符。</td>
+        </tr>
+        <tr class="form_list">
+          <th align="right" nowrap="nowrap">确认密码：</th>
+          <td><input name="passport_pass1" type="password" class="input_180" maxlength="50" msg="两次输入的密码不一致" 
+      datatype="Repeat" to="admin_password" />
+              <font color="red">*</font> </td>
+          <td class="td_bg">应与登录密码完全一致 </td>
+        </tr>
+        <!-- 			<tr class="form_list"><th>密码问题</th><td>
+			<input name=p_question size=25 maxlength="50" value="" dataType="Custom" regexp="^[a-zA-z0-9\u0391-\uFFE5]{4,50}$" msg="问题不符合规范"> <font color="red">*</font><br></td>
+			<td>&nbsp;</td>
+			</tr>
+			<tr class="form_list">
+			  <th>问题答案</th>
+			  <td><input name=p_answer size=25 maxlength="50" value="" /> <font color="red">*</font></td>
+			  <td>&nbsp;</td>
+			</tr> -->
+        <tr class="form_list">
+          <th align="right">Email地址：</th>
+          <td><input name="admin_email" class="input_180" size="25" maxlength="50" msg="信箱格式不正确" 
+      datatype="Email" />
+              <font color="red">*</font> </td>
+          <td class="td_bg">当您忘记密码时可由此找回密码。</td>
+        </tr>
+        <tr class="form_list">
+          <th align="right">性别：</th>
+          <td><input type="radio" checked="checked" value="0" name="usex" />
+            &nbsp;男
+            <input type="radio" 
+      value="1" name="usex" />
+            &nbsp;女
+            <input type="radio" value="2" name="usex" />
+            &nbsp;保密 <font color="red">*</font> </td>
+          <td class="td_bg">&nbsp;</td>
+        </tr>
+        <tr>
+          <td align="left">&nbsp;</td>
+          <td 
+  colspan="2" align="left"><img src="images/subm.gif" width="94" height="28" /> <img src="images/Reset.gif" width="94" height="28" /></td>
+          </tr>
+      </tbody>
+    </form>
+    <tr>
+      <td></TBODY></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</div>
+
+
+  <div class="center_right">
+    <ul>
+      <li class="w2"></span><span class="bule13"><a href="#">MP3搜索介绍</a></span></li>
+       <li class="w2"></span><span class="bule13"><a href="#">MP3搜索入门</a></span></li>
+        <li class="w2"></span><span class="bule13"><a href="#">搜索结果页面说明</a></span></li>
+         <li class="w2"></span><span class="bule13"><a href="#">常见问题</a></span></li>
+    </ul>
+    </div>
+  </DIV>
+  <div class="footer"> </span><span class="white12"><a href="#">关于我们</a></span>   |    </span><span class="white12"><a href="#">联系我们</a></span> |    </span><span class="white12"><a href="#">友情链接</a> |  </span><span class="white12"><a href="#">意见反</a>  版权所有©2008 音乐搜索网站版权所有</div>
+
+</div>
+
+
+
+
+
+</body>
+</html> 
+<SCRIPT src="js/main.js" type=text/javascript></SCRIPT>

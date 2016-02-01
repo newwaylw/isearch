@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<TITLE>号码百事通编码搜索演示</TITLE>
+<meta name="keywords" content="号码百事通编码搜索"/>
+<meta name="description" content="号码百事通编码搜索、号码搜索"/>
+<link href="css/info.css" rel="stylesheet" type="text/css" />
+<link href="css/dataTable.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+
+<div class="reg">
+<UL>
+<li class="logo3"><img src="images/logo3.jpg" /></li>
+<li class="wen2"><img src="images/register.gif" /></li>
+<li class="wen2"><img src="images/login.gif" /></li>
+<li class="wen2">密码：<input class="input_93"  name="" type="text" /></li>
+<li class="wen2">用户名：<input class="input_93"  name="" type="text" /></li>
+<li class="wen1">Hi，下午好！</li>
+</UL>
+</div>
+
+
+<DIV id=ssk>
+<DIV class=ss>
+<DIV class=title id=kxss><SPAN class=sp00 onClick="KX.Fp.kxchange('kxss',0)"
+kxalog="id=homepage/searchtab_jipiao">首字母</SPAN> <SPAN class=sp1
+onclick="KX.Fp.kxchange('kxss',1)"
+kxalog="id=homepage/searchtab_guojijipiao">拼音</SPAN> <SPAN class=sp2
+onclick="KX.Fp.kxchange('kxss',2)"
+kxalog="id=homepage/searchtab_hotel">汉字</SPAN></DIV>
+<DIV class=content>
+
+  <DIV class=jp id=kxss_ul_0 style="position: relative;">
+
+<FORM id=Text" action="search.php" method=GET>
+<DIV class=radio>
+<div id="search-results" style="DISPLAY: none;  WIDTH: 653px;  " class="ac_results"></div>
+<LABEL for=s1>
+<input
+class="input_250" id=keyword name=keyword value='{%$kk%}' autocomplete="off" onkeyup="buscar(document.getElementById('keyword').value,{'target':'search-results','preloader':'pr'});">
+</LABEL>
+  <a href="#"><input type=image name=submit  src="images/search.gif" width="29" height="25" border="0"></a></DIV>
+  <DIV class=xunzhe>
+<!--     <input type="radio" checked="checked" value="title" name="qtype" />
+    歌曲名  
+    <input type="radio" value="author" name="qtype" />
+    歌手  
+    <input type="radio" value="content" name="qtype" />
+    歌词
+    <input type="checkbox" name="checkbox" id="checkbox" />
+  在结果中搜索 --></DIV>
+
+</FORM></DIV>
+
+<DIV class=flash id=kxss_ul_1 style="DISPLAY: none">
+<FORM id="Pronunciation">
+<div class="flash1">
+ </DIV>
+<DIV class=xunzhe>
+    <input type="radio" checked="checked" value="title" name="qtype" />
+    歌曲名  
+    <input type="radio" value="author" name="qtype" />
+    歌手  
+    <input type="radio" value="content" name="qtype" />
+    歌词<input type="checkbox" name="checkbox" id="checkbox" />
+  在结果中搜索 </DIV>
+
+</FORM></DIV>
+
+
+<DIV class=flash id=kxss_ul_2 style="DISPLAY: none">
+<FORM id="Humming">
+<DIV class=flash1>
+</DIV>
+
+<DIV class=xunzhe>
+   <input type="checkbox" name="checkbox" id="checkbox" />
+  在结果中搜索</DIV>
+</FORM></DIV>
+
+</DIV>
+</DIV>
+
+<!--搜索结果-->
+<span id='pr' name='pr' style='visibility:hidden;float:right;'><img src='skins/images/wait.gif'></span>
+
+<div class="title_finally">
+<ul>
+<li  class="left">找到<span class="red13">{%$kk%}</span>相关词条</li>
+<li  class="right"></
+</ul>
+</div>
+
+
+
+<div class="center">
+<div class="center_left">
+<table border="0" cellspacing="0" cellpadding="0" class="dataTable">
+<tr>
+<td width=400px valign=top>
+	<table>
+	{%foreach item=v key=key from=$alist%}
+	<tr class="even_row">
+	  <td align="center" width="10">{%$key%}</td>
+	  <td  width="10">{%$v[1]%} </td>
+	  <td>{%$v[2]%}</td>
+	</tr>
+	{%/foreach%}
+	</table>
+
+</td>
+<td width=400px valign=top>
+<table>
+{%foreach item=v key=key from=$blist%}
+<tr class="even_row">
+  <td align="center"  width="10">{%$key%}</td>
+  <td  width="10">{%$v[1]%} </td>
+  <td >{%$v[2]%}</td>
+</tr>
+{%/foreach%}
+</table>
+</td>
+</tr>
+</table>
+<!--
+<table border="0" cellspacing="0" cellpadding="0" class="dataTable">
+<thead>
+<tr>
+<th width="6%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+<th width="35%" class="dataTableHeader"></th>
+<th width="6%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd_row">
+  <td>序号</td>
+  <td>ID </td>
+  <td>词条内容 </td>
+  <td>拼音 </td>
+  <td>类型</td>
+  <td>评分</td>
+</tr>
+{%foreach item=v from=$alist%}
+<tr class="even_row">
+  <td align="center">{%$v[0]%}</td>
+  <td>{%$v[1]%} </td>
+  <td nowrap>{%$v[2]%}</td>
+  <td>{%$v[3]%}</td>
+  <td nowrap>{%if $v[4]=='exact'%}精确{%else%}模糊{%/if%}</td>
+  <td>{%$v[5]%}</td>
+</tr>
+{%/foreach%}
+
+<tr>
+<th width="6%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+<th width="35%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+</tr>
+{%foreach item=v from=$blist%}
+<tr class="even_row">
+  <td align="center">{%$v[0]%}</td>
+  <td>{%$v[1]%} </td>
+  <td>{%$v[2]%}</td>
+  <td nowrap>{%$v[3]%}</td>
+  <td>{%if $v[4]=='exact'%}精确{%else%}模糊{%/if%}</td>
+  <td>{%$v[5]%}</td>
+</tr>
+{%/foreach%}
+</tbody>
+</table>
+-->
+<!-- <DIV class=show_pages><SPAN class=disabled>&lt; </SPAN><SPAN
+  class=current>1</SPAN> <A
+  href="#">2</A> <A
+  href="#">3</A> <A
+  href="#">4</A> <A
+  href="#">&gt; </A></DIV>
+</div> -->
+
+
+
+<div class="center_right">
+<ul>
+<!-- <li class="w1">音乐相关网站 </li>
+<li class="w2"></span><span class="bule13"><a href="#">最有效增高药-30天快速增高</a></span></li>
+<li class="w3">搜索最新<span class="red13a">音乐网站</span>，点此进入！看音乐网站小说在起点中文网 </li>
+
+<li class="w2"></span><span class="bule13"><a href="#">最有效增高药-30天快速增高</a></span></li>
+<li class="w3">搜索最新<span class="red13a">音乐网站</span>，点此进入！看音乐网站小说在起点中文网 </li>
+
+<li class="w2"></span><span class="bule13"><a href="#">最有效增高药-30天快速增高</a></span></li>
+<li class="w3">搜索最新<span class="red13a">音乐网站</span>，点此进入！看音乐网站小说在起点中文网 </li>
+
+<li class="w2"></span><span class="bule13"><a href="#">最有效增高药-30天快速增高</a></span></li>
+<li class="w3">搜索最新<span class="red13a">音乐网站</span>，点此进入！看音乐网站小说在起点中文网 </li>
+</ul> -->
+</div>
+</DIV>
+
+
+<div class="footer"> </span><span class="white12"><a href="#">关于我们</a></span>   |    </span><span class="white12"><a href="#">联系我们</a></span> |    </span><span class="white12"><a href="#">友情链接</a> |  </span><span class="white12"><a href="#">意见反</a>  版权所有©2009 IER & IMSL</div>
+
+</div>
+
+
+
+
+
+</body>
+</html>
+<SCRIPT src="html/js/main.js" type=text/javascript></SCRIPT>
+<script language="JavaScript">
+	var inter = null;
+	 //这里调用php中的函数
+	function buscar(){
+	  if (inter) clearInterval(inter);
+	  inter= setInterval("busc(document.getElementById('keyword').value,{'target':'search-results','preloader':'pr'});clearInterval(inter);",300);
+	  gsc_show(document.getElementById('search-results'));
+	}
+	function gsc_show(elt)
+	{
+		if (elt){
+			var tt=document.getElementById('keyword');
+			elt.style.display = 'block';
+			//elt.style.top=300+"px" ;
+			//elt.style.left=tt.offsetLeft ;
+		}
+	}
+	function gsc_hide(elt)
+	{
+		if (elt) elt.style.display = 'none';
+	}
+</script>

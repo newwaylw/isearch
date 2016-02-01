@@ -1,0 +1,2809 @@
+SQL query time: 1.8738629817963 </br><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<TITLE>号码百事通编码搜索演示</TITLE>
+<meta name="keywords" content="致力于查找并发现乐曲和人群。您可以用自己的声音立即连接到您喜爱的乐曲，并与和您音乐兴趣相同的人群建立起联系。"/>
+<meta name="description" content="音乐搜索、歌词、社区、唱歌搜索、声音识别、指定旋律、在线卡拉 OK、哼唱检索、嗓音识别、语音识别、歌唱"/>
+<link href="css/info.css" rel="stylesheet" type="text/css" />
+<link href="css/dataTable.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+
+<div class="reg">
+<UL>
+<li class="logo3"><img src="images/logo3.jpg" /></li>
+<li class="wen2"><img src="images/register.gif" /></li>
+<li class="wen2"><img src="images/login.gif" /></li>
+<li class="wen2">密码：<input class="input_93"  name="" type="text" /></li>
+<li class="wen2">用户名：<input class="input_93"  name="" type="text" /></li>
+<li class="wen1">Hi，下午好！</li>
+</UL>
+</div>
+
+
+<DIV id=ssk>
+<DIV class=ss>
+<DIV class=title id=kxss><SPAN class=sp00 onClick="KX.Fp.kxchange('kxss',0)"
+kxalog="id=homepage/searchtab_jipiao">首字母</SPAN> <SPAN class=sp1
+onclick="KX.Fp.kxchange('kxss',1)"
+kxalog="id=homepage/searchtab_guojijipiao">拼音</SPAN> <SPAN class=sp2
+onclick="KX.Fp.kxchange('kxss',2)"
+kxalog="id=homepage/searchtab_hotel">汉字</SPAN></DIV>
+<DIV class=content>
+
+  <DIV class=jp id=kxss_ul_0 style="position: relative;">
+
+<FORM id=Text" action="search.php" method=GET>
+<DIV class=radio>
+<div id="search-results" style="DISPLAY: none;  WIDTH: 653px;  " class="ac_results"></div>
+<LABEL for=s1>
+<input
+class="input_250" id=keyword name=keyword value='szs xd' autocomplete="off" onkeyup="buscar(document.getElementById('keyword').value,{'target':'search-results','preloader':'pr'});">
+</LABEL>
+  <a href="#"><input type=image name=submit  src="images/search.gif" width="29" height="25" border="0"></a></DIV>
+  <DIV class=xunzhe>
+<!--     <input type="radio" checked="checked" value="title" name="qtype" />
+    歌曲名  
+    <input type="radio" value="author" name="qtype" />
+    歌手  
+    <input type="radio" value="content" name="qtype" />
+    歌词
+    <input type="checkbox" name="checkbox" id="checkbox" />
+  在结果中搜索 --></DIV>
+
+</FORM></DIV>
+
+<DIV class=flash id=kxss_ul_1 style="DISPLAY: none">
+<FORM id="Pronunciation">
+<div class="flash1">
+ </DIV>
+<DIV class=xunzhe>
+    <input type="radio" checked="checked" value="title" name="qtype" />
+    歌曲名  
+    <input type="radio" value="author" name="qtype" />
+    歌手  
+    <input type="radio" value="content" name="qtype" />
+    歌词<input type="checkbox" name="checkbox" id="checkbox" />
+  在结果中搜索 </DIV>
+
+</FORM></DIV>
+
+
+<DIV class=flash id=kxss_ul_2 style="DISPLAY: none">
+<FORM id="Humming">
+<DIV class=flash1>
+</DIV>
+
+<DIV class=xunzhe>
+   <input type="checkbox" name="checkbox" id="checkbox" />
+  在结果中搜索</DIV>
+</FORM></DIV>
+
+</DIV>
+</DIV>
+
+<!--搜索结果-->
+<span id='pr' name='pr' style='visibility:hidden;float:right;'><img src='skins/images/wait.gif'></span>
+
+<div class="title_finally">
+<ul>
+<li  class="left">找到<span class="red13">szs xd</span>相关词条</li>
+<li  class="right"></
+</ul>
+</div>
+
+
+
+<div class="center">
+<div class="center_left">
+<table border="0" cellspacing="0" cellpadding="0" class="dataTable">
+<tr>
+<td width=400px valign=top>
+	<table>
+		<tr class="even_row">
+	  <td align="center" width="10">0</td>
+	  <td  width="10">190099 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">1</td>
+	  <td  width="10">148248 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>贸易公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">2</td>
+	  <td  width="10">172826 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>五金机械厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">3</td>
+	  <td  width="10">78595 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>机械设备厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">4</td>
+	  <td  width="10">10969 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>商贸有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">5</td>
+	  <td  width="10">103747 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>电子工具经营部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">6</td>
+	  <td  width="10">73774 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>环保机械设备厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">7</td>
+	  <td  width="10">86083 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>环保科技服务公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">8</td>
+	  <td  width="10">108667 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>实业有限公司销售部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">9</td>
+	  <td  width="10">122990 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>体育运动制品有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">10</td>
+	  <td  width="10">133168 </td>
+	  <td><font color=red>深圳市</font>龙岗区<font color=red>鑫达</font>塑胶制品厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">11</td>
+	  <td  width="10">25619 </td>
+	  <td><font color=red>深圳市</font>联合<font color=red>鑫达</font>塑胶制品有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">12</td>
+	  <td  width="10">4445 </td>
+	  <td><font color=red>深圳市</font>宝安区福永镇<font color=red>鑫达</font>五金制品厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">13</td>
+	  <td  width="10">67636 </td>
+	  <td><font color=red>深圳市</font>宝安区大浪<font color=red>鑫达</font>皮具手袋制品厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">14</td>
+	  <td  width="10">116243 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>镶石厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">15</td>
+	  <td  width="10">196675 </td>
+	  <td><font color=red>深圳市</font>联合<font color=red>鑫达</font>塑胶制品有限公司业务开发部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">16</td>
+	  <td  width="10">4313 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>顺电子有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">17</td>
+	  <td  width="10">50452 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>利电子有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">18</td>
+	  <td  width="10">23300 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>辉包装材料制品厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">19</td>
+	  <td  width="10">80543 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>兴电热器具有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">20</td>
+	  <td  width="10">164566 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>通汽车租赁有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">21</td>
+	  <td  width="10">74627 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>辉软性电路有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">22</td>
+	  <td  width="10">9661 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>莱科技有限公司业务部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">23</td>
+	  <td  width="10">118142 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>莱科技有限公司深圳分公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">24</td>
+	  <td  width="10">107534 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>域通讯科技有限公司转八一一九</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">25</td>
+	  <td  width="10">14752 </td>
+	  <td><font color=red>深圳市</font><font color=red>鑫达</font>辉软性电路科技有限公司销售部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">26</td>
+	  <td  width="10">136148 </td>
+	  <td><font color=red>深圳市</font>三<font color=red>鑫达</font>电子科技有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">27</td>
+	  <td  width="10">1461 </td>
+	  <td><font color=red>深圳市</font>盛<font color=red>鑫达</font>机械设备有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">28</td>
+	  <td  width="10">117384 </td>
+	  <td><font color=red>深圳市</font>奇<font color=red>鑫达</font>电子有限公司销售部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">29</td>
+	  <td  width="10">100560 </td>
+	  <td><font color=red>深圳市</font>宝安区西乡森<font color=red>鑫达</font>绝缘制品厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">30</td>
+	  <td  width="10">97891 </td>
+	  <td><font color=red>深圳市</font>宝安区石岩盛<font color=red>鑫达</font>五金电热制品商行</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">31</td>
+	  <td  width="10">36516 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>琴行</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">32</td>
+	  <td  width="10">167780 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>印刷厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">33</td>
+	  <td  width="10">65877 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>外贸公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">34</td>
+	  <td  width="10">132211 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>演艺中心</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">35</td>
+	  <td  width="10">141865 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>牙科器材公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">36</td>
+	  <td  width="10">155868 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>广告有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">37</td>
+	  <td  width="10">6309 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>窗帘有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">38</td>
+	  <td  width="10">86355 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>职业培训学校</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">39</td>
+	  <td  width="10">135715 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>计算机有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">40</td>
+	  <td  width="10">136635 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>厨具设备有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">41</td>
+	  <td  width="10">128099 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>办公耗材有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">42</td>
+	  <td  width="10">162113 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>清洁服务有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">43</td>
+	  <td  width="10">90957 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>汽车贸易有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">44</td>
+	  <td  width="10">141627 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>装饰杂志社有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">45</td>
+	  <td  width="10">184897 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>世界钟表精品有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">46</td>
+	  <td  width="10">141374 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>知识产权咨询有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">47</td>
+	  <td  width="10">166293 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>塑胶包装制品有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">48</td>
+	  <td  width="10">163802 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>专业化妆品美容培训学校</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">49</td>
+	  <td  width="10">196964 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>贸易有限公司韩国<font color=red>现代</font>汽车四s店</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">50</td>
+	  <td  width="10">109001 </td>
+	  <td><font color=red>深圳市</font>宝安区龙华<font color=red>现代</font>精密五金厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">51</td>
+	  <td  width="10">142879 </td>
+	  <td><font color=red>深圳市</font>宝安区公明<font color=red>现代</font>吸塑包装厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">52</td>
+	  <td  width="10">112055 </td>
+	  <td><font color=red>深圳市</font>宝安区<font color=red>现代</font>机电技术培训学校</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">53</td>
+	  <td  width="10">52642 </td>
+	  <td><font color=red>现代</font>国际大厦管理处<font color=red>深圳市</font><font color=red>现代</font>联行物业管理有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">54</td>
+	  <td  width="10">176962 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>轻音乐团</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">55</td>
+	  <td  width="10">117849 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>唐装服装厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">56</td>
+	  <td  width="10">178532 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>时空有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">57</td>
+	  <td  width="10">62756 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>壹办公用品商场</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">58</td>
+	  <td  width="10">132532 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>宝实业有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">59</td>
+	  <td  width="10">20827 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>创奇电子有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">60</td>
+	  <td  width="10">119510 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>唐彩服饰有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">61</td>
+	  <td  width="10">74956 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>展拓科技有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">62</td>
+	  <td  width="10">40377 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>东科机械有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">63</td>
+	  <td  width="10">118008 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>三力机电有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">64</td>
+	  <td  width="10">47714 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>豪方科技有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">65</td>
+	  <td  width="10">167803 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>人科技开发有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">66</td>
+	  <td  width="10">117871 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>风家具制造有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">67</td>
+	  <td  width="10">196938 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>元素量贩式k歌广场</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">68</td>
+	  <td  width="10">24901 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>园物业管理有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">69</td>
+	  <td  width="10">146140 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>万联投资发展有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">70</td>
+	  <td  width="10">46543 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>光侨玻璃钢家俱有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">71</td>
+	  <td  width="10">74483 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>经典婚纱摄影有限公司总部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">72</td>
+	  <td  width="10">197163 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>贸易有限公司韩国<font color=red>现代</font>汽车四s店<font color=red>深圳市</font><font color=red>现代</font>贸易有限公司韩国<font color=red>现代</font>汽车四s店</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">73</td>
+	  <td  width="10">187157 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>光侨玻璃钢家俱有限公司经营部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">74</td>
+	  <td  width="10">197659 </td>
+	  <td><font color=red>深圳市</font>新力达新亚汽车贸易有限公司北京<font color=red>现代</font>汽车新力达四s店龙岗店</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">75</td>
+	  <td  width="10">154993 </td>
+	  <td><font color=red>深圳市</font><font color=red>现代</font>城房地产开发有限公司梦想家园售楼处</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">76</td>
+	  <td  width="10">90077 </td>
+	  <td><font color=red>深圳市</font>理尚<font color=red>现代</font>科技有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">77</td>
+	  <td  width="10">198261 </td>
+	  <td><font color=red>深圳市</font>新力达新亚汽车贸易有限公司北京<font color=red>现代</font>汽车新力达四s店龙岗店售后热线</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">78</td>
+	  <td  width="10">39900 </td>
+	  <td><font color=red>深圳市</font>雄皓<font color=red>现代</font>科技有限公司销售部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">79</td>
+	  <td  width="10">119620 </td>
+	  <td><font color=red>深圳市</font>福田区高斯<font color=red>现代</font>办公用品经营部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">80</td>
+	  <td  width="10">127856 </td>
+	  <td><font color=red>深圳市</font>家家顺房产交易有限公司<font color=red>现代</font>城华庭点</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">81</td>
+	  <td  width="10">189765 </td>
+	  <td><font color=red>深圳市</font>创见<font color=red>现代</font>电器有限公司<font color=red>深圳市</font>创见<font color=red>现代</font>电器有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">82</td>
+	  <td  width="10">2856 </td>
+	  <td>天健<font color=red>现代</font>城售楼处<font color=red>深圳市</font>天健龙岗房地产开发有限公司天健<font color=red>现代</font>城售楼处<font color=red>深圳市</font>天健龙岗房地产开发有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">83</td>
+	  <td  width="10">31854 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">84</td>
+	  <td  width="10">113456 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>蔬菜行</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">85</td>
+	  <td  width="10">175402 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>机械有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">86</td>
+	  <td  width="10">115740 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>科技有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">87</td>
+	  <td  width="10">170050 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>电子有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">88</td>
+	  <td  width="10">148630 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>硅橡胶制品厂</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">89</td>
+	  <td  width="10">164132 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>信息技术工作室</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">90</td>
+	  <td  width="10">87376 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>制冰系统有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">91</td>
+	  <td  width="10">155743 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>包装材料有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">92</td>
+	  <td  width="10">12032 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>投资发展有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">93</td>
+	  <td  width="10">18027 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>家居有限公司外贸部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">94</td>
+	  <td  width="10">30744 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>家居有限公司业务部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">95</td>
+	  <td  width="10">35614 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>能源有限公司市场部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">96</td>
+	  <td  width="10">80622 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>标准缝纫设备有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">97</td>
+	  <td  width="10">185711 </td>
+	  <td><font color=red>深圳市</font><font color=red>兄弟</font>制冰系统有限公司销售部</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">98</td>
+	  <td  width="10">112002 </td>
+	  <td><font color=red>深圳市</font>金宝<font color=red>兄弟</font>纸业有限公司</td>
+	</tr>
+		<tr class="even_row">
+	  <td align="center" width="10">99</td>
+	  <td  width="10">195666 </td>
+	  <td><font color=red>深圳市</font>标准<font color=red>兄弟</font>缝制设备有限公司销售部</td>
+	</tr>
+		</table>
+
+</td>
+<td width=400px valign=top>
+<table>
+<tr class="even_row">
+  <td align="center"  width="10">0</td>
+  <td  width="10">64985 </td>
+  <td >深圳市兴科特电</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">1</td>
+  <td  width="10">159154 </td>
+  <td >深圳市星云宾馆</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">2</td>
+  <td  width="10">190609 </td>
+  <td >深圳市弦歌乐坊</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">3</td>
+  <td  width="10">153399 </td>
+  <td >深圳市新闻出版局</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">4</td>
+  <td  width="10">19905 </td>
+  <td >深圳市新居家装饰城</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">5</td>
+  <td  width="10">70842 </td>
+  <td >深圳市新银座桑拿城</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">6</td>
+  <td  width="10">146821 </td>
+  <td >深圳市信息网络中心</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">7</td>
+  <td  width="10">6370 </td>
+  <td >深圳市知识产权局</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">8</td>
+  <td  width="10">50673 </td>
+  <td >深圳市知识产权网</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">9</td>
+  <td  width="10">47581 </td>
+  <td >深圳市兴伟业电子有限公司总机空号</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">10</td>
+  <td  width="10">54081 </td>
+  <td >深圳市城市管理局坪山新区城管所</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">11</td>
+  <td  width="10">27418 </td>
+  <td >深圳市物业管理有限公司星湖花园</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">12</td>
+  <td  width="10">57403 </td>
+  <td >深圳市政府咨询投诉行政复议办公室</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">13</td>
+  <td  width="10">18069 </td>
+  <td >深圳市名雕装饰工程有限公司幸钙咧部</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">14</td>
+  <td  width="10">192538 </td>
+  <td >深圳市莲花二村幼儿园园长室助理室</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">15</td>
+  <td  width="10">12403 </td>
+  <td >深圳市深圳非与非凡视觉设计工作室</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">16</td>
+  <td  width="10">69886 </td>
+  <td >深圳市创业印章实业有限公司竹子林店四二三零八</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">17</td>
+  <td  width="10">163591 </td>
+  <td >深圳市政府咨询投诉深圳市人民政府行复议办公室</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">18</td>
+  <td  width="10">135507 </td>
+  <td >深圳市工商局南山分局深圳市物价局南山分局注册科</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">19</td>
+  <td  width="10">128292 </td>
+  <td >中港城管理处深圳市新华物业管理有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">20</td>
+  <td  width="10">96526 </td>
+  <td >水库新村管理处深圳市新村实业股份有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">21</td>
+  <td  width="10">161834 </td>
+  <td >深圳市中视信望科技有限公司销售部</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">22</td>
+  <td  width="10">78764 </td>
+  <td >深圳市西丽第二中学深圳市西丽第二中学</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">23</td>
+  <td  width="10">192302 </td>
+  <td >深圳市鑫加州电子厂深圳市鑫加州电子厂</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">24</td>
+  <td  width="10">125193 </td>
+  <td >维也纳酒店四星服务热线深圳市维也纳酒店有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">25</td>
+  <td  width="10">172852 </td>
+  <td >羽毛球馆频道福田区深圳市福田区上沙小学羽毛球馆</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">26</td>
+  <td  width="10">75984 </td>
+  <td >深圳市循环经济协会深圳市循环经济协会</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">27</td>
+  <td  width="10">184734 </td>
+  <td >深圳市科学技术协会深圳市科学技术协会</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">28</td>
+  <td  width="10">189752 </td>
+  <td >深圳市信息网络中心深圳市信息网络中心</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">29</td>
+  <td  width="10">78724 </td>
+  <td >深圳市北方大酒店三星深圳市北方大酒店三星</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">30</td>
+  <td  width="10">162080 </td>
+  <td >新世界文化发展有限公司深圳市新世界文化发展有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">31</td>
+  <td  width="10">187592 </td>
+  <td >深圳市喜上喜专卖店深圳市喜上喜实业有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">32</td>
+  <td  width="10">138582 </td>
+  <td >深圳市监理工程师协会深圳市监理工程师协会</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">33</td>
+  <td  width="10">50133 </td>
+  <td >深圳市欣图服饰有限公司深圳市欣图服饰公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">34</td>
+  <td  width="10">168450 </td>
+  <td >深圳市新华书店有限公司深圳市新华书店有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">35</td>
+  <td  width="10">96038 </td>
+  <td >深圳市翔升电子有限公司深圳市翔升电子有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">36</td>
+  <td  width="10">42342 </td>
+  <td >深圳市第一职业技术学校原名深圳市电子技术学校</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">37</td>
+  <td  width="10">106216 </td>
+  <td >深圳市新潮电器有限公司深圳市新潮电器有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">38</td>
+  <td  width="10">85465 </td>
+  <td >深圳市西子电梯有限公司即深圳市西奥电梯有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">39</td>
+  <td  width="10">142425 </td>
+  <td >深圳市西湖运输服务公司深圳市西湖运输服务公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">40</td>
+  <td  width="10">65774 </td>
+  <td >深圳市显赫科技有限公司深圳市显赫科技有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">41</td>
+  <td  width="10">115033 </td>
+  <td >深圳市贤泽投资有限公司深圳市贤泽投资有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">42</td>
+  <td  width="10">48651 </td>
+  <td >深圳市祥南置业有限公司深圳市祥南置业有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">43</td>
+  <td  width="10">183821 </td>
+  <td >深圳市世新科技有限公司深圳市世新科技有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">44</td>
+  <td  width="10">101683 </td>
+  <td >深圳市欣荣印刷有限公司深圳市欣荣印刷有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">45</td>
+  <td  width="10">2057 </td>
+  <td >深圳市香雅食品有限公司深圳市香雅食品有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">46</td>
+  <td  width="10">847 </td>
+  <td >深圳市兴利涂料有限公司深圳市兴利涂料有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">47</td>
+  <td  width="10">172178 </td>
+  <td >深圳市先科环保有限公司深圳市先科环保有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">48</td>
+  <td  width="10">115244 </td>
+  <td >深圳市星银医药有限公司深圳市星银医药有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">49</td>
+  <td  width="10">111672 </td>
+  <td >深圳市兴业汽车有限公司深圳市兴业汽车有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">50</td>
+  <td  width="10">42458 </td>
+  <td >深圳市恒盛新锐科技公司深圳市恒盛新锐科技公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">51</td>
+  <td  width="10">186357 </td>
+  <td >深圳市盛祥化工有限公司深圳市盛祥化工有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">52</td>
+  <td  width="10">95723 </td>
+  <td >深圳市兴亿实业有限公司深圳市兴亿实业有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">53</td>
+  <td  width="10">135693 </td>
+  <td >深圳市西冠贸易有限公司深圳市西冠贸易有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">54</td>
+  <td  width="10">91445 </td>
+  <td >深圳市新新人类婚姻介绍所深圳市新新人类婚介所</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">55</td>
+  <td  width="10">47491 </td>
+  <td >国家开发银行深圳市分行原名投资银行国家开发银行深圳市分行</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">56</td>
+  <td  width="10">196095 </td>
+  <td >深圳市公安局南山消防大队深圳市公安局南山消防大队</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">57</td>
+  <td  width="10">184266 </td>
+  <td >深圳市新三维电子有限公司深圳市新三维电子有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">58</td>
+  <td  width="10">1295 </td>
+  <td >深圳市新天源电子有限公司深圳市新天源电子有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">59</td>
+  <td  width="10">192573 </td>
+  <td >深圳市鑫晖源电子有限公司深圳市鑫晖源电子有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">60</td>
+  <td  width="10">26999 </td>
+  <td >深圳市兴锋达电子有限公司深圳市兴锋达电子有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">61</td>
+  <td  width="10">44593 </td>
+  <td >深圳市欣振声电子有限公司深圳市欣振声电子有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">62</td>
+  <td  width="10">71308 </td>
+  <td >深圳市兴汇湖实业有限公司深圳市鑫科铝氧化制品厂</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">63</td>
+  <td  width="10">193942 </td>
+  <td >深圳市兴汇湖实业有限公司深圳市兴汇湖实业有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">64</td>
+  <td  width="10">113610 </td>
+  <td >深圳市鑫颜泰齿轮有限公司深圳市鑫颜泰齿轮有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">65</td>
+  <td  width="10">39362 </td>
+  <td >深圳市星河国际健身俱乐部深圳市星河国际健身俱乐部</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">66</td>
+  <td  width="10">63176 </td>
+  <td >深圳市兴豪江纸品有限公司深圳市兴豪江纸品有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">67</td>
+  <td  width="10">185741 </td>
+  <td >深圳市心海湾投资有限公司深圳市心海湾投资有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">68</td>
+  <td  width="10">126221 </td>
+  <td >深圳市新视野广告有限公司深圳市新视野广告有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">69</td>
+  <td  width="10">89029 </td>
+  <td >深圳市兴日生实业有限公司深圳市兴日生实业有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">70</td>
+  <td  width="10">29518 </td>
+  <td >深圳市鑫凯鑫实业有限公司深圳市鑫凯鑫实业有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">71</td>
+  <td  width="10">177527 </td>
+  <td >深圳市新黑豹建材有限公司深圳市新黑豹建材有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">72</td>
+  <td  width="10">65300 </td>
+  <td >深圳市贤俊龙彩印有限公司深圳市贤俊龙彩印有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">73</td>
+  <td  width="10">184487 </td>
+  <td >深圳市新微数码科技有限公司深圳市新微视讯有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">74</td>
+  <td  width="10">32463 </td>
+  <td >深圳市兴源鼎新科技有限公司深圳市兴源鼎新科技有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">75</td>
+  <td  width="10">151255 </td>
+  <td >深圳市信义地产开发有限公司深圳市信义地产开发有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">76</td>
+  <td  width="10">42947 </td>
+  <td >深圳市沈鑫机电设备有限公司深圳市沈鑫机电设备有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">77</td>
+  <td  width="10">115934 </td>
+  <td >深圳市新天时代投资有限公司深圳市新天时代投资有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">78</td>
+  <td  width="10">124133 </td>
+  <td >深圳市西林电气技术有限公司深圳市西林电气技术有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">79</td>
+  <td  width="10">99104 </td>
+  <td >深圳市鑫科动力设备有限公司深圳市鑫科动力设备有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">80</td>
+  <td  width="10">16716 </td>
+  <td >深圳市治理深圳河办公室行政科深圳市治理深圳河办公室</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">81</td>
+  <td  width="10">193716 </td>
+  <td >深圳市行知职业技术学校办公室深圳市行知职业技术学校</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">82</td>
+  <td  width="10">17042 </td>
+  <td >深圳市新视线服饰有限公仓库深圳市新视线服饰有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">83</td>
+  <td  width="10">156730 </td>
+  <td >深圳市新怡海电子有限公司业务部深圳市新怡海电子有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">84</td>
+  <td  width="10">196472 </td>
+  <td >深圳市宝安职业技术学校总校深圳市宝安职业技术学校总校</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">85</td>
+  <td  width="10">30849 </td>
+  <td >深圳市西部城建工程有限公司深圳市西部城建工程有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">86</td>
+  <td  width="10">148503 </td>
+  <td >深圳市新领域职业培训中心总部深圳市新领域职业培训中心</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">87</td>
+  <td  width="10">107144 </td>
+  <td >深圳市信安投资咨询有限公司深圳市信安投资咨询有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">88</td>
+  <td  width="10">194329 </td>
+  <td >深圳市中航健身消闲有限公司深圳市中航健身消闲有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">89</td>
+  <td  width="10">174423 </td>
+  <td >深圳市豪恩声学股份有限公司深圳市豪恩声学股份有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">90</td>
+  <td  width="10">4357 </td>
+  <td >深圳市喜顺运输实业有限公司深圳市喜顺运输实业有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">91</td>
+  <td  width="10">75261 </td>
+  <td >深圳市西湖汽车服务有限公司深圳市西湖汽车服务有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">92</td>
+  <td  width="10">175178 </td>
+  <td >深圳市迅雷网络技术有限公司深圳市迅雷网络技术有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">93</td>
+  <td  width="10">24581 </td>
+  <td >深圳市香象科技发展有限公司深圳市香象科技发展有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">94</td>
+  <td  width="10">169403 </td>
+  <td >深圳市翔鹏宠物警犬训练学校深圳市翔鹏宠物警犬训练学校</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">95</td>
+  <td  width="10">116906 </td>
+  <td >深圳市恒盛新锐科技有限公司深圳市恒盛新锐科技有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">96</td>
+  <td  width="10">108765 </td>
+  <td >深圳市西部公共汽车有限公司深圳市西部公共汽车有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">97</td>
+  <td  width="10">88756 </td>
+  <td >深圳市喜联发工贸有限公司工厂深圳市喜联发工贸有限公司</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">98</td>
+  <td  width="10">141694 </td>
+  <td >深圳市新明发汽车维修护理中心深圳市新明发汽修护理中心</td>
+</tr>
+<tr class="even_row">
+  <td align="center"  width="10">99</td>
+  <td  width="10">173560 </td>
+  <td >深圳市新炬达科技发展有限公司深圳市新炬达科技发展有限公司</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--
+<table border="0" cellspacing="0" cellpadding="0" class="dataTable">
+<thead>
+<tr>
+<th width="6%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+<th width="35%" class="dataTableHeader"></th>
+<th width="6%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd_row">
+  <td>序号</td>
+  <td>ID </td>
+  <td>词条内容 </td>
+  <td>拼音 </td>
+  <td>类型</td>
+  <td>评分</td>
+</tr>
+<tr class="even_row">
+  <td align="center">3</td>
+  <td>190099 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>公司</td>
+  <td>szsxdgs</td>
+  <td nowrap>精确</td>
+  <td>261.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">4</td>
+  <td>148248 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>贸易公司</td>
+  <td>szsxdmygs</td>
+  <td nowrap>精确</td>
+  <td>256.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">5</td>
+  <td>172826 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>五金机械厂</td>
+  <td>szsxdwjjxc</td>
+  <td nowrap>精确</td>
+  <td>254</td>
+</tr>
+<tr class="even_row">
+  <td align="center">6</td>
+  <td>78595 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>机械设备厂</td>
+  <td>szsxdjxsbc</td>
+  <td nowrap>精确</td>
+  <td>254</td>
+</tr>
+<tr class="even_row">
+  <td align="center">7</td>
+  <td>10969 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>商贸有限公司</td>
+  <td>szsxdsmyxgs</td>
+  <td nowrap>精确</td>
+  <td>251.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">8</td>
+  <td>103747 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>电子工具经营部</td>
+  <td>szsxddzgjjyb</td>
+  <td nowrap>精确</td>
+  <td>249</td>
+</tr>
+<tr class="even_row">
+  <td align="center">9</td>
+  <td>73774 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>环保机械设备厂</td>
+  <td>szsxdhbjxsbc</td>
+  <td nowrap>精确</td>
+  <td>249</td>
+</tr>
+<tr class="even_row">
+  <td align="center">10</td>
+  <td>86083 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>环保科技服务公司</td>
+  <td>szsxdhbkjfwgs</td>
+  <td nowrap>精确</td>
+  <td>246.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">11</td>
+  <td>108667 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>实业有限公司销售部</td>
+  <td>szsxdsyyxgsxsb</td>
+  <td nowrap>精确</td>
+  <td>244</td>
+</tr>
+<tr class="even_row">
+  <td align="center">12</td>
+  <td>122990 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>体育运动制品有限公司</td>
+  <td>szsxdtyydzpyxgs</td>
+  <td nowrap>精确</td>
+  <td>241.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">13</td>
+  <td>133168 </td>
+  <td nowrap><font color=red>深圳市</font>龙岗区<font color=red>鑫达</font>塑胶制品厂</td>
+  <td>szslgqxdsjzpc</td>
+  <td nowrap>精确</td>
+  <td>216.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">14</td>
+  <td>25619 </td>
+  <td nowrap><font color=red>深圳市</font>联合<font color=red>鑫达</font>塑胶制品有限公司</td>
+  <td>szslhxdsjzpyxgs</td>
+  <td nowrap>精确</td>
+  <td>211.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">15</td>
+  <td>4445 </td>
+  <td nowrap><font color=red>深圳市</font>宝安区福永镇<font color=red>鑫达</font>五金制品厂</td>
+  <td>szsbaqfyzxdwjzpc</td>
+  <td nowrap>精确</td>
+  <td>209</td>
+</tr>
+<tr class="even_row">
+  <td align="center">16</td>
+  <td>67636 </td>
+  <td nowrap><font color=red>深圳市</font>宝安区大浪<font color=red>鑫达</font>皮具手袋制品厂</td>
+  <td>szsbaqdlxdpjsdzpc</td>
+  <td nowrap>精确</td>
+  <td>206.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">17</td>
+  <td>116243 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>镶石厂</td>
+  <td>szsxdxsc</td>
+  <td nowrap>精确</td>
+  <td>204</td>
+</tr>
+<tr class="even_row">
+  <td align="center">18</td>
+  <td>196675 </td>
+  <td nowrap><font color=red>深圳市</font>联合<font color=red>鑫达</font>塑胶制品有限公司业务开发部</td>
+  <td>szslhxdsjzpyxgsywkfb</td>
+  <td nowrap>精确</td>
+  <td>199</td>
+</tr>
+<tr class="even_row">
+  <td align="center">19</td>
+  <td>4313 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>顺电子有限公司</td>
+  <td>szsxdsdzyxgs</td>
+  <td nowrap>精确</td>
+  <td>194</td>
+</tr>
+<tr class="even_row">
+  <td align="center">20</td>
+  <td>50452 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>利电子有限公司</td>
+  <td>szsxdldzyxgs</td>
+  <td nowrap>精确</td>
+  <td>194</td>
+</tr>
+<tr class="even_row">
+  <td align="center">21</td>
+  <td>23300 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>辉包装材料制品厂</td>
+  <td>szsxdhbzclzpc</td>
+  <td nowrap>精确</td>
+  <td>191.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">22</td>
+  <td>80543 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>兴电热器具有限公司</td>
+  <td>szsxdxdrqjyxgs</td>
+  <td nowrap>精确</td>
+  <td>189</td>
+</tr>
+<tr class="even_row">
+  <td align="center">23</td>
+  <td>164566 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>通汽车租赁有限公司</td>
+  <td>szsxdtqczlyxgs</td>
+  <td nowrap>精确</td>
+  <td>189</td>
+</tr>
+<tr class="even_row">
+  <td align="center">24</td>
+  <td>74627 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>辉软性电路有限公司</td>
+  <td>szsxdhrxdlyxgs</td>
+  <td nowrap>精确</td>
+  <td>189</td>
+</tr>
+<tr class="even_row">
+  <td align="center">25</td>
+  <td>9661 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>莱科技有限公司业务部</td>
+  <td>szsxdlkjyxgsywb</td>
+  <td nowrap>精确</td>
+  <td>186.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">26</td>
+  <td>118142 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>莱科技有限公司深圳分公司</td>
+  <td>szsxdlkjyxgsszfgs</td>
+  <td nowrap>精确</td>
+  <td>181.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">27</td>
+  <td>107534 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>域通讯科技有限公司转八一一九</td>
+  <td>szsxdytxkjyxgszbyyj</td>
+  <td nowrap>精确</td>
+  <td>176.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">28</td>
+  <td>14752 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>鑫达</font>辉软性电路科技有限公司销售部</td>
+  <td>szsxdhrxdlkjyxgsxsb</td>
+  <td nowrap>精确</td>
+  <td>176.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">29</td>
+  <td>136148 </td>
+  <td nowrap><font color=red>深圳市</font>三<font color=red>鑫达</font>电子科技有限公司</td>
+  <td>szssxddzkjyxgs</td>
+  <td nowrap>精确</td>
+  <td>159</td>
+</tr>
+<tr class="even_row">
+  <td align="center">30</td>
+  <td>1461 </td>
+  <td nowrap><font color=red>深圳市</font>盛<font color=red>鑫达</font>机械设备有限公司</td>
+  <td>szssxdjxsbyxgs</td>
+  <td nowrap>精确</td>
+  <td>159</td>
+</tr>
+<tr class="even_row">
+  <td align="center">31</td>
+  <td>117384 </td>
+  <td nowrap><font color=red>深圳市</font>奇<font color=red>鑫达</font>电子有限公司销售部</td>
+  <td>szsqxddzyxgsxsb</td>
+  <td nowrap>精确</td>
+  <td>156.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">32</td>
+  <td>100560 </td>
+  <td nowrap><font color=red>深圳市</font>宝安区西乡森<font color=red>鑫达</font>绝缘制品厂</td>
+  <td>szsbaqxxsxdjyzpc</td>
+  <td nowrap>精确</td>
+  <td>154</td>
+</tr>
+<tr class="even_row">
+  <td align="center">33</td>
+  <td>97891 </td>
+  <td nowrap><font color=red>深圳市</font>宝安区石岩盛<font color=red>鑫达</font>五金电热制品商行</td>
+  <td>szsbaqsysxdwjdrzpsh</td>
+  <td nowrap>精确</td>
+  <td>146.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">34</td>
+  <td>36516 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>琴行</td>
+  <td>szsxdqx</td>
+  <td nowrap>精确</td>
+  <td>261.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">35</td>
+  <td>167780 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>印刷厂</td>
+  <td>szsxdysc</td>
+  <td nowrap>精确</td>
+  <td>259</td>
+</tr>
+<tr class="even_row">
+  <td align="center">36</td>
+  <td>65877 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>外贸公司</td>
+  <td>szsxdwmgs</td>
+  <td nowrap>精确</td>
+  <td>256.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">37</td>
+  <td>132211 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>演艺中心</td>
+  <td>szsxdyyzx</td>
+  <td nowrap>精确</td>
+  <td>256.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">38</td>
+  <td>141865 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>牙科器材公司</td>
+  <td>szsxdykqcgs</td>
+  <td nowrap>精确</td>
+  <td>251.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">39</td>
+  <td>155868 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>广告有限公司</td>
+  <td>szsxdggyxgs</td>
+  <td nowrap>精确</td>
+  <td>251.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">40</td>
+  <td>6309 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>窗帘有限公司</td>
+  <td>szsxdclyxgs</td>
+  <td nowrap>精确</td>
+  <td>251.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">41</td>
+  <td>86355 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>职业培训学校</td>
+  <td>szsxdzypxxx</td>
+  <td nowrap>精确</td>
+  <td>251.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">42</td>
+  <td>135715 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>计算机有限公司</td>
+  <td>szsxdjsjyxgs</td>
+  <td nowrap>精确</td>
+  <td>249</td>
+</tr>
+<tr class="even_row">
+  <td align="center">43</td>
+  <td>136635 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>厨具设备有限公司</td>
+  <td>szsxdcjsbyxgs</td>
+  <td nowrap>精确</td>
+  <td>246.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">44</td>
+  <td>128099 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>办公耗材有限公司</td>
+  <td>szsxdbghcyxgs</td>
+  <td nowrap>精确</td>
+  <td>246.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">45</td>
+  <td>162113 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>清洁服务有限公司</td>
+  <td>szsxdqjfwyxgs</td>
+  <td nowrap>精确</td>
+  <td>246.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">46</td>
+  <td>90957 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>汽车贸易有限公司</td>
+  <td>szsxdqcmyyxgs</td>
+  <td nowrap>精确</td>
+  <td>246.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">47</td>
+  <td>141627 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>装饰杂志社有限公司</td>
+  <td>szsxdzszzsyxgs</td>
+  <td nowrap>精确</td>
+  <td>244</td>
+</tr>
+<tr class="even_row">
+  <td align="center">48</td>
+  <td>184897 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>世界钟表精品有限公司</td>
+  <td>szsxdsjzbjpyxgs</td>
+  <td nowrap>精确</td>
+  <td>241.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">49</td>
+  <td>141374 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>知识产权咨询有限公司</td>
+  <td>szsxdzscqzxyxgs</td>
+  <td nowrap>精确</td>
+  <td>241.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">50</td>
+  <td>166293 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>塑胶包装制品有限公司</td>
+  <td>szsxdsjbzzpyxgs</td>
+  <td nowrap>精确</td>
+  <td>241.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">51</td>
+  <td>163802 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>专业化妆品美容培训学校</td>
+  <td>szsxdzyhzpmrpxxx</td>
+  <td nowrap>精确</td>
+  <td>239</td>
+</tr>
+<tr class="even_row">
+  <td align="center">52</td>
+  <td>196964 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>贸易有限公司韩国<font color=red>现代</font>汽车四s店</td>
+  <td>szsxdmyyxgshgxdqcssd</td>
+  <td nowrap>精确</td>
+  <td>229</td>
+</tr>
+<tr class="even_row">
+  <td align="center">53</td>
+  <td>109001 </td>
+  <td nowrap><font color=red>深圳市</font>宝安区龙华<font color=red>现代</font>精密五金厂</td>
+  <td>szsbaqlhxdjmwjc</td>
+  <td nowrap>精确</td>
+  <td>211.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">54</td>
+  <td>142879 </td>
+  <td nowrap><font color=red>深圳市</font>宝安区公明<font color=red>现代</font>吸塑包装厂</td>
+  <td>szsbaqgmxdxsbzc</td>
+  <td nowrap>精确</td>
+  <td>211.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">55</td>
+  <td>112055 </td>
+  <td nowrap><font color=red>深圳市</font>宝安区<font color=red>现代</font>机电技术培训学校</td>
+  <td>szsbaqxdjdjspxxx</td>
+  <td nowrap>精确</td>
+  <td>209</td>
+</tr>
+<tr class="even_row">
+  <td align="center">56</td>
+  <td>52642 </td>
+  <td nowrap><font color=red>现代</font>国际大厦管理处<font color=red>深圳市</font><font color=red>现代</font>联行物业管理有限公司</td>
+  <td>xdgjdsglcszsxdlxwyglyxgs</td>
+  <td nowrap>精确</td>
+  <td>203</td>
+</tr>
+<tr class="even_row">
+  <td align="center">57</td>
+  <td>176962 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>轻音乐团</td>
+  <td>szsxdqyyt</td>
+  <td nowrap>精确</td>
+  <td>201.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">58</td>
+  <td>117849 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>唐装服装厂</td>
+  <td>szsxdtzfzc</td>
+  <td nowrap>精确</td>
+  <td>199</td>
+</tr>
+<tr class="even_row">
+  <td align="center">59</td>
+  <td>178532 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>时空有限公司</td>
+  <td>szsxdskyxgs</td>
+  <td nowrap>精确</td>
+  <td>196.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">60</td>
+  <td>62756 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>壹办公用品商场</td>
+  <td>szsxdybgypsc</td>
+  <td nowrap>精确</td>
+  <td>194</td>
+</tr>
+<tr class="even_row">
+  <td align="center">61</td>
+  <td>132532 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>宝实业有限公司</td>
+  <td>szsxdbsyyxgs</td>
+  <td nowrap>精确</td>
+  <td>194</td>
+</tr>
+<tr class="even_row">
+  <td align="center">62</td>
+  <td>20827 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>创奇电子有限公司</td>
+  <td>szsxdcqdzyxgs</td>
+  <td nowrap>精确</td>
+  <td>191.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">63</td>
+  <td>119510 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>唐彩服饰有限公司</td>
+  <td>szsxdtcfsyxgs</td>
+  <td nowrap>精确</td>
+  <td>191.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">64</td>
+  <td>74956 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>展拓科技有限公司</td>
+  <td>szsxdztkjyxgs</td>
+  <td nowrap>精确</td>
+  <td>191.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">65</td>
+  <td>40377 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>东科机械有限公司</td>
+  <td>szsxddkjxyxgs</td>
+  <td nowrap>精确</td>
+  <td>191.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">66</td>
+  <td>118008 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>三力机电有限公司</td>
+  <td>szsxdsljdyxgs</td>
+  <td nowrap>精确</td>
+  <td>191.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">67</td>
+  <td>47714 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>豪方科技有限公司</td>
+  <td>szsxdhfkjyxgs</td>
+  <td nowrap>精确</td>
+  <td>191.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">68</td>
+  <td>167803 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>人科技开发有限公司</td>
+  <td>szsxdrkjkfyxgs</td>
+  <td nowrap>精确</td>
+  <td>189</td>
+</tr>
+<tr class="even_row">
+  <td align="center">69</td>
+  <td>117871 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>风家具制造有限公司</td>
+  <td>szsxdfjjzzyxgs</td>
+  <td nowrap>精确</td>
+  <td>189</td>
+</tr>
+<tr class="even_row">
+  <td align="center">70</td>
+  <td>196938 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>元素量贩式k歌广场</td>
+  <td>szsxdyslfskggc</td>
+  <td nowrap>精确</td>
+  <td>189</td>
+</tr>
+<tr class="even_row">
+  <td align="center">71</td>
+  <td>24901 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>园物业管理有限公司</td>
+  <td>szsxdywyglyxgs</td>
+  <td nowrap>精确</td>
+  <td>189</td>
+</tr>
+<tr class="even_row">
+  <td align="center">72</td>
+  <td>146140 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>万联投资发展有限公司</td>
+  <td>szsxdmltzfzyxgs</td>
+  <td nowrap>精确</td>
+  <td>186.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">73</td>
+  <td>46543 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>光侨玻璃钢家俱有限公司</td>
+  <td>szsxdgqblgjjyxgs</td>
+  <td nowrap>精确</td>
+  <td>184</td>
+</tr>
+<tr class="even_row">
+  <td align="center">74</td>
+  <td>74483 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>经典婚纱摄影有限公司总部</td>
+  <td>szsxdjdhssyyxgszb</td>
+  <td nowrap>精确</td>
+  <td>181.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">75</td>
+  <td>197163 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>贸易有限公司韩国<font color=red>现代</font>汽车四s店<font color=red>深圳市</font><font color=red>现代</font>贸易有限公司韩国<font color=red>现代</font>汽车四s店</td>
+  <td>szsxdmyyxgshgxdqcssdszsxdmyyxgshgxdqcssd</td>
+  <td nowrap>精确</td>
+  <td>179</td>
+</tr>
+<tr class="even_row">
+  <td align="center">76</td>
+  <td>187157 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>光侨玻璃钢家俱有限公司经营部</td>
+  <td>szsxdgqblgjjyxgsjyb</td>
+  <td nowrap>精确</td>
+  <td>176.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">77</td>
+  <td>197659 </td>
+  <td nowrap><font color=red>深圳市</font>新力达新亚汽车贸易有限公司北京<font color=red>现代</font>汽车新力达四s店龙岗店</td>
+  <td>szsxldxyqcmyyxgsbjxdqcxldssdlgd</td>
+  <td nowrap>精确</td>
+  <td>171.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">78</td>
+  <td>154993 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>现代</font>城房地产开发有限公司梦想家园售楼处</td>
+  <td>szsxdcfdckfyxgsmxjyslc</td>
+  <td nowrap>精确</td>
+  <td>169</td>
+</tr>
+<tr class="even_row">
+  <td align="center">79</td>
+  <td>90077 </td>
+  <td nowrap><font color=red>深圳市</font>理尚<font color=red>现代</font>科技有限公司</td>
+  <td>szslsxdkjyxgs</td>
+  <td nowrap>精确</td>
+  <td>161.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">80</td>
+  <td>198261 </td>
+  <td nowrap><font color=red>深圳市</font>新力达新亚汽车贸易有限公司北京<font color=red>现代</font>汽车新力达四s店龙岗店售后热线</td>
+  <td>szsxldxyqcmyyxgsbjxdqcxldssdlgdshrx</td>
+  <td nowrap>精确</td>
+  <td>161.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">81</td>
+  <td>39900 </td>
+  <td nowrap><font color=red>深圳市</font>雄皓<font color=red>现代</font>科技有限公司销售部</td>
+  <td>szsxhxdkjyxgsxsb</td>
+  <td nowrap>精确</td>
+  <td>154</td>
+</tr>
+<tr class="even_row">
+  <td align="center">82</td>
+  <td>119620 </td>
+  <td nowrap><font color=red>深圳市</font>福田区高斯<font color=red>现代</font>办公用品经营部</td>
+  <td>szsftqgsxdbgypjyb</td>
+  <td nowrap>精确</td>
+  <td>151.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">83</td>
+  <td>127856 </td>
+  <td nowrap><font color=red>深圳市</font>家家顺房产交易有限公司<font color=red>现代</font>城华庭点</td>
+  <td>szsjjsfcjyyxgsxdchtd</td>
+  <td nowrap>精确</td>
+  <td>144</td>
+</tr>
+<tr class="even_row">
+  <td align="center">84</td>
+  <td>189765 </td>
+  <td nowrap><font color=red>深圳市</font>创见<font color=red>现代</font>电器有限公司<font color=red>深圳市</font>创见<font color=red>现代</font>电器有限公司</td>
+  <td>szscjxddqyxgsszscjxddqyxgs</td>
+  <td nowrap>精确</td>
+  <td>129</td>
+</tr>
+<tr class="even_row">
+  <td align="center">85</td>
+  <td>2856 </td>
+  <td nowrap>天健<font color=red>现代</font>城售楼处<font color=red>深圳市</font>天健龙岗房地产开发有限公司天健<font color=red>现代</font>城售楼处<font color=red>深圳市</font>天健龙岗房地产开发有限公司</td>
+  <td>tjxdcslcszstjlgfdckfyxgstjxdcslcszstjlgfdckfyxgs</td>
+  <td nowrap>精确</td>
+  <td>74</td>
+</tr>
+<tr class="even_row">
+  <td align="center">86</td>
+  <td>31854 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>公司</td>
+  <td>szsxdgs</td>
+  <td nowrap>精确</td>
+  <td>261.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">87</td>
+  <td>113456 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>蔬菜行</td>
+  <td>szsxdsch</td>
+  <td nowrap>精确</td>
+  <td>259</td>
+</tr>
+<tr class="even_row">
+  <td align="center">88</td>
+  <td>175402 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>机械有限公司</td>
+  <td>szsxdjxyxgs</td>
+  <td nowrap>精确</td>
+  <td>251.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">89</td>
+  <td>115740 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>科技有限公司</td>
+  <td>szsxdkjyxgs</td>
+  <td nowrap>精确</td>
+  <td>251.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">90</td>
+  <td>170050 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>电子有限公司</td>
+  <td>szsxddzyxgs</td>
+  <td nowrap>精确</td>
+  <td>251.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">91</td>
+  <td>148630 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>硅橡胶制品厂</td>
+  <td>szsxdgxjzpc</td>
+  <td nowrap>精确</td>
+  <td>251.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">92</td>
+  <td>164132 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>信息技术工作室</td>
+  <td>szsxdxxjsgzs</td>
+  <td nowrap>精确</td>
+  <td>249</td>
+</tr>
+<tr class="even_row">
+  <td align="center">93</td>
+  <td>87376 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>制冰系统有限公司</td>
+  <td>szsxdzbxtyxgs</td>
+  <td nowrap>精确</td>
+  <td>246.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">94</td>
+  <td>155743 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>包装材料有限公司</td>
+  <td>szsxdbzclyxgs</td>
+  <td nowrap>精确</td>
+  <td>246.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">95</td>
+  <td>12032 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>投资发展有限公司</td>
+  <td>szsxdtzfzyxgs</td>
+  <td nowrap>精确</td>
+  <td>246.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">96</td>
+  <td>18027 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>家居有限公司外贸部</td>
+  <td>szsxdjjyxgswmb</td>
+  <td nowrap>精确</td>
+  <td>244</td>
+</tr>
+<tr class="even_row">
+  <td align="center">97</td>
+  <td>30744 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>家居有限公司业务部</td>
+  <td>szsxdjjyxgsywb</td>
+  <td nowrap>精确</td>
+  <td>244</td>
+</tr>
+<tr class="even_row">
+  <td align="center">98</td>
+  <td>35614 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>能源有限公司市场部</td>
+  <td>szsxdnyyxgsscb</td>
+  <td nowrap>精确</td>
+  <td>244</td>
+</tr>
+<tr class="even_row">
+  <td align="center">99</td>
+  <td>80622 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>标准缝纫设备有限公司</td>
+  <td>szsxdbzfrsbyxgs</td>
+  <td nowrap>精确</td>
+  <td>241.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">100</td>
+  <td>185711 </td>
+  <td nowrap><font color=red>深圳市</font><font color=red>兄弟</font>制冰系统有限公司销售部</td>
+  <td>szsxdzbxtyxgsxsb</td>
+  <td nowrap>精确</td>
+  <td>239</td>
+</tr>
+<tr class="even_row">
+  <td align="center">101</td>
+  <td>112002 </td>
+  <td nowrap><font color=red>深圳市</font>金宝<font color=red>兄弟</font>纸业有限公司</td>
+  <td>szsjbxdzyyxgs</td>
+  <td nowrap>精确</td>
+  <td>216.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">102</td>
+  <td>195666 </td>
+  <td nowrap><font color=red>深圳市</font>标准<font color=red>兄弟</font>缝制设备有限公司销售部</td>
+  <td>szsbzxdfzsbyxgsxsb</td>
+  <td nowrap>精确</td>
+  <td>204</td>
+</tr>
+
+<tr>
+<th width="6%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+<th width="35%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+<th width="13%" class="dataTableHeader"></th>
+</tr>
+<tr class="even_row">
+  <td align="center">810</td>
+  <td>64985 </td>
+  <td>深圳市兴科特电</td>
+  <td nowrap>szsxktd</td>
+  <td>模糊</td>
+  <td>189</td>
+</tr>
+<tr class="even_row">
+  <td align="center">811</td>
+  <td>159154 </td>
+  <td>深圳市星云宾馆</td>
+  <td nowrap>szsxybg</td>
+  <td>模糊</td>
+  <td>181</td>
+</tr>
+<tr class="even_row">
+  <td align="center">812</td>
+  <td>190609 </td>
+  <td>深圳市弦歌乐坊</td>
+  <td nowrap>szsxglf</td>
+  <td>模糊</td>
+  <td>181</td>
+</tr>
+<tr class="even_row">
+  <td align="center">813</td>
+  <td>153399 </td>
+  <td>深圳市新闻出版局</td>
+  <td nowrap>szsxwcbj</td>
+  <td>模糊</td>
+  <td>180</td>
+</tr>
+<tr class="even_row">
+  <td align="center">814</td>
+  <td>19905 </td>
+  <td>深圳市新居家装饰城</td>
+  <td nowrap>szsxjjzsc</td>
+  <td>模糊</td>
+  <td>178.4</td>
+</tr>
+<tr class="even_row">
+  <td align="center">815</td>
+  <td>70842 </td>
+  <td>深圳市新银座桑拿城</td>
+  <td nowrap>szsxyzsnc</td>
+  <td>模糊</td>
+  <td>178.4</td>
+</tr>
+<tr class="even_row">
+  <td align="center">816</td>
+  <td>146821 </td>
+  <td>深圳市信息网络中心</td>
+  <td nowrap>szsxxwlzx</td>
+  <td>模糊</td>
+  <td>178.4</td>
+</tr>
+<tr class="even_row">
+  <td align="center">817</td>
+  <td>6370 </td>
+  <td>深圳市知识产权局</td>
+  <td nowrap>szszscqj</td>
+  <td>模糊</td>
+  <td>173</td>
+</tr>
+<tr class="even_row">
+  <td align="center">818</td>
+  <td>50673 </td>
+  <td>深圳市知识产权网</td>
+  <td nowrap>szszscqw</td>
+  <td>模糊</td>
+  <td>173</td>
+</tr>
+<tr class="even_row">
+  <td align="center">820</td>
+  <td>47581 </td>
+  <td>深圳市兴伟业电子有限公司总机空号</td>
+  <td nowrap>szsxwydzyxgszjkh</td>
+  <td>模糊</td>
+  <td>166.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">821</td>
+  <td>54081 </td>
+  <td>深圳市城市管理局坪山新区城管所</td>
+  <td nowrap>szscsgljpsxqcgs</td>
+  <td>模糊</td>
+  <td>165.363636363636</td>
+</tr>
+<tr class="even_row">
+  <td align="center">822</td>
+  <td>27418 </td>
+  <td>深圳市物业管理有限公司星湖花园</td>
+  <td nowrap>szswyglyxgsxhhy</td>
+  <td>模糊</td>
+  <td>165.363636363636</td>
+</tr>
+<tr class="even_row">
+  <td align="center">823</td>
+  <td>57403 </td>
+  <td>深圳市政府咨询投诉行政复议办公室</td>
+  <td nowrap>szszfzxtsxzfybgs</td>
+  <td>模糊</td>
+  <td>163</td>
+</tr>
+<tr class="even_row">
+  <td align="center">824</td>
+  <td>18069 </td>
+  <td>深圳市名雕装饰工程有限公司幸钙咧部</td>
+  <td nowrap>szsmdzsgcyxgsxglb</td>
+  <td>模糊</td>
+  <td>160.615384615385</td>
+</tr>
+<tr class="even_row">
+  <td align="center">825</td>
+  <td>192538 </td>
+  <td>深圳市莲花二村幼儿园园长室助理室</td>
+  <td nowrap>szslhecyeyyzszls</td>
+  <td>模糊</td>
+  <td>159.333333333333</td>
+</tr>
+<tr class="even_row">
+  <td align="center">826</td>
+  <td>12403 </td>
+  <td>深圳市深圳非与非凡视觉设计工作室</td>
+  <td nowrap>szsszfyffsjsjgzs</td>
+  <td>模糊</td>
+  <td>159.333333333333</td>
+</tr>
+<tr class="even_row">
+  <td align="center">827</td>
+  <td>69886 </td>
+  <td>深圳市创业印章实业有限公司竹子林店四二三零八</td>
+  <td nowrap>szscyyzsyyxgszzldseslb</td>
+  <td>模糊</td>
+  <td>151.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">828</td>
+  <td>163591 </td>
+  <td>深圳市政府咨询投诉深圳市人民政府行复议办公室</td>
+  <td nowrap>szszfzxtsszsrmzfhfybgs</td>
+  <td>模糊</td>
+  <td>148.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">829</td>
+  <td>135507 </td>
+  <td>深圳市工商局南山分局深圳市物价局南山分局注册科</td>
+  <td nowrap>szsgsjnsfjszswjjnsfjzck</td>
+  <td>模糊</td>
+  <td>143</td>
+</tr>
+<tr class="even_row">
+  <td align="center">830</td>
+  <td>128292 </td>
+  <td>中港城管理处深圳市新华物业管理有限公司</td>
+  <td nowrap>zgcglcszsxhwyglyxgs</td>
+  <td>模糊</td>
+  <td>136.8</td>
+</tr>
+<tr class="even_row">
+  <td align="center">831</td>
+  <td>96526 </td>
+  <td>水库新村管理处深圳市新村实业股份有限公司</td>
+  <td nowrap>skxcglcszsxcsygfyxgs</td>
+  <td>模糊</td>
+  <td>134.375</td>
+</tr>
+<tr class="even_row">
+  <td align="center">832</td>
+  <td>161834 </td>
+  <td>深圳市中视信望科技有限公司销售部</td>
+  <td nowrap>szszsxwkjyxgsxsb</td>
+  <td>模糊</td>
+  <td>129.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">833</td>
+  <td>78764 </td>
+  <td>深圳市西丽第二中学深圳市西丽第二中学</td>
+  <td nowrap>szsxldezxszsxldezx</td>
+  <td>模糊</td>
+  <td>128</td>
+</tr>
+<tr class="even_row">
+  <td align="center">834</td>
+  <td>192302 </td>
+  <td>深圳市鑫加州电子厂深圳市鑫加州电子厂</td>
+  <td nowrap>szsxjzdzcszsxjzdzc</td>
+  <td>模糊</td>
+  <td>128</td>
+</tr>
+<tr class="even_row">
+  <td align="center">835</td>
+  <td>125193 </td>
+  <td>维也纳酒店四星服务热线深圳市维也纳酒店有限公司</td>
+  <td nowrap>wynjdsxfwrxszswynjdyxgs</td>
+  <td>模糊</td>
+  <td>127.052631578947</td>
+</tr>
+<tr class="even_row">
+  <td align="center">836</td>
+  <td>172852 </td>
+  <td>羽毛球馆频道福田区深圳市福田区上沙小学羽毛球馆</td>
+  <td nowrap>ymqgpdftqszsftqssxxymqg</td>
+  <td>模糊</td>
+  <td>127.052631578947</td>
+</tr>
+<tr class="even_row">
+  <td align="center">837</td>
+  <td>75984 </td>
+  <td>深圳市循环经济协会深圳市循环经济协会</td>
+  <td nowrap>szsxhjjxhszsxhjjxh</td>
+  <td>模糊</td>
+  <td>124.714285714286</td>
+</tr>
+<tr class="even_row">
+  <td align="center">838</td>
+  <td>184734 </td>
+  <td>深圳市科学技术协会深圳市科学技术协会</td>
+  <td nowrap>szskxjsxhszskxjsxh</td>
+  <td>模糊</td>
+  <td>124.714285714286</td>
+</tr>
+<tr class="even_row">
+  <td align="center">839</td>
+  <td>189752 </td>
+  <td>深圳市信息网络中心深圳市信息网络中心</td>
+  <td nowrap>szsxxwlzxszsxxwlzx</td>
+  <td>模糊</td>
+  <td>124.714285714286</td>
+</tr>
+<tr class="even_row">
+  <td align="center">840</td>
+  <td>78724 </td>
+  <td>深圳市北方大酒店三星深圳市北方大酒店三星</td>
+  <td nowrap>szsbfdjdsxszsbfdjdsx</td>
+  <td>模糊</td>
+  <td>123</td>
+</tr>
+<tr class="even_row">
+  <td align="center">841</td>
+  <td>162080 </td>
+  <td>新世界文化发展有限公司深圳市新世界文化发展有限公司</td>
+  <td nowrap>xsjwhfzyxgsszsxsjwhfzyxgs</td>
+  <td>模糊</td>
+  <td>122.142857142857</td>
+</tr>
+<tr class="even_row">
+  <td align="center">842</td>
+  <td>187592 </td>
+  <td>深圳市喜上喜专卖店深圳市喜上喜实业有限公司</td>
+  <td nowrap>szsxsxzmdszsxsxsyyxgs</td>
+  <td>模糊</td>
+  <td>120.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">843</td>
+  <td>138582 </td>
+  <td>深圳市监理工程师协会深圳市监理工程师协会</td>
+  <td nowrap>szsjlgcsxhszsjlgcsxh</td>
+  <td>模糊</td>
+  <td>119.875</td>
+</tr>
+<tr class="even_row">
+  <td align="center">844</td>
+  <td>50133 </td>
+  <td>深圳市欣图服饰有限公司深圳市欣图服饰公司</td>
+  <td nowrap>szsxtfsyxgsszsxtfsgs</td>
+  <td>模糊</td>
+  <td>119.875</td>
+</tr>
+<tr class="even_row">
+  <td align="center">845</td>
+  <td>168450 </td>
+  <td>深圳市新华书店有限公司深圳市新华书店有限公司</td>
+  <td nowrap>szsxhsdyxgsszsxhsdyxgs</td>
+  <td>模糊</td>
+  <td>118</td>
+</tr>
+<tr class="even_row">
+  <td align="center">846</td>
+  <td>96038 </td>
+  <td>深圳市翔升电子有限公司深圳市翔升电子有限公司</td>
+  <td nowrap>szsxsdzyxgsszsxsdzyxgs</td>
+  <td>模糊</td>
+  <td>118</td>
+</tr>
+<tr class="even_row">
+  <td align="center">847</td>
+  <td>42342 </td>
+  <td>深圳市第一职业技术学校原名深圳市电子技术学校</td>
+  <td nowrap>szsdyzyjsxxymszsdzjsxx</td>
+  <td>模糊</td>
+  <td>118</td>
+</tr>
+<tr class="even_row">
+  <td align="center">848</td>
+  <td>106216 </td>
+  <td>深圳市新潮电器有限公司深圳市新潮电器有限公司</td>
+  <td nowrap>szsxcdqyxgsszsxcdqyxgs</td>
+  <td>模糊</td>
+  <td>118</td>
+</tr>
+<tr class="even_row">
+  <td align="center">849</td>
+  <td>85465 </td>
+  <td>深圳市西子电梯有限公司即深圳市西奥电梯有限公司</td>
+  <td nowrap>szsxzdtyxgsjszsxadtyxgs</td>
+  <td>模糊</td>
+  <td>115.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">850</td>
+  <td>142425 </td>
+  <td>深圳市西湖运输服务公司深圳市西湖运输服务公司</td>
+  <td nowrap>szsxhysfwgsszsxhysfwgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">851</td>
+  <td>65774 </td>
+  <td>深圳市显赫科技有限公司深圳市显赫科技有限公司</td>
+  <td nowrap>szsxhkjyxgsszsxhkjyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">852</td>
+  <td>115033 </td>
+  <td>深圳市贤泽投资有限公司深圳市贤泽投资有限公司</td>
+  <td nowrap>szsxztzyxgsszsxztzyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">853</td>
+  <td>48651 </td>
+  <td>深圳市祥南置业有限公司深圳市祥南置业有限公司</td>
+  <td nowrap>szsxnzyyxgsszsxnzyyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">854</td>
+  <td>183821 </td>
+  <td>深圳市世新科技有限公司深圳市世新科技有限公司</td>
+  <td nowrap>szssxkjyxgsszssxkjyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">855</td>
+  <td>101683 </td>
+  <td>深圳市欣荣印刷有限公司深圳市欣荣印刷有限公司</td>
+  <td nowrap>szsxrysyxgsszsxrysyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">856</td>
+  <td>2057 </td>
+  <td>深圳市香雅食品有限公司深圳市香雅食品有限公司</td>
+  <td nowrap>szsxyspyxgsszsxyspyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">857</td>
+  <td>847 </td>
+  <td>深圳市兴利涂料有限公司深圳市兴利涂料有限公司</td>
+  <td nowrap>szsxltlyxgsszsxltlyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">858</td>
+  <td>172178 </td>
+  <td>深圳市先科环保有限公司深圳市先科环保有限公司</td>
+  <td nowrap>szsxkhbyxgsszsxkhbyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">859</td>
+  <td>115244 </td>
+  <td>深圳市星银医药有限公司深圳市星银医药有限公司</td>
+  <td nowrap>szsxyyyyxgsszsxyyyyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">860</td>
+  <td>111672 </td>
+  <td>深圳市兴业汽车有限公司深圳市兴业汽车有限公司</td>
+  <td nowrap>szsxyqcyxgsszsxyqcyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">861</td>
+  <td>42458 </td>
+  <td>深圳市恒盛新锐科技公司深圳市恒盛新锐科技公司</td>
+  <td nowrap>szshsxrkjgsszshsxrkjgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">862</td>
+  <td>186357 </td>
+  <td>深圳市盛祥化工有限公司深圳市盛祥化工有限公司</td>
+  <td nowrap>szssxhgyxgsszssxhgyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">863</td>
+  <td>95723 </td>
+  <td>深圳市兴亿实业有限公司深圳市兴亿实业有限公司</td>
+  <td nowrap>szsxysyyxgsszsxysyyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">864</td>
+  <td>135693 </td>
+  <td>深圳市西冠贸易有限公司深圳市西冠贸易有限公司</td>
+  <td nowrap>szsxgmyyxgsszsxgmyyxgs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">865</td>
+  <td>91445 </td>
+  <td>深圳市新新人类婚姻介绍所深圳市新新人类婚介所</td>
+  <td nowrap>szsxxrlhyjssszsxxrlhjs</td>
+  <td>模糊</td>
+  <td>115</td>
+</tr>
+<tr class="even_row">
+  <td align="center">866</td>
+  <td>47491 </td>
+  <td>国家开发银行深圳市分行原名投资银行国家开发银行深圳市分行</td>
+  <td nowrap>gjkfyxszsfhymtzyhgjkfyxszsfh</td>
+  <td>模糊</td>
+  <td>114.75</td>
+</tr>
+<tr class="even_row">
+  <td align="center">867</td>
+  <td>196095 </td>
+  <td>深圳市公安局南山消防大队深圳市公安局南山消防大队</td>
+  <td nowrap>szsgajnsxfddszsgajnsxfdd</td>
+  <td>模糊</td>
+  <td>113</td>
+</tr>
+<tr class="even_row">
+  <td align="center">868</td>
+  <td>184266 </td>
+  <td>深圳市新三维电子有限公司深圳市新三维电子有限公司</td>
+  <td nowrap>szsxswdzyxgsszsxswdzyxgs</td>
+  <td>模糊</td>
+  <td>113</td>
+</tr>
+<tr class="even_row">
+  <td align="center">869</td>
+  <td>1295 </td>
+  <td>深圳市新天源电子有限公司深圳市新天源电子有限公司</td>
+  <td nowrap>szsxtydzyxgsszsxtydzyxgs</td>
+  <td>模糊</td>
+  <td>113</td>
+</tr>
+<tr class="even_row">
+  <td align="center">870</td>
+  <td>192573 </td>
+  <td>深圳市鑫晖源电子有限公司深圳市鑫晖源电子有限公司</td>
+  <td nowrap>szsxhydzyxgsszsxhydzyxgs</td>
+  <td>模糊</td>
+  <td>113</td>
+</tr>
+<tr class="even_row">
+  <td align="center">871</td>
+  <td>26999 </td>
+  <td>深圳市兴锋达电子有限公司深圳市兴锋达电子有限公司</td>
+  <td nowrap>szsxfddzyxgsszsxfddzyxgs</td>
+  <td>模糊</td>
+  <td>113</td>
+</tr>
+<tr class="even_row">
+  <td align="center">872</td>
+  <td>44593 </td>
+  <td>深圳市欣振声电子有限公司深圳市欣振声电子有限公司</td>
+  <td nowrap>szsxzsdzyxgsszsxzsdzyxgs</td>
+  <td>模糊</td>
+  <td>113</td>
+</tr>
+<tr class="even_row">
+  <td align="center">873</td>
+  <td>71308 </td>
+  <td>深圳市兴汇湖实业有限公司深圳市鑫科铝氧化制品厂</td>
+  <td nowrap>szsxhhsyyxgsszsxklyhzpc</td>
+  <td>模糊</td>
+  <td>112.552631578947</td>
+</tr>
+<tr class="even_row">
+  <td align="center">874</td>
+  <td>193942 </td>
+  <td>深圳市兴汇湖实业有限公司深圳市兴汇湖实业有限公司</td>
+  <td nowrap>szsxhhsyyxgsszsxhhsyyxgs</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">875</td>
+  <td>113610 </td>
+  <td>深圳市鑫颜泰齿轮有限公司深圳市鑫颜泰齿轮有限公司</td>
+  <td nowrap>szsxytclyxgsszsxytclyxgs</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">876</td>
+  <td>39362 </td>
+  <td>深圳市星河国际健身俱乐部深圳市星河国际健身俱乐部</td>
+  <td nowrap>szsxhgjjsjlbszsxhgjjsjlb</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">877</td>
+  <td>63176 </td>
+  <td>深圳市兴豪江纸品有限公司深圳市兴豪江纸品有限公司</td>
+  <td nowrap>szsxhjzpyxgsszsxhjzpyxgs</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">878</td>
+  <td>185741 </td>
+  <td>深圳市心海湾投资有限公司深圳市心海湾投资有限公司</td>
+  <td nowrap>szsxhwtzyxgsszsxhwtzyxgs</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">879</td>
+  <td>126221 </td>
+  <td>深圳市新视野广告有限公司深圳市新视野广告有限公司</td>
+  <td nowrap>szsxsyggyxgsszsxsyggyxgs</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">880</td>
+  <td>89029 </td>
+  <td>深圳市兴日生实业有限公司深圳市兴日生实业有限公司</td>
+  <td nowrap>szsxrssyyxgsszsxrssyyxgs</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">881</td>
+  <td>29518 </td>
+  <td>深圳市鑫凯鑫实业有限公司深圳市鑫凯鑫实业有限公司</td>
+  <td nowrap>szsxkxsyyxgsszsxkxsyyxgs</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">882</td>
+  <td>177527 </td>
+  <td>深圳市新黑豹建材有限公司深圳市新黑豹建材有限公司</td>
+  <td nowrap>szsxhbjcyxgsszsxhbjcyxgs</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">883</td>
+  <td>65300 </td>
+  <td>深圳市贤俊龙彩印有限公司深圳市贤俊龙彩印有限公司</td>
+  <td nowrap>szsxjlcyyxgsszsxjlcyyxgs</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">884</td>
+  <td>184487 </td>
+  <td>深圳市新微数码科技有限公司深圳市新微视讯有限公司</td>
+  <td nowrap>szsxwsmkjyxgsszsxwsxyxgs</td>
+  <td>模糊</td>
+  <td>110.1</td>
+</tr>
+<tr class="even_row">
+  <td align="center">885</td>
+  <td>32463 </td>
+  <td>深圳市兴源鼎新科技有限公司深圳市兴源鼎新科技有限公司</td>
+  <td nowrap>szsxydxkjyxgsszsxydxkjyxgs</td>
+  <td>模糊</td>
+  <td>108</td>
+</tr>
+<tr class="even_row">
+  <td align="center">886</td>
+  <td>151255 </td>
+  <td>深圳市信义地产开发有限公司深圳市信义地产开发有限公司</td>
+  <td nowrap>szsxydckfyxgsszsxydckfyxgs</td>
+  <td>模糊</td>
+  <td>108</td>
+</tr>
+<tr class="even_row">
+  <td align="center">887</td>
+  <td>42947 </td>
+  <td>深圳市沈鑫机电设备有限公司深圳市沈鑫机电设备有限公司</td>
+  <td nowrap>szssxjdsbyxgsszssxjdsbyxgs</td>
+  <td>模糊</td>
+  <td>108</td>
+</tr>
+<tr class="even_row">
+  <td align="center">888</td>
+  <td>115934 </td>
+  <td>深圳市新天时代投资有限公司深圳市新天时代投资有限公司</td>
+  <td nowrap>szsxtsdtzyxgsszsxtsdtzyxgs</td>
+  <td>模糊</td>
+  <td>108</td>
+</tr>
+<tr class="even_row">
+  <td align="center">889</td>
+  <td>124133 </td>
+  <td>深圳市西林电气技术有限公司深圳市西林电气技术有限公司</td>
+  <td nowrap>szsxldqjsyxgsszsxldqjsyxgs</td>
+  <td>模糊</td>
+  <td>108</td>
+</tr>
+<tr class="even_row">
+  <td align="center">890</td>
+  <td>99104 </td>
+  <td>深圳市鑫科动力设备有限公司深圳市鑫科动力设备有限公司</td>
+  <td nowrap>szsxkdlsbyxgsszsxkdlsbyxgs</td>
+  <td>模糊</td>
+  <td>108</td>
+</tr>
+<tr class="even_row">
+  <td align="center">891</td>
+  <td>16716 </td>
+  <td>深圳市治理深圳河办公室行政科深圳市治理深圳河办公室</td>
+  <td nowrap>szszlszhbgsxzkszszlszhbgs</td>
+  <td>模糊</td>
+  <td>107.642857142857</td>
+</tr>
+<tr class="even_row">
+  <td align="center">892</td>
+  <td>193716 </td>
+  <td>深圳市行知职业技术学校办公室深圳市行知职业技术学校</td>
+  <td nowrap>szshzzyjsxxbgsszshzzyjsxx</td>
+  <td>模糊</td>
+  <td>107.642857142857</td>
+</tr>
+<tr class="even_row">
+  <td align="center">893</td>
+  <td>17042 </td>
+  <td>深圳市新视线服饰有限公仓库深圳市新视线服饰有限公司</td>
+  <td nowrap>szsxsxfsyxgckszsxsxfsyxgs</td>
+  <td>模糊</td>
+  <td>107.642857142857</td>
+</tr>
+<tr class="even_row">
+  <td align="center">894</td>
+  <td>156730 </td>
+  <td>深圳市新怡海电子有限公司业务部深圳市新怡海电子有限公司</td>
+  <td nowrap>szsxyhdzyxgsywbszsxyhdzyxgs</td>
+  <td>模糊</td>
+  <td>105.5</td>
+</tr>
+<tr class="even_row">
+  <td align="center">895</td>
+  <td>196472 </td>
+  <td>深圳市宝安职业技术学校总校深圳市宝安职业技术学校总校</td>
+  <td nowrap>szsbazyjsxxzxszsbazyjsxxzx</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">896</td>
+  <td>30849 </td>
+  <td>深圳市西部城建工程有限公司深圳市西部城建工程有限公司</td>
+  <td nowrap>szsxbcjgcyxgsszsxbcjgcyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">897</td>
+  <td>148503 </td>
+  <td>深圳市新领域职业培训中心总部深圳市新领域职业培训中心</td>
+  <td nowrap>szsxlyzypxzxzbszsxlyzypxzx</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">898</td>
+  <td>107144 </td>
+  <td>深圳市信安投资咨询有限公司深圳市信安投资咨询有限公司</td>
+  <td nowrap>szsxatzzxyxgsszsxatzzxyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">899</td>
+  <td>194329 </td>
+  <td>深圳市中航健身消闲有限公司深圳市中航健身消闲有限公司</td>
+  <td nowrap>szszhjsxxyxgsszszhjsxxyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">900</td>
+  <td>174423 </td>
+  <td>深圳市豪恩声学股份有限公司深圳市豪恩声学股份有限公司</td>
+  <td nowrap>szshesxgfyxgsszshesxgfyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">901</td>
+  <td>4357 </td>
+  <td>深圳市喜顺运输实业有限公司深圳市喜顺运输实业有限公司</td>
+  <td nowrap>szsxsyssyyxgsszsxsyssyyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">902</td>
+  <td>75261 </td>
+  <td>深圳市西湖汽车服务有限公司深圳市西湖汽车服务有限公司</td>
+  <td nowrap>szsxhqcfwyxgsszsxhqcfwyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">903</td>
+  <td>175178 </td>
+  <td>深圳市迅雷网络技术有限公司深圳市迅雷网络技术有限公司</td>
+  <td nowrap>szsxlwljsyxgsszsxlwljsyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">904</td>
+  <td>24581 </td>
+  <td>深圳市香象科技发展有限公司深圳市香象科技发展有限公司</td>
+  <td nowrap>szsxxkjfzyxgsszsxxkjfzyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">905</td>
+  <td>169403 </td>
+  <td>深圳市翔鹏宠物警犬训练学校深圳市翔鹏宠物警犬训练学校</td>
+  <td nowrap>szsxpcwjqxlxxszsxpcwjqxlxx</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">906</td>
+  <td>116906 </td>
+  <td>深圳市恒盛新锐科技有限公司深圳市恒盛新锐科技有限公司</td>
+  <td nowrap>szshsxrkjyxgsszshsxrkjyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">907</td>
+  <td>108765 </td>
+  <td>深圳市西部公共汽车有限公司深圳市西部公共汽车有限公司</td>
+  <td nowrap>szsxbggqcyxgsszsxbggqcyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">908</td>
+  <td>88756 </td>
+  <td>深圳市喜联发工贸有限公司工厂深圳市喜联发工贸有限公司</td>
+  <td nowrap>szsxlfgmyxgsgcszsxlfgmyxgs</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">909</td>
+  <td>141694 </td>
+  <td>深圳市新明发汽车维修护理中心深圳市新明发汽修护理中心</td>
+  <td nowrap>szsxmfqcwxhlzxszsxmfqxhlzx</td>
+  <td>模糊</td>
+  <td>105.181818181818</td>
+</tr>
+<tr class="even_row">
+  <td align="center">910</td>
+  <td>173560 </td>
+  <td>深圳市新炬达科技发展有限公司深圳市新炬达科技发展有限公司</td>
+  <td nowrap>szsxjdkjfzyxgsszsxjdkjfzyxgs</td>
+  <td>模糊</td>
+  <td>103</td>
+</tr>
+</tbody>
+</table>
+-->
+<!-- <DIV class=show_pages><SPAN class=disabled>&lt; </SPAN><SPAN
+  class=current>1</SPAN> <A
+  href="#">2</A> <A
+  href="#">3</A> <A
+  href="#">4</A> <A
+  href="#">&gt; </A></DIV>
+</div> -->
+
+
+
+<div class="center_right">
+<ul>
+<!-- <li class="w1">音乐相关网站 </li>
+<li class="w2"></span><span class="bule13"><a href="#">最有效增高药-30天快速增高</a></span></li>
+<li class="w3">搜索最新<span class="red13a">音乐网站</span>，点此进入！看音乐网站小说在起点中文网 </li>
+
+<li class="w2"></span><span class="bule13"><a href="#">最有效增高药-30天快速增高</a></span></li>
+<li class="w3">搜索最新<span class="red13a">音乐网站</span>，点此进入！看音乐网站小说在起点中文网 </li>
+
+<li class="w2"></span><span class="bule13"><a href="#">最有效增高药-30天快速增高</a></span></li>
+<li class="w3">搜索最新<span class="red13a">音乐网站</span>，点此进入！看音乐网站小说在起点中文网 </li>
+
+<li class="w2"></span><span class="bule13"><a href="#">最有效增高药-30天快速增高</a></span></li>
+<li class="w3">搜索最新<span class="red13a">音乐网站</span>，点此进入！看音乐网站小说在起点中文网 </li>
+</ul> -->
+</div>
+</DIV>
+
+
+<div class="footer"> </span><span class="white12"><a href="#">关于我们</a></span>   |    </span><span class="white12"><a href="#">联系我们</a></span> |    </span><span class="white12"><a href="#">友情链接</a> |  </span><span class="white12"><a href="#">意见反</a>  版权所有©2009 IER & IMSL</div>
+
+</div>
+
+
+
+
+
+</body>
+</html>
+<SCRIPT src="html/js/main.js" type=text/javascript></SCRIPT>
+<script language="JavaScript">
+	var inter = null;
+	 //这里调用php中的函数
+	function buscar(){
+	  if (inter) clearInterval(inter);
+	  inter= setInterval("busc(document.getElementById('keyword').value,{'target':'search-results','preloader':'pr'});clearInterval(inter);",300);
+	  gsc_show(document.getElementById('search-results'));
+	}
+	function gsc_show(elt)
+	{
+		if (elt){
+			var tt=document.getElementById('keyword');
+			elt.style.display = 'block';
+			//elt.style.top=300+"px" ;
+			//elt.style.left=tt.offsetLeft ;
+		}
+	}
+	function gsc_hide(elt)
+	{
+		if (elt) elt.style.display = 'none';
+	}
+</script>

@@ -1,0 +1,604 @@
+body {
+	text-align: center;
+	font-family:"ËÎÌו", arial;
+	margin:0;
+	padding:0;
+	font-size:12px;
+	color:#0062b5;
+	background-color: #FFF;
+
+}
+A:link {
+	COLOR: #0062b5;
+	TEXT-DECORATION: underline;
+}
+A:visited {
+	COLOR: #0062b5; TEXT-DECORATION: underline;
+}
+A:hover {
+	COLOR: #1b6cb4; TEXT-DECORATION: underline;
+}
+A:active {
+	COLOR: #0062b5; TEXT-DECORATION: underline;
+}
+
+A.hei12:link {
+	COLOR: #000;
+	TEXT-DECORATION: underline
+}
+A.hei12:visited {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+A.hei122:active {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+A.hei12:hover {
+	COLOR: #0062b5; TEXT-DECORATION: underline
+}
+
+.title SPAN.sp00 {
+	FONT-WEIGHT: bold;  COLOR: #333333; POSITION: relative; TOP: 1px
+}
+.title SPAN.sp0 {
+	COLOR: #0062b5;
+
+}
+.title SPAN.sp11 {
+	FONT-WEIGHT: bold;  COLOR: #333; POSITION: relative; TOP: 1px
+}
+.title SPAN.sp1 {
+	COLOR: #0062b5;
+	width: 30px;
+}
+.title SPAN.sp22 {
+	FONT-WEIGHT: bold;  COLOR: #333; POSITION: relative; TOP: 1px
+}
+.title SPAN.sp2 {
+	COLOR: #0062b5;
+	width: 30px;
+}
+.title SPAN.sp33 {
+	FONT-WEIGHT: bold;  COLOR: #333; POSITION: relative; TOP: 1px
+}
+.title SPAN.sp3 {
+	COLOR: #0062b5;
+
+}
+.title SPAN.sp44 {
+	FONT-WEIGHT: bold;  COLOR: #333; POSITION: relative; TOP: 1px
+}
+.title SPAN.sp4 {
+	COLOR: #0062b5;
+
+}
+#ssk .ss .content {
+	  MARGIN-TOP: -1px; 	width: 535px;
+}
+#ssk .ss .content .jp {
+	COLOR: #0062b5;
+	float: left;
+	width: 325px;
+	text-align: left;
+	padding-left: 10px;
+	height: 50px;
+}
+#ssk .ss .content .jp .radio {
+	 HEIGHT: 21px
+}
+#ssk .ss .content .jp .margin60 {
+	MARGIN-LEFT: 60px
+}
+#ssk .ss .content .jp .margin40 {
+	MARGIN-LEFT: 40px
+}
+#ssk .ss .content .jp .margin20 {
+	MARGIN-LEFT: 20px
+}
+#ssk .ss .content .jp .radio INPUT {
+	MARGIN-RIGHT: 1px
+}
+#ssk .ss .content .jp LABEL {
+	FONT-SIZE: 14px; COLOR: #181818; LINE-HEIGHT: 16px
+}
+#ssk .ss .content .jp P {
+	FLOAT: left; HEIGHT: 42px
+}
+#ssk .ss .content .jp .datepicker {
+	PADDING-TOP: 10px; POSITION: relative
+}
+#ssk .ss .content .jp .search {
+	PADDING-TOP: 10px; POSITION: relative
+}
+#ssk .ss .content .jp .searchgj {
+	PADDING-TOP: 40px; POSITION: relative
+}
+#ssk .ss .content .jp .datepicker .bd {
+	LEFT: 172px; CURSOR: pointer; POSITION: absolute; TOP: 32px
+}
+#ssk .ss .content .jp .datepicker .bd2 {
+	LEFT: 392px; CURSOR: pointer; POSITION: absolute; TOP: 32px
+}
+#ssk .ss .content .jp .bottom-input {
+	PADDING-TOP: 10px
+}
+#ssk .ss .content .jp P LABEL {
+	FONT-SIZE: 12px; FLOAT: left; COLOR: #333
+}
+#ssk .ss .content .jp #jpfromto {
+	Z-INDEX: 100; PADDING-TOP: 10px; POSITION: relative; HEIGHT: 42px
+}
+#ssk .ss .content .jp #jpfromto LABEL {
+	FONT-SIZE: 12px; COLOR: #333
+}
+#ssk .ss .content .jp #jpfromto INPUT {
+	FONT-SIZE: 14px; COLOR: #333
+}
+#ssk .ss .content .jp #jpfromto .ahcp {
+	MARGIN-TOP: 10px; FLOAT: left; MARGIN-RIGHT: 10px
+}
+#ssk .ss .content .jp #jpfromto .color666 {
+	COLOR: #666
+}
+#ssk .ss .content .jp #jpfromto .inp1 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 183px; MARGIN-RIGHT: 0px; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px
+}
+#ssk .ss .content .jp #jpfromto .inp2 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 14px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 83px; CURSOR: default; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px; -margin-top: 2px
+}
+#ssk .ss .content .jp .top-input {
+	Z-INDEX: 100; PADDING-TOP: 10px; POSITION: relative; HEIGHT: 42px
+}
+#ssk .ss .content .jp .top-input LABEL {
+	FONT-SIZE: 12px; COLOR: #333
+}
+#ssk .ss .content .jp .top-input INPUT {
+	FONT-SIZE: 14px; COLOR: #333
+}
+#ssk .ss .content .jp .top-input .ahcp {
+	MARGIN-TOP: 10px; FLOAT: left; MARGIN-RIGHT: 10px
+}
+#ssk .ss .content .jp .top-input .color666 {
+	COLOR: #666
+}
+#ssk .ss .content .jp .top-input .inp1 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 183px; MARGIN-RIGHT: 0px; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px
+}
+#ssk .ss .content .jp .datepicker .inp3 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 183px; COLOR: #333; MARGIN-RIGHT: 0px; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px
+}
+#ssk .ss .content .jp #jpfromto .inp4 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 14px; BACKGROUND: url(../image/bg4.gif) no-repeat 170px 2px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 183px; CURSOR: default; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px
+}
+#ssk .ss .content .jp #jpfromto INPUT.back1 {
+	FONT-SIZE: 14px; BACKGROUND: #f2fcfe
+}
+#ssk .ss .content .jp P .var3 {
+	MARGIN-TOP: 12px; FONT-SIZE: 12px; FLOAT: left; MARGIN-LEFT: 0px; COLOR: #999
+}
+#ssk .ss .content .jp P .var3 A {
+	FONT-SIZE: 12px; COLOR: #999
+}
+#ssk .ss .content .jp .ts #f1 {
+	BORDER-RIGHT: #8cb6e0 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #8cb6e0 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; BORDER-LEFT: #8cb6e0 1px solid; WIDTH: 192px; COLOR: #000; MARGIN-RIGHT: 28px; PADDING-TOP: 2px; BORDER-BOTTOM: #8cb6e0 1px solid; HEIGHT: 22px
+}
+#ssk .ss .content .jd {
+	PADDING-LEFT: 0px
+}
+#ssk .ss .content .jd P {
+	PADDING-TOP: 9px; HEIGHT: 42px
+}
+#ssk .ss .content .jd .hotelcityquery {
+	PADDING-TOP: 10px; POSITION: relative; HEIGHT: 42px
+}
+#ssk .ss .content .jd .datepicker {
+	FLOAT: left; PADDING-TOP: 9px; HEIGHT: 42px
+}
+#ssk .ss .content .jd .search {
+	PADDING-TOP: 40px
+}
+#ssk .ss .content .jd .p1 {
+	MARGIN: 2px 0px 0px; HEIGHT: 20px
+}
+#ssk .ss .content .jd .p1 INPUT {
+	MARGIN-TOP: -4px; MARGIN-RIGHT: 2px
+}
+#ssk .ss .content .jd P LABEL {
+	FONT-SIZE: 12px; FLOAT: left; LINE-HEIGHT: 16px
+}
+#ssk .ss .content .jd P INPUT {
+	FLOAT: left
+}
+#ssk .ss .content .jd P VAR {
+	MARGIN-TOP: 7px; FLOAT: left; COLOR: #262626
+}
+#ssk .ss .content .jd P EM {
+	COLOR: #999
+}
+#ssk .ss .content .jd P .color999 {
+	COLOR: #999
+}
+#ssk .ss .content .jd P INPUT.inp1 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 14px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 183px; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px
+}
+#ssk .ss .content .jd P INPUT.inp2 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 14px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 183px; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px
+}
+#ssk .ss .content .jd P .margin30 {
+	MARGIN-RIGHT: 0px
+}
+#ssk .ss .content .jd P .var3 {
+	MARGIN-TOP: 12px; FONT-SIZE: 12px; FLOAT: left; MARGIN-LEFT: 0px; COLOR: #999
+}
+#ssk .ss .content .jd P .var3 A {
+	COLOR: #999
+}
+#ssk .ss .content .jd .hotelcityquery LABEL {
+	FONT-SIZE: 12px; LINE-HEIGHT: 16px
+}
+#ssk .ss .content .jd .hotelcityquery INPUT {
+	
+}
+#ssk .ss .content .jd .hotelcityquery VAR {
+	MARGIN-TOP: 7px; FLOAT: left; COLOR: #262626
+}
+#ssk .ss .content .jd .hotelcityquery EM {
+	COLOR: #999
+}
+#ssk .ss .content .jd .hotelcityquery .color999 {
+	COLOR: #999
+}
+#ssk .ss .content .jd .hotelcityquery INPUT.inp1 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 14px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 183px; COLOR: #333; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px
+}
+#ssk .ss .content .jd .hotelcityquery INPUT.inp2 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 14px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 183px; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px
+}
+#ssk .ss .content .jd .hotelcityquery .margin30 {
+	MARGIN-RIGHT: 0px
+}
+#ssk .ss .content .jd .hotelcityquery .var3 {
+	MARGIN-TOP: 12px; FONT-SIZE: 12px; FLOAT: left; MARGIN-LEFT: 0px; COLOR: #999
+}
+#ssk .ss .content .jd .datepicker LABEL {
+	FONT-SIZE: 12px; FLOAT: left; LINE-HEIGHT: 16px
+}
+#ssk .ss .content .jd .datepicker INPUT {
+	FLOAT: left
+}
+#ssk .ss .content .jd .datepicker VAR {
+	MARGIN-TOP: 7px; FLOAT: left; COLOR: #262626
+}
+#ssk .ss .content .jd .datepicker EM {
+	COLOR: #999
+}
+#ssk .ss .content .jd .datepicker .color999 {
+	COLOR: #999
+}
+#ssk .ss .content .jd .datepicker INPUT.inp1 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 14px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 183px; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px
+}
+#ssk .ss .content .jd .datepicker INPUT.inp2 {
+	BORDER-RIGHT: #8bb7de 1px solid; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 14px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 183px; COLOR: #333; PADDING-TOP: 4px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 18px
+}
+#ssk .ss .content .jd .datepicker .margin30 {
+	MARGIN-RIGHT: 0px
+}
+#ssk .ss .content .jd .datepicker .var3 {
+	MARGIN-TOP: 12px; FONT-SIZE: 12px; FLOAT: left; MARGIN-LEFT: 0px; COLOR: #999
+}
+#ssk .ss .content .jd .datepicker {
+	POSITION: relative
+}
+#ssk .ss .content .jd .datepicker .bd {
+	LEFT: 172px; CURSOR: pointer; POSITION: absolute; TOP: 0px
+}
+#ssk .ss .content .jd .datepicker .bd1 {
+	LEFT: 392px; CURSOR: pointer; POSITION: absolute; TOP: 0px
+}
+#ssk .ss .content .jd .query {
+	WIDTH: 600px
+}
+#ssk .ss .content .jd .searchalso {
+	MARGIN-TOP: 4px; DISPLAY: block
+}
+#ssk .ss .content .jp .help {
+	MARGIN-TOP: 12px; MARGIN-LEFT: 0px
+}
+#ssk .ss .content .jp #dp {
+	BORDER-RIGHT: #8bb7de 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 192px; COLOR: #000; MARGIN-RIGHT: 26px; PADDING-TOP: 2px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 22px
+}
+#ssk .ss .content .jp #st {
+	BORDER-RIGHT: #8bb7de 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #8bb7de 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; BORDER-LEFT: #8bb7de 1px solid; WIDTH: 192px; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #8bb7de 1px solid; HEIGHT: 22px
+}
+#ssk .ss .content .jp #skblink {
+	PADDING-TOP: 10px
+}
+#ssk .ss .content .jp #skblink A {
+	MARGIN-RIGHT: 20px
+}
+#ssk .ss .content .jd .radio {
+	FONT-SIZE: 14px; PADDING-TOP: 9px; HEIGHT: 21px
+}
+#ssk .ss .content .jd .margin60 {
+	MARGIN-LEFT: 60px
+}
+#ssk .ss .content .jd .margin40 {
+	MARGIN-LEFT: 40px
+}
+#ssk .ss .content .jd .margin20 {
+	MARGIN-LEFT: 20px
+}
+#ssk .ss .content .jd .radio INPUT {
+	MARGIN-RIGHT: 1px
+}
+#ssk .ss .content .jd .radio .disabled {
+	COLOR: #999
+}
+#ssk .ss .content .dj {
+	PADDING-LEFT: 0px
+}
+#ssk .ss .content .dj P {
+	FLOAT: left; WIDTH: 658px; PADDING-TOP: 10px; HEIGHT: 42px
+}
+#ssk .ss .content .dj .jdbt {
+	FLOAT: left; WIDTH: 658px; PADDING-TOP: 10px; HEIGHT: 42px
+}
+* + HTML #ssk .ss .content .dj .jdbt {
+	MARGIN-TOP: 52px
+}
+#ssk .ss .content .dj .radio {
+	PADDING-TOP: 9px; HEIGHT: 21px
+}
+
+#ssk .ss .content .dj P.datepicker {
+	MARGIN-TOP: 10px; PADDING-TOP: 0px; POSITION: relative
+}
+
+#ssk .ss .content .dj P.p2 {
+	HEIGHT: 20px
+}
+.content .dj P.p2 INPUT {
+	MARGIN-TOP: -3px; COLOR: #262626; MARGIN-RIGHT: 0px
+}
+#ssk .ss .content .dj P .var3 {
+	MARGIN-TOP: 12px; FONT-SIZE: 12px; FLOAT: left; MARGIN-LEFT: 0px; COLOR: #999
+}
+
+#ssk .ss .content .jp P.p3 {
+	FLOAT: left; PADDING-BOTTOM: 16px; WIDTH: 645px
+}
+#ssk .ss .content .zjd {
+	PADDING-LEFT: 0px; FLOAT: left; WIDTH: 627px
+}
+#ssk .ss .content .zjd .radio {
+	PADDING-TOP: 9px; HEIGHT: 21px
+}
+
+#ssk .pic {
+	BORDER-RIGHT: #67b3ff 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #67b3ff 1px solid; PADDING-LEFT: 6px; FLOAT: right; PADDING-BOTTOM: 6px; BORDER-LEFT: #67b3ff 1px solid; WIDTH: 246px; PADDING-TOP: 6px; BORDER-BOTTOM: #67b3ff 1px solid; HEIGHT: 226px
+}
+#ssk .pic IMG {
+	DISPLAY: block; WIDTH: 246px; HEIGHT: 226px
+}
+
+
+
+#wrapper {
+	Z-INDEX: 100;
+	width: 100%;
+	height: auto;
+}
+#ssk {
+	MARGIN-TOP: 5px; HEIGHT: 90px;WIDTH: 98%;
+}
+#ssk .ss {
+	PADDING-RIGHT: 5px;
+	PADDING-LEFT: 5px;
+	WIDTH: 535px;
+	PADDING-TOP: 6px;
+	HEIGHT: auto;
+	float: left;
+}
+#ssk .ss .left{
+	WIDTH: 200px;
+	HEIGHT: auto;
+	float: left;
+}
+
+*HTML #ssk .ss {
+	PADDING-RIGHT: 5px;
+	PADDING-LEFT: 5px;
+	PADDING-BOTTOM: 5px;
+WIDTH: 100%;
+		PADDING-TOP: 3px;
+	PADDING-TOP: 3px;
+	HEIGHT: 160px;
+	clear: both;
+	margin-right: auto;
+	margin-left: auto;
+}/* FireFox*/
+
+#ssk .ss .title {
+	HEIGHT: 24px;
+	width: 330px;
+	float: left;
+}
+#ssk .ss .title SPAN {
+	MARGIN-TOP: 1px;
+	FONT-SIZE: 14px;
+	FLOAT: left;
+	WIDTH: 50px;
+	CURSOR: pointer;
+	MARGIN-RIGHT: 5px;
+	PADDING-TOP: 6px;
+	HEIGHT: 15px
+}
+
+ .logo {
+	HEIGHT: 119px;
+	clear: both;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	padding-top: 50px;
+}
+.input_250{
+	BORDER-RIGHT: #94a2b0 1px solid;
+	BORDER-TOP: #94a2b0 1px solid;
+	FONT-SIZE: 15px;
+	FLOAT: left;
+	BORDER-LEFT: #94a2b0 1px solid;
+	WIDTH: 250px;
+	COLOR: #333333;
+	BORDER-BOTTOM: #94a2b0 1px solid;
+FONT-FAMILY: ;	HEIGHT: 23px;
+	margin-top: 5px;
+
+}
+
+
+ .search_time {
+	background-color: #cdd7f3;
+	HEIGHT: 25px;
+	clear: both;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+}
+ .search_time .t_l{
+	HEIGHT: 25px;
+	width: 25%;
+	float: left;
+	color: #000;
+	padding-top: 5px;
+	padding-left: 10px;
+}
+ .search_time .t_r{
+	HEIGHT: 25px;
+	width: 45%;
+	float: right;
+	color: #000;
+	padding-top: 5px;
+	padding-left: 10px;
+	text-align: right;
+	margin-right: 20px;
+}
+
+ .search_info {
+	HEIGHT: auto;
+	clear: both;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+ .search_info .s_text {
+	HEIGHT: 18px;
+	width: 80%;
+	float: left;
+	padding-left: 10px;
+	padding-top: 5px;
+	color: #666;
+	text-align: left;
+}
+ .search_info .s_l {
+	HEIGHT: auto;
+	width: 80%;
+	float: left;
+	padding-left: 10px;
+	padding-top: 5px;
+	text-align: left;
+}
+
+ .search_info .s_r {
+	HEIGHT: auto;
+	width: 180px;
+	float: right;
+	padding-left: 10px;
+	padding-top: 5px;
+	border: 1px solid #c2c9da;
+	margin-top: 5px;
+	margin-right: 15px;
+}
+
+ .search_info .s_r UL {
+PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+ .search_info .s_r LI {
+	HEIGHT: 25px;
+	width: 180px;
+	float: left;
+	text-align: left;
+}
+ .search_info .s_r LI.t1 {
+	HEIGHT: 25px;
+	width: 180px;
+	float: left;
+	text-align: left;
+	font-size: 13px;
+	font-weight: bold;
+	color: #333333;
+}
+ .search_info .s_r LI.ad {
+	HEIGHT: 75px;
+	width: 175px;
+	float: left;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+
+ .fotter {
+	HEIGHT: 80px;
+	clear: both;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	font-family: Helvetica;
+	padding-top: 15px;
+}
+TH {
+	BORDER-TOP: #c2c9da 2px solid; FONT-WEIGHT: bold; BACKGROUND: #e4e7ee; COLOR: #333;	height: 25px;
+}
+TD {
+	BACKGROUND: #fff;
+	COLOR: #000;
+	BORDER-BOTTOM: #dfe2e7 1px solid;
+	height: 25px;
+}
+TH SPAN {
+	FONT-SIZE: 12px; CURSOR: pointer; COLOR: #0000cc; TEXT-DECORATION: underline
+}
+TH A {
+	FONT-SIZE: 12px; CURSOR: pointer; COLOR: #0000cc; TEXT-DECORATION: underline
+}
+TABLE {
+	FONT-SIZE: 12px
+}
+TD {
+	FONT-SIZE: 12px
+}
+TR {
+	FONT-SIZE: 12px
+}
+TH {
+	FONT-SIZE: 12px
+}
+
+.help{
+	FONT-SIZE: 12px;
+	height: 25px;
+	width: 40px;
+	float: left;
+	padding-top: 35px;
+}
+.search_j{
+	FONT-SIZE: 12px;
+	height: 20px;
+	width: 200px;
+	float: left;
+	color: #999;
+}

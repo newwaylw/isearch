@@ -1,0 +1,3465 @@
+1	北京市	北京市	110000	Beijing Shi	BJ
+2	北京市	市辖区	110100	Shixiaqu	
+3	北京市	东城区	110101	Dongcheng Qu	DCQ
+4	北京市	西城区	110102	Xicheng Qu	XCQ
+5	北京市	崇文区	110103	Chongwen Qu	CWQ
+6	北京市	宣武区	110104	Xuanwu Qu	XWQ
+7	北京市	朝阳区	110105	Chaoyang Qu	CYQ
+8	北京市	丰台区	110106	Fengtai Qu	FTQ
+9	北京市	石景山区	110107	Shijingshan Qu	SJS
+10	北京市	海淀区	110108	Haidian Qu	HDN
+11	北京市	门头沟区	110109	Mentougou Qu	MTG
+12	北京市	房山区	110111	Fangshan Qu	FSQ
+13	北京市	通州区	110112	Tongzhou Qu	TZQ
+14	北京市	顺义区	110113	Shunyi Qu	SYI
+15	北京市	县	110200	Xian	
+16	北京市	昌平区	110114	Changping Qu	CP Q
+17	北京市	大兴区	110115	Daxing Qu	DX Q
+18	北京市	平谷区	110117	Pinggu Qu	PG Q
+19	北京市	怀柔区	110116	Huairou Qu	HR Q
+20	北京市	密云县	110228	Miyun Xian 	MYN
+21	北京市	延庆县	110229	Yanqing Xian	YQX
+22	天津市	天津市	120000	Tianjin Shi	TJ
+23	天津市	市辖区	120100	Shixiaqu	
+24	天津市	和平区	120101	Heping Qu	HPG
+25	天津市	河东区	120102	Hedong Qu	HDQ
+26	天津市	河西区	120103	Hexi Qu	HXQ
+27	天津市	南开区	120104	Nankai Qu	NKQ
+28	天津市	河北区	120105	Hebei Qu	HBQ
+29	天津市	红桥区	120106	Hongqiao Qu	HQO
+30	天津市	塘沽区	120107	Tanggu Qu	TGA
+31	天津市	汉沽区	120108	Hangu Qu	HGQ
+32	天津市	大港区	120109	Dagang Qu	DGJ
+33	天津市	东丽区	120110	Dongli Qu	DLI
+34	天津市	西青区	120111	Xiqing Qu	XQG
+35	天津市	津南区	120112	Jinnan Qu	JNQ
+36	天津市	北辰区	120113	Beichen Qu	BCQ
+37	天津市	县	120200	Xian	
+38	天津市	宁河县	120221	Ninghe Xian	NHE
+39	天津市	武清区	120114	Wuqing Qu	WQ Q
+40	天津市	静海县	120223	Jinghai Xian	JHT
+41	天津市	宝坻区	120115	Baodi Qu	BDI
+42	天津市	蓟县	120225	Ji Xian	JIT
+43	河北省	河北省	130000	Hebei Sheng	HE
+44	河北省	石家庄市	130100	Shijiazhuang Shi	SJW
+45	河北省	市辖区	130101	Shixiaqu	
+46	河北省	长安区	130102	Chang,an Qu	CAQ
+47	河北省	桥东区	130103	Qiaodong Qu	QDQ
+48	河北省	桥西区	130104	Qiaoxi Qu	QXQ
+49	河北省	新华区	130105	Xinhua Qu	XHK
+50	河北省	郊区	130106	Jiaoqu	JQS
+51	河北省	井陉矿区	130107	Jingxing Kuangqu	JXK
+52	河北省	井陉县	130121	Jingxing Xian	JXJ
+53	河北省	正定县	130123	Zhengding Xian	ZDJ
+54	河北省	栾城县	130124	Luancheng Xian	LCG
+55	河北省	行唐县	130125	Xingtang Xian	XTG
+56	河北省	灵寿县	130126	Lingshou Xian 	LSO
+57	河北省	高邑县	130127	Gaoyi Xian	GYJ
+58	河北省	沈泽县	130128	Shenze Xian	SZE
+59	河北省	赞皇县	130129	Zanhuang Xian	ZHG
+60	河北省	无极县	130130	Wuji Xian	WJI
+61	河北省	平山县	130131	Pingshan Xian	PSH
+62	河北省	元氏县	130132	Yuanshi Xian	YSI
+63	河北省	赵县	130133	Zhao Xian	ZAO
+64	河北省	辛集市	130181	Xinji Shi	XJS
+65	河北省	藁城市	130182	Gaocheng Shi	GCS
+66	河北省	晋州市	130183	Jinzhou Shi	JZJ
+67	河北省	新乐市	130184	Xinle Shi	XLE
+68	河北省	鹿泉市	130185	Luquan Shi	LUQ
+69	河北省	唐山市	130200	Tangshan Shi	TGS
+70	河北省	市辖区	130201	Shixiaqu	
+71	河北省	路南区	130202	Lunan Qu	LNB
+72	河北省	路北区	130203	Lubei Qu	LBQ
+73	河北省	古冶区	130204	Guye Qu	GYE
+74	河北省	开平区	130205	Kaiping Qu	KPQ
+75	河北省	新区	130206	Xin Qu	XNQ
+76	河北省	丰润县	130221	Fengrun Xian	FRN
+77	河北省	滦县	130223	Luan Xian	LUA
+78	河北省	滦南县	130224	Luannan Xian	LNJ
+79	河北省	乐亭县	130225	Leting Xian	LTJ
+80	河北省	迁西县	130227	Qianxi Xian	QXX
+81	河北省	玉田县	130229	Yutian Xian	YTJ
+82	河北省	唐海县	130230	Tanghai Xian 	THA
+83	河北省	遵化市	130281	Zunhua Shi	ZNH
+84	河北省	丰南市	130282	Fengnan Shi	FNN
+85	河北省	迁安市	130283	Qian,an Shi	QAS
+86	河北省	秦皇岛市	130300	Qinhuangdao Shi	SHP
+87	河北省	市辖区	130301	Shixiaqu	
+88	河北省	海港区	130302	Haigang Qu	HGG
+89	河北省	山海关区	130303	Shanhaiguan Qu	SHG
+90	河北省	北戴河区	130304	Beidaihe Qu	BDH
+91	河北省	青龙满族自治县	130321	Qinglong Manzu Zizhixian	QLM
+92	河北省	昌黎县	130322	Changli Xian	CGL
+93	河北省	抚宁县	130323	Funing Xian 	FUN
+94	河北省	卢龙县	130324	Lulong Xian	LLG
+95	河北省	邯郸市	130400	Handan Shi	HDS
+96	河北省	市辖区	130401	Shixiaqu	
+97	河北省	邯山区	130402	Hanshan Qu	HHD
+98	河北省	丛台区	130403	Congtai Qu	CTQ
+99	河北省	复兴区	130404	Fuxing Qu	FXQ
+100	河北省	峰峰矿区	130406	Fengfeng Kuangqu	FFK
+101	河北省	邯郸县	130421	Handan Xian 	HDX
+102	河北省	临漳县	130423	Linzhang Xian 	LNZ
+103	河北省	成安县	130424	Cheng,an Xian	CAJ
+104	河北省	大名县	130425	Daming Xian	DMX
+105	河北省	涉县	130426	She Xian	SEJ
+106	河北省	磁县	130427	Ci Xian	CIX
+107	河北省	肥乡县	130428	Feixiang Xian	FXJ
+108	河北省	永年县	130429	Yongnian Xian	YON
+109	河北省	邱县	130430	Qiu Xian	QIU
+110	河北省	鸡泽县	130431	Jize Xian	JZE
+111	河北省	广平县	130432	Guangping Xian 	GPX
+112	河北省	馆陶县	130433	Guantao Xian	GTO
+113	河北省	魏县	130434	Wei Xian 	WEI
+114	河北省	曲周县	130435	Quzhou Xian 	QZX
+115	河北省	武安市	130481	Wu,an Shi	WUA
+116	河北省	邢台市	130500	Xingtai Shi	XTS
+117	河北省	市辖区	130501	Shixiaqu	
+118	河北省	桥东区	130502	Qiaodong Qu	QDG
+119	河北省	桥西区	130503	Qiaoxi Qu	QXT
+120	河北省	邢台县	130521	Xingtai Xian	XTJ
+121	河北省	临城县	130522	Lincheng Xian 	LNC
+122	河北省	内丘县	130523	Neiqiu Xian 	NQU
+123	河北省	柏乡县	130524	Baixiang Xian	BXG
+124	河北省	隆尧县	130525	Longyao Xian	LYO
+125	河北省	任县	130526	Ren Xian	REN
+126	河北省	南和县	130527	Nanhe Xian	NHX
+127	河北省	宁晋县	130528	Ningjin Xian	NJN
+128	河北省	巨鹿县	130529	Julu Xian	JLU
+129	河北省	新河县	130530	Xinhe Xian 	XHJ
+130	河北省	广宗县	130531	Guangzong Xian 	GZJ
+131	河北省	平乡县	130532	Pingxiang Xian	PXX
+132	河北省	威县	130533	Wei Xian 	WEX
+133	河北省	清河县	130534	Qinghe Xian	QHE
+134	河北省	临西县	130535	Linxi Xian	LXI
+135	河北省	南宫市	130581	Nangong Shi	NGO
+136	河北省	沙河市	130582	Shahe Shi	SHS
+137	河北省	保定市	130600	Baoding Shi	BDS
+138	河北省	市辖区	130601	Shixiaqu	
+139	河北省	新市区	130602	Xinshi Qu	XBD
+140	河北省	北市区	130603	Beishi Qu	BSI
+141	河北省	南市区	130604	Nanshi Qu	NSB
+142	河北省	满城县	130621	Mancheng Xian 	MCE
+143	河北省	清苑县	130622	Qingyuan Xian	QYJ
+144	河北省	涞水县	130623	Laishui Xian	LSM
+145	河北省	阜平县	130624	Fuping Xian 	FUP
+146	河北省	徐水县	130625	Xushui Xian 	XSJ
+147	河北省	定兴县	130626	Dingxing Xian 	DXG
+148	河北省	唐县	130627	Tang Xian 	TAG
+149	河北省	高阳县	130628	Gaoyang Xian 	GAY
+150	河北省	容城县	130629	Rongcheng Xian 	RCX
+151	河北省	涞源县	130630	Laiyuan Xian 	LIY
+152	河北省	望都县	130631	Wangdu Xian 	WDU
+153	河北省	安新县	130632	Anxin Xian 	AXX
+154	河北省	易县	130633	Yi Xian	YII
+155	河北省	曲阳县	130634	Quyang Xian 	QUY
+156	河北省	蠡县	130635	Li Xian	LXJ
+157	河北省	顺平县	130636	Shunping Xian 	SPI
+158	河北省	博野县	130637	Boye Xian 	BYE
+159	河北省	雄县	130638	Xiong Xian	XOX
+160	河北省	涿州市	130681	Zhuozhou Shi	ZZO
+161	河北省	定州市	130682	Dingzhou Shi 	DZO
+162	河北省	安国市	130683	Anguo Shi 	AGO
+163	河北省	高碑店市	130684	Gaobeidian Shi	GBD
+164	河北省	张家口市	130700	Zhangjiakou Shi 	ZJK
+165	河北省	市辖区	130701	Shixiaqu	
+166	河北省	桥东区	130702	Qiaodong Qu	QDZ
+167	河北省	桥西区	130703	Qiaoxi Qu	QXI
+168	河北省	宣化区	130705	Xuanhua Qu	XHZ
+169	河北省	下花园区	130706	Xiahuayuan Qu 	XHY
+170	河北省	宣化县	130721	Xuanhua Xian 	XHX
+171	河北省	张北县	130722	Zhangbei Xian 	ZGB
+172	河北省	康保县	130723	Kangbao Xian	KBO
+173	河北省	沽原县	130724	Guyuan Xian	GUY
+174	河北省	尚义县	130725	Shangyi Xian	SYK
+175	河北省	蔚县	130726	Yu Xian	YXJ
+176	河北省	阳原县	130727	Yangyuan Xian	YYN
+177	河北省	怀安县	130728	Huai,an Xian	HAX
+178	河北省	万全县	130729	Wanquan Xian 	WQN
+179	河北省	怀来县	130730	Huailai Xian	HLA
+180	河北省	涿鹿县	130731	Zhuolu Xian 	ZLU
+181	河北省	赤城县	130732	Chicheng Xian	CCX
+182	河北省	崇礼县	130733	Chongli Xian	COL
+183	河北省	承德市	130800	Chengde Shi	CDS
+184	河北省	市辖区	130801	Shixiaqu	
+185	河北省	双桥区	130802	Shuangqiao Qu 	SQO
+186	河北省	双滦区	130803	Shuangluan Qu	SLQ
+187	河北省	鹰手营子矿区	130804	Yingshouyingzi Kuangqu	YSY
+188	河北省	承德县	130821	Chengde Xian	CDX
+189	河北省	兴隆县	130822	Xinglong Xian	XLJ
+190	河北省	平泉县	130823	Pingquan Xian	PQN
+191	河北省	滦平县	130824	Luanping Xian 	LUP
+192	河北省	隆化县	130825	Longhua Xian	LHJ
+193	河北省	丰宁满族自治县	130826	Fengning Manzu Zizhixian	FNJ
+194	河北省	宽城满族自治县	130827	Kuancheng Manzu Zizhixian	KCX
+195	河北省	围场满族蒙古族自治县	130828	Weichang Manzu Menggolzu Zizhixian	WCJ
+196	河北省	沧州市	130900	Cangzhou Shi	CGZ
+197	河北省	市辖区	130901	Shixiaqu	
+198	河北省	新华区	130902	Xinhua Qu	XHF
+199	河北省	运河区	130903	Yunhe Qu	YHC
+200	河北省	沧县	130921	Cang Xian	CAG
+201	河北省	青县	130922	Qing Xian	QIG
+202	河北省	东光县	130923	Dongguang Xian 	DGU
+203	河北省	海兴县	130924	Haixing Xian	HXG
+204	河北省	盐山县	130925	Yanshan Xian	YNS
+205	河北省	肃宁县	130926	Suning Xian 	SNG
+206	河北省	南皮县	130927	Nanpi Xian	NPI
+207	河北省	吴桥县	130928	Wuqiao Xian 	WUQ
+208	河北省	献县	130929	Xian Xian 	XXN
+209	河北省	孟村回族自治县	130930	Mengcun Huizu Zizhixian	MCN
+210	河北省	泊头市	130981	Botou Shi 	BOT
+211	河北省	任丘市	130982	Renqiu Shi	RQS
+212	河北省	黄骅市	130983	Huanghua Shi	HHJ
+213	河北省	河间市	130984	Hejian Shi	HJN
+214	河北省	廊坊市	131000	Langfang Shi	LFS
+215	河北省	市辖区	131001	Shixiaqu	
+216	河北省	安次区	131002	Anci Qu	ACI
+217	河北省	固安县	131022	Gu,an Xian	GUA
+218	河北省	永清县	131023	Yongqing Xian 	YQG
+219	河北省	香河县	131024	Xianghe Xian	XGH
+220	河北省	大城县	131025	Dacheng Xian	DCJ
+221	河北省	文安县	131026	Wen,an Xian	WEA
+222	河北省	大厂回族自治县	131028	Dachang Huizu Zizhixian	DCG
+223	河北省	霸州市	131081	Bazhou Shi	BZO
+224	河北省	三河市	131082	Sanhe Shi	SNH
+225	河北省	衡水市	131100	Hengshui Shi 	HGS
+226	河北省	市辖区	131101	Shixiaqu	
+227	河北省	桃城区	131102	Taocheng Qu	TOC
+228	河北省	枣强县	131121	Zaoqiang Xian 	ZQJ
+229	河北省	武邑县	131122	Wuyi Xian	WYI
+230	河北省	武强县	131123	Wuqiang Xian 	WQG
+231	河北省	饶阳县	131124	Raoyang Xian	RYG
+232	河北省	安平县	131125	Anping Xian	APG
+233	河北省	故城县	131126	Gucheng Xian	GCE
+234	河北省	景县	131127	Jing Xian 	JIG
+235	河北省	阜城县	131128	Fucheng Xian 	FCE
+236	河北省	冀州市	131181	Jizhou Shi 	JIZ
+237	河北省	深州市	131182	Shenzhou Shi	SNZ
+238	山西省	山西省	140000	Shanxi Sheng 	SX
+239	山西省	太原市	140100	Taiyuan Shi	TYN
+240	山西省	市辖区	140101	Shixiaqu	
+241	山西省	小店区	140105	Xiaodian Qu	XDQ
+242	山西省	迎泽区	140106	Yingze Qu	YZT
+243	山西省	杏花岭区	140107	Xinghualing Qu	XHL
+244	山西省	尖草坪区	140108	Jiancaoping Qu	JCP
+245	山西省	万柏林区	140109	Wanbailin Qu	WBL
+246	山西省	晋源区	140110	Jinyuan Qu	JYM
+247	山西省	清徐县	140121	Qingxu Xian 	QXU
+248	山西省	阳曲县	140122	Yangqu Xian 	YGQ
+249	山西省	娄烦县	140123	Loufan Xian	LFA
+250	山西省	古交市	140181	Gujiao Shi	GUJ
+251	山西省	大同市	140200	Datong Shi 	DTG
+252	山西省	市辖区	140201	Shixiaqu	
+253	山西省	城区	140202	Chengqu	CQD
+254	山西省	矿区	140203	Kuangqu	KQD
+255	山西省	南郊区	140211	Nanjiao Qu	NJQ
+256	山西省	新荣区	140212	Xinrong Qu	XRQ
+257	山西省	阳高县	140221	Yanggao Xian 	YGO
+258	山西省	天镇县	140222	Tianzhen Xian 	TZE
+259	山西省	广灵县	140223	Guangling Xian 	GLJ
+260	山西省	灵丘县	140224	Lingqiu Xian 	LQX
+261	山西省	浑源县	140225	Hunyuan Xian	HYM
+262	山西省	左云县	140226	Zuoyun Xian	ZUY
+263	山西省	大同县	140227	Datong Xian 	DTX
+264	山西省	阳泉市	140300	Yangquan Shi	YQS
+265	山西省	市辖区	140301	Shixiaqu	
+266	山西省	城区	140302	Chengqu	CQU
+267	山西省	矿区	140303	Kuangqu	KQY
+268	山西省	郊区	140311	Jiaoqu	JQY
+269	山西省	平定县	140321	Pingding Xian	PDG
+270	山西省	盂县	140322	Yu Xian	YUX
+271	山西省	长治市	140400	Changzhi Shi	CZS
+272	山西省	市辖区	140401	Shixiaqu	
+273	山西省	城区	140402	Chengqu 	CQC
+274	山西省	郊区	140411	Jiaoqu	JQZ
+275	山西省	长治县	140421	Changzhi Xian	CZI
+276	山西省	襄垣县	140423	Xiangyuan Xian	XYJ
+277	山西省	屯留县	140424	Tunliu Xian	TNL
+278	山西省	平顺县	140425	Pingshun Xian	PSX
+279	山西省	黎城县	140426	Licheng Xian	LIC
+280	山西省	壶关县	140427	Huguan Xian	HGN
+281	山西省	长子县	140428	Zhangzi Xian 	ZHZ
+282	山西省	武乡县	140429	Wuxiang Xian	WXG
+283	山西省	沁县	140430	Qin Xian	QIN
+284	山西省	沁源县	140431	Qinyuan Xian 	QYU
+285	山西省	潞城市	140481	Lucheng Shi	LCS
+286	山西省	晋城市	140500	Jincheng Shi 	JCG
+287	山西省	市辖区	140501	Shixiaqu	
+288	山西省	城区	140502	Chengqu 	CQJ
+289	山西省	沁水县	140521	Qinshui Xian	QSI
+290	山西省	阳城县	140522	Yangcheng Xian 	YGC
+291	山西省	陵川县	140524	Lingchuan Xian	LGC
+292	山西省	泽州县	140525	Zezhou Xian	ZEZ
+293	山西省	高平市	140581	Gaoping Shi 	GPG
+294	山西省	朔州市	140600	Shuozhou Shi 	SZJ
+295	山西省	市辖区	140601	Shixiaqu	
+296	山西省	朔城区	140602	Shuocheng Qu	SCH
+297	山西省	平鲁区	140603	Pinglu Qu	PLU
+298	山西省	山阴县	140621	Shanyin Xian	SYP
+299	山西省	应县	140622	Ying Xian	YIG
+300	山西省	右玉县	140623	Youyu Xian 	YOY
+301	山西省	怀仁县	140624	Huairen Xian	HRN
+302	山西省	忻州地区	142200	Xinzhou Diqu	XZD
+303	山西省	忻州市	142201	Xinzhou Shi	XZS
+304	山西省	原平市	142202	Yuanping Shi	YUP
+305	山西省	定襄县	142222	Dingxiang Xian	DXJ
+306	山西省	五台县	142223	Wutai Xian	WTA
+307	山西省	代县	142225	Dai Xian	DAI
+308	山西省	繁峙县	142226	Fanshi Xian	FSI
+309	山西省	宁武县	142227	Ningwu Xian	NWU
+310	山西省	静乐县	142228	Jingle Xian	JGL
+311	山西省	神池县	142229	Shenchi Xian	SCI
+312	山西省	五寨县	142230	Wuzhai Xian	WZH
+313	山西省	苛岚县	142231	Kelan Xian	KLN
+314	山西省	河曲县	142232	Hequ Xian 	HQU
+315	山西省	保德县	142233	Baode Xian	BDE
+316	山西省	偏关县	142234	Pianguan Xian	PGN
+317	山西省	吕梁地区	142300	Lvliang Diqu	LLD
+318	山西省	孝义市	142301	Xiaoyi Shi	XOY
+319	山西省	离石市	142302	Lishi  Shi	LSW
+320	山西省	汾阳市	142303	Fenyang Shi	FYJ
+321	山西省	文水市	142322	Wenshui Shi	WSJ
+322	山西省	交城县	142323	Jiaocheng Xian	JCJ
+323	山西省	兴县	142325	Xing Xian	XGX
+324	山西省	临县	142326	Lin Xian 	LXN
+325	山西省	柳林县	142327	Liulin Xian	LUL
+326	山西省	石楼县	142328	Shilou Xian	SLO
+327	山西省	岚县	142329	Lan Xian	LAN
+328	山西省	方山县	142330	Fangshan Xian	FGS
+329	山西省	中阳县	142332	Zhongyang Xian	ZHY
+330	山西省	交口县	142333	Jiaokou Xian	JKO
+331	山西省	晋中地区	142400	Jinzhong Diqu	JZD
+332	山西省	榆次市	142401	Yuci Shi	YCI
+333	山西省	介休市	142402	Jiexiu Shi	JXS
+334	山西省	榆社县	142421	Yushe Xian	YSJ
+335	山西省	左权县	142422	Zuoquan Xian	ZQX
+336	山西省	和顺县	142423	Heshun Xian	HSJ
+337	山西省	昔阳县	142424	Xiyang Xian	XIY
+338	山西省	寿阳县	142427	Shouyang Xian	SYJ
+339	山西省	太谷县	142429	Taigu Xian	TIG
+340	山西省	祁县	142430	Qi Xian	QIJ
+341	山西省	平遥县	142431	Pingyao Xian	PGY
+342	山西省	灵石县	142433	Lingshi Xian	LSF
+343	山西省	临汾地区	142600	Linfen Diqu	LFD
+344	山西省	临汾市	142601	Linfen Shi	LFN
+345	山西省	侯马市	142602	Houma Shi 	HMA
+346	山西省	霍州市	142603	Huozhou Shi 	HOZ
+347	山西省	曲沃县	142621	Quwo Xian 	QWO
+348	山西省	翼城县	142622	Yicheng Xian	YCB
+349	山西省	襄汾县	142623	Xiangfen Xian	XFJ
+350	山西省	洪洞县	142625	Hongtong Xian	HTO
+351	山西省	古县	142627	Gu Xian	GUX
+352	山西省	安泽县	142628	Anze Xian	AZE
+353	山西省	浮山县	142629	Fushan Xian 	FSJ
+354	山西省	吉县	142630	Ji Xian	JIJ
+355	山西省	乡宁县	142631	Xiangning Xian	XGN
+356	山西省	浦县	142632	Pu Xian	PUX
+357	山西省	大宁县	142633	Daning Xian	DNG
+358	山西省	永和县	142634	Yonghe Xian	YGH
+359	山西省	隰县	142635	Xi Xian	XIJ
+360	山西省	汾西县	142636	Fenxi Xian	FEX
+361	山西省	运城地区	142700	Yuncheng Diqu	YCJ
+362	山西省	运城市	142701	Yuncheng Shi	YCE
+363	山西省	永济市	142702	Yongji Shi 	YJJ
+364	山西省	河津市	142703	Hejin Shi	HJS
+365	山西省	芮城县	142723	Ruicheng Xian	RIC
+366	山西省	临猗县	142724	Linyi Xian	LYJ
+367	山西省	万荣县	142725	Wanrong Xian	WRG
+368	山西省	新绛县	142726	Xinjiang Xian	XNJ
+369	山西省	稷山县	142727	Jishan Xian	JSJ
+370	山西省	闻喜县	142729	Wenxi Xian	WNX
+371	山西省	夏县	142730	Xia Xian 	XIA
+372	山西省	绛县	142731	Jiang Xian	JXC
+373	山西省	平陆县	142732	Pinglu Xian	PGL
+374	山西省	垣曲县	142733	Yuanqu Xian	YQU
+375	内蒙古自治区	内蒙古自治区	150000	Nei Mongol Zizhiqu	NM
+376	内蒙古自治区	呼和浩特市	150100	Hohhot Shi	Hhht
+377	内蒙古自治区	市辖区	150101	Shixiaqu	
+378	内蒙古自治区	新城区	150102	Xincheng Qu	XCN
+379	内蒙古自治区	回民区	150103	Huimin Qu	HMQ
+380	内蒙古自治区	玉泉区	150104	Yuquan Qu	YQN
+381	内蒙古自治区	郊区	150105	Jiaoqu	JQH
+382	内蒙古自治区	土默特左旗	150121	Tumd Zuoqi	TUZ
+383	内蒙古自治区	托克托县	150122	Togtoh Xian	TOG
+384	内蒙古自治区	和林格尔县	150123	Horinger Xian	HOR
+385	内蒙古自治区	清水河县	150124	Qingshuihe Xian	QSH
+386	内蒙古自治区	武川县	150125	Wuchuan Xian	WCX
+387	内蒙古自治区	包头市	150200	Baotou Shi 	BTS
+388	内蒙古自治区	市辖区	150201	Shixiaqu	
+389	内蒙古自治区	东河区	150202	Donghe Qu	DHE
+390	内蒙古自治区	昆都伦区	150203	Hondlon Qu	HDB
+391	内蒙古自治区	青山区	150204	Qingshan Qu	QSB
+392	内蒙古自治区	石拐矿区	150205	Shiguai Kuangqu	SGK
+393	内蒙古自治区	白云矿区	150206	Baiyun Kuangqu	BYK
+394	内蒙古自治区	郊区	150207	Jiaoqu	JBT
+395	内蒙古自治区	土默特右旗	150221	Tumd Youqi	TUY
+396	内蒙古自治区	固阳县	150222	Guyang Xian	GYM
+397	内蒙古自治区	达尔罕茂明安联合旗	150223	Darhan Muminggan Lianheqi	DML
+398	内蒙古自治区	乌海市	150300	Wuhai Shi	WHM
+399	内蒙古自治区	市辖区	150301	Shixiaqu	
+400	内蒙古自治区	海勃湾区	150302	Haibowan Qu	HBW
+401	内蒙古自治区	海南区	150303	Hainan Qu	HNU
+402	内蒙古自治区	乌达区	150304	Ud Qu	UDQ
+403	内蒙古自治区	赤峰市	150400	Chifeng (Ulanhad)Shi	CFS
+404	内蒙古自治区	市辖区	150401	Shixiaqu	
+405	内蒙古自治区	红山区	150402	Hongshan Qu	HSZ
+406	内蒙古自治区	元宝山区	150403	Yuanbaoshan Qu	YBO
+407	内蒙古自治区	松山区	150404	Songshan Qu	SSQ
+408	内蒙古自治区	阿鲁科尔沁旗	150421	Ar Horqin Qi	AHO
+409	内蒙古自治区	巴林左旗	150422	Bairin Zuoqi	BAZ
+410	内蒙古自治区	巴林右旗	150423	Bairin Youqi	BAY
+411	内蒙古自治区	林西县	150424	Linxi Xian	LXM
+412	内蒙古自治区	克什克腾旗	150425	Hexigten Qi	HXT
+413	内蒙古自治区	翁牛特旗	150426	Ongniud Qi	ONG
+414	内蒙古自治区	喀喇沁旗	150428	Harqin Qi	HAR
+415	内蒙古自治区	宁城县	150429	Ningcheng Xian	NCH
+416	内蒙古自治区	敖汉旗	150430	Aohan Qi	AHN
+417	内蒙古自治区	呼伦贝尔盟	152100	Hulun Buir Meng 	HBM
+418	内蒙古自治区	海拉尔市	152101	Hailar Shi	HLR
+419	内蒙古自治区	满洲里市	152102	Manzhouli Shi	MLX
+420	内蒙古自治区	扎兰屯市	152103	Zalantun Shi	ZLT
+421	内蒙古自治区	牙克石市	152104	Yakeshi Shi	YKS
+422	内蒙古自治区	根河市	152105	Genhe Shi	GHS
+423	内蒙古自治区	额尔古纳市	152106	Ergun Shi	ERG
+424	内蒙古自治区	阿荣旗	152122	Arun Qi	ARU
+425	内蒙古自治区	莫力达瓦达斡尔族自治旗	152123	Morin Dawa Daurzu Zizhiqi	MDD
+426	内蒙古自治区	鄂伦春自治旗	152127	Oroqen Zizhiqi	ORO
+427	内蒙古自治区	鄂温克族自治旗	152128	Ewenkizu Zizhiqi	EWE
+428	内蒙古自治区	新巴尔虎右旗	152129	Xin Barag Youqi	XBY
+429	内蒙古自治区	新巴尔虎左旗	152130	Xin Barag Zuoqi	XBZ
+430	内蒙古自治区	陈巴尔虎旗	152131	Chen Barag Qi	CBA
+431	内蒙古自治区	兴安盟	152200	Hinggan Meng	HIN
+432	内蒙古自治区	乌兰浩特市	152201	Ulan Hot Shi	ULO
+433	内蒙古自治区	阿尔山市	152202	Arxan Shi	ARS
+434	内蒙古自治区	科尔沁右翼前旗	152221	Horqin Youyi Qianqi	HYQ
+435	内蒙古自治区	科尔沁右翼中旗	152222	Horqin Youyi Zhongqi	HYZ
+436	内蒙古自治区	扎赉特旗	152223	Jalaid Qi	JAL
+437	内蒙古自治区	突泉县	152224	Tuquan Xian	TUQ
+438	内蒙古自治区	哲里木盟	152300	Jirem Meng	JIR
+439	内蒙古自治区	通辽市	152301	Tongliao Shi	TLO
+440	内蒙古自治区	霍林郭勒市	152302	Holingol Shi	HOL
+441	内蒙古自治区	科尔沁左翼中旗	152322	Horqin Zuoyi Zhongqi	HZZ
+442	内蒙古自治区	科尔沁左翼后旗	152323	Horqin Zuoyi Houqi	HZI
+443	内蒙古自治区	开鲁县	152324	Kailu Xian	KLU
+444	内蒙古自治区	库伦旗	152325	Hure Qi	HUR
+445	内蒙古自治区	奈曼旗	152326	Naiman Qi	NMN
+446	内蒙古自治区	扎鲁特旗	152327	Jarud Qi	JAR
+447	内蒙古自治区	锡林郭勒盟	152500	Xilin Gol Meng	XGO
+448	内蒙古自治区	二连浩特市	152501	Erenhot Shi	ERC
+449	内蒙古自治区	锡林浩特市	152502	Xilinhot Shi	XLI
+450	内蒙古自治区	阿巴嘎旗	152522	Abag Qi	ABG
+451	内蒙古自治区	苏尼特左旗	152523	Sonid Zuoqi	SOZ
+452	内蒙古自治区	苏尼特右旗	152524	Sonid Youqi	SOY
+453	内蒙古自治区	东乌珠穆沁旗	152525	Dong Ujimqin Qi	DUJ
+454	内蒙古自治区	西乌珠穆沁旗	152526	Xi Ujimqin Qi	XUJ
+455	内蒙古自治区	太仆寺旗	152527	Taibus Qi	TAB
+456	内蒙古自治区	镶黄旗	152528	Xianghuang(Hobot Xar) Qi	XHG
+457	内蒙古自治区	正镶白旗	152529	Zhengxiangbai(Xulun Hobot Qagan)Qi	ZXB
+458	内蒙古自治区	正蓝旗	152530	Zhenglan(Xulun Hoh)Qi	ZLM
+459	内蒙古自治区	多伦县	152531	Duolun (Dolonnur)Xian	DLM
+460	内蒙古自治区	乌兰察布盟	152600	Ulanqab Meng	ULM
+461	内蒙古自治区	集宁市	152601	Jining Shi	JIN
+462	内蒙古自治区	丰镇市	152602	Fengzhen Shi	FZS
+463	内蒙古自治区	卓资县	152624	Zhuozi Xian	ZUZ
+464	内蒙古自治区	化德县	152625	Huade Xian	HDE
+465	内蒙古自治区	商都县	152626	Shangdu Xian	SDX
+466	内蒙古自治区	兴和县	152627	Xinghe Xian	XHM
+467	内蒙古自治区	凉城县	152629	Liangcheng Xian	LCM
+468	内蒙古自治区	察哈尔右翼前旗	152630	Qahar Youyi Qianqi	QYM
+469	内蒙古自治区	察哈尔右翼中旗	152631	Qahar Youyi Zhongqi	QYZ
+470	内蒙古自治区	察哈尔右翼后旗	152632	Qahar Youyi Houqi	QYH
+471	内蒙古自治区	四子王旗	152634	Dorbod Qi	DOR
+472	内蒙古自治区	伊克昭盟	152700	Ih Ju Meng	IJU
+473	内蒙古自治区	东胜市	152701	Dongsheng Shi	DSS
+474	内蒙古自治区	达拉特旗	152722	Dalad Qi	DLA
+475	内蒙古自治区	准格尔旗	152723	Jungar Qi	JUN
+476	内蒙古自治区	鄂托克前旗	152724	Otog Qianqi	OTQ
+477	内蒙古自治区	鄂托克旗	152725	Otog Qi	OTO
+478	内蒙古自治区	杭锦旗	152726	Hanggin Qi	HAQ
+479	内蒙古自治区	乌审旗	152727	Uxin Qi	UXI
+480	内蒙古自治区	伊金霍洛旗	152728	Ejin Horo Qi	EHO
+481	内蒙古自治区	巴彦淖尔盟	152800	Bayannur Meng	BAM
+482	内蒙古自治区	临河市	152801	Linhe Shi	LNH
+483	内蒙古自治区	五原县	152822	Wuyuan Xian	WYM
+484	内蒙古自治区	磴口县	152823	Dengkou Xian	DKO
+485	内蒙古自治区	乌拉特前旗	152824	Urad Qianqi	URQ
+486	内蒙古自治区	乌拉特中旗	152825	Urad Zhongqi	URZ
+487	内蒙古自治区	乌拉特后旗	152826	Urad Houqi	URH
+488	内蒙古自治区	杭锦后旗	152827	Hanggin Houqi	HAH
+489	内蒙古自治区	阿拉善盟	152900	Alxa Meng	ALM
+490	内蒙古自治区	阿拉善左旗	152921	Alxa Zuoqi	ALZ
+491	内蒙古自治区	阿拉善右旗	152922	Alxa Youqi	ALY
+492	内蒙古自治区	额济纳旗	152923	Ejin Qi	EJI
+493	辽宁省	辽宁省	210000	Liaoning Sheng	LN
+494	辽宁省	沈阳市	210100	Shenyang Shi	SHE
+495	辽宁省	市辖区	210101	Shixiaqu	
+496	辽宁省	和平区	210102	Heping Qu	HEP
+497	辽宁省	沈河区	210103	Shenhe Qu 	SHQ
+498	辽宁省	大东区	210104	Dadong Qu 	DDQ
+499	辽宁省	皇姑区	210105	Huanggu Qu	HGU
+500	辽宁省	铁西区	210106	Tiexi Qu	TXI
+501	辽宁省	苏家屯区	210111	Sujiatun Qu	SJT
+502	辽宁省	东陵区	210112	Dongling Qu 	DLQ
+503	辽宁省	新城子区	210113	Xinchengzi Qu	XCZ
+504	辽宁省	于洪区	210114	Yuhong Qu 	YHQ
+505	辽宁省	辽中县	210122	Liaozhong Xian	LZL
+506	辽宁省	康平县	210123	Kangping Xian	KPG
+507	辽宁省	法库县	210124	Faku Xian	FKU
+508	辽宁省	新民市	210181	Xinmin Shi	XMS
+509	辽宁省	大连市	210200	Dalian Shi	DLC
+510	辽宁省	市辖区	210201	Shixiaqu	
+511	辽宁省	中山区	210202	Zhongshan Qu	ZSD
+512	辽宁省	西岗区	210203	Xigang Qu	XGD
+513	辽宁省	沙河口区	210204	Shahekou Qu	SHK
+514	辽宁省	甘井子区	210211	Ganjingzi Qu	GJZ
+515	辽宁省	旅顺口区	210212	Lvshunkou Qu 	LSK
+516	辽宁省	金州区	210213	Jinzhou Qu	JZH
+517	辽宁省	长海县	210224	Changhai Xian	CHX
+518	辽宁省	瓦房店市	210281	Wafangdian Shi	WFD
+519	辽宁省	普兰店市	210282	Pulandian Shi	PLD
+520	辽宁省	庄河市	210283	Zhuanghe Shi	ZHH
+521	辽宁省	鞍山市	210300	AnShan Shi	ASN
+522	辽宁省	市辖区	210301	Shixiaqu	
+523	辽宁省	铁东区	210302	Tiedong Qu 	TED
+524	辽宁省	铁西区	210303	Tiexi Qu	TXL
+525	辽宁省	立山区	210304	Lishan Qu	LAS
+526	辽宁省	千山区	210311	Qianshan Qu 	QSQ
+527	辽宁省	台安县	210321	Tai,an Xian	TAX
+528	辽宁省	岫岩满族自治县	210323	Xiuyan Manzu Zizhixian	XYL
+529	辽宁省	海城市	210381	Haicheng Shi	HCL
+530	辽宁省	抚顺市	210400	Fushun Shi	FSN
+531	辽宁省	市辖区	210401	Shixiaqu	
+532	辽宁省	新抚区	210402	Xinfu Qu	XFU
+533	辽宁省	露天区	210403	Lutian Qu	LTF
+534	辽宁省	望花区	210404	Wanghua Qu	WHF
+535	辽宁省	顺城区	210411	Shuncheng Qu	SCF
+536	辽宁省	抚顺县	210421	Fushun Xian	FSX
+537	辽宁省	新宾满族自治区	210422	Xinbin Manzu Zizhixian 	XBN
+538	辽宁省	清原满族自治区	210423	Qingyuan Manzu Zizhixian 	QYA
+539	辽宁省	本溪市	210500	Benxi Shi	BXS
+540	辽宁省	市辖区	210501	Shixiaqu	
+541	辽宁省	平山区	210502	Pingshan Qu	PSN
+542	辽宁省	溪湖区	210503	Xihu Qu 	XHB
+543	辽宁省	明山区	210504	Mingshan Qu	MSB
+544	辽宁省	南芬区	210505	Nanfen Qu	NFQ
+545	辽宁省	本溪满族自治县	210521	Benxi Manzu Zizhixian	BXX
+546	辽宁省	桓仁满族自治县	210522	Huanren Manzu Zizhixian	HRL
+547	辽宁省	丹东市	210600	Dandong Shi	DDG
+548	辽宁省	市辖区	210601	Shixiaqu	
+549	辽宁省	元宝区	210602	Yuanbao Qu	YBD
+550	辽宁省	振兴区	210603	Zhenxing Qu 	ZXQ
+551	辽宁省	振安区	210604	Zhen,an Qu	ZAQ
+552	辽宁省	宽甸满族自治县	210624	Kuandian Manzu Zizhixian	KDN
+553	辽宁省	东港市	210681	Donggang Shi	DGS
+554	辽宁省	凤城市	210682	Fengcheng Shi	FCL
+555	辽宁省	锦州市	210700	Jinzhou Shi	JNZ
+556	辽宁省	市辖区	210701	Shixiaqu	
+557	辽宁省	古塔区	210702	Guta Qu	GTQ
+558	辽宁省	凌河区	210703	Linghe Qu	LHF
+559	辽宁省	太河区	210711	Taihe Qu	THJ
+560	辽宁省	黑山县	210726	Heishan Xian	HSL
+561	辽宁省	义县	210727	Yi Xian	YXL
+562	辽宁省	凌海市	210781	Linghai Shi 	LHL
+563	辽宁省	北宁市	210782	Beining Shi	BNG
+564	辽宁省	营口市	210800	Yingkou Shi	YIK
+565	辽宁省	市辖区	210801	Shixiaqu	
+566	辽宁省	站前区	210802	Zhanqian Qu	ZQQ
+567	辽宁省	西市区	210803	Xishi Qu	XII
+568	辽宁省	鲅鱼圈区	210804	Bayuquan Qu	BYQ
+569	辽宁省	老边区	210811	Laobian Qu	LOB
+570	辽宁省	盖州市	210881	Gaizhou Shi	GZU
+571	辽宁省	大石桥市	210882	Dashiqiao Shi	DSQ
+572	辽宁省	阜新市	210900	Fuxin Shi	FXS
+573	辽宁省	市辖区	210901	Shixiaqu	
+574	辽宁省	海州区	210902	Haizhou Qu	HZF
+575	辽宁省	新邱区	210903	Xinqiu Qu	XQF
+576	辽宁省	太平区	210904	Taiping Qu	TPG
+577	辽宁省	清河门区	210905	Qinghemen Qu	QHM
+578	辽宁省	细河区	210911	Xihe Qu	XHO
+579	辽宁省	阜新蒙古族自治县	210921	Fuxin Mongolzu Zizhixian	FXX
+580	辽宁省	彰武县	210922	Zhangwu Xian	ZWU
+581	辽宁省	辽阳市	211000	Liaoyang Shi	LYL
+582	辽宁省	市辖区	211001	Shixiaqu	
+583	辽宁省	白塔区	211002	Baita Qu	BTL
+584	辽宁省	文圣区	211003	Wensheng Qu	WST
+585	辽宁省	宏伟区	211004	Hongwei Qu	HWQ
+586	辽宁省	弓长岭区	211005	Gongchangling Qu	GCL
+587	辽宁省	太子河区	211011	Taizihe Qu	TZH
+588	辽宁省	辽阳县	211021	Liaoyang Xian	LYX
+589	辽宁省	灯塔市	211081	Dengta Shi	DTL
+590	辽宁省	盘锦市	211100	Panjin Shi	PJS
+591	辽宁省	市辖区	211101	Shixiaqu	
+592	辽宁省	双台子区	211102	Shuangtaizi Qu	STZ
+593	辽宁省	兴隆台区	211103	Xinglongtai Qu	XLT
+594	辽宁省	大洼县	211121	Dawa Xian	DWA
+595	辽宁省	盘山县	211122	Panshan Xian	PNS
+596	辽宁省	铁岭市	211200	Tieling Shi	TLS
+597	辽宁省	市辖区	211201	Shixiaqu	
+598	辽宁省	银州区	211202	Yinzhou Qu	YZU
+599	辽宁省	清河区	211204	Qinghe Qu	QHQ
+600	辽宁省	铁岭县	211221	Tieling Xian	TLG
+601	辽宁省	西丰县	211223	Xifeng Xian	XIF
+602	辽宁省	昌图县	211224	Changtu Xian	CTX
+603	辽宁省	铁法市	211281	Tiefa Shi 	TFA
+604	辽宁省	开原市	211282	Kaiyuan Shi	KYS
+605	辽宁省	朝阳市	211300	Chaoyang Shi	CYS
+606	辽宁省	市辖区	211301	Shixiaqu	
+607	辽宁省	双塔区	211302	Shuangta Qu	STQ
+608	辽宁省	龙城区	211303	Longcheng Qu	LCL
+609	辽宁省	朝阳县	211321	Chaoyang Xian	CYG
+610	辽宁省	建平县	211322	Jianping Xian	JPG
+611	辽宁省	喀喇沁左翼蒙古族自治县	211324	Harqin Zuoyi Mongolzu Zizhixian	HAZ
+612	辽宁省	北票市	211381	Beipiao Shi	BPO
+613	辽宁省	凌源市	211382	Lingyuan Shi	LYK
+614	辽宁省	葫芦岛市	211400	Huludao Shi	HLD
+615	辽宁省	市辖区	211401	Shixiaqu	
+616	辽宁省	连山区	211402	Lianshan Qu	LSQ
+617	辽宁省	龙港区	211403	Longgang Qu	LGD
+618	辽宁省	南票区	211404	Nanpiao Qu	NPQ
+619	辽宁省	绥中县	211421	Suizhong Xian	SZL
+620	辽宁省	建昌县	211422	Jianchang Xian	JCL
+621	辽宁省	兴城市	211481	Xingcheng Shi	XCL
+622	吉林省	吉林省	220000	Jilin Sheng	JL
+623	吉林省	长春市	220100	Changchun Shi 	CGQ
+624	吉林省	市辖区	220101	Shixiaqu	
+625	吉林省	南关区	220102	Nanguan Qu	NGN
+626	吉林省	宽城区	220103	Kuancheng Qu	KCQ
+627	吉林省	朝阳区	220104	Chaoyang Qu 	CYC
+628	吉林省	二道区	220105	Erdao Qu	EDQ
+629	吉林省	绿园区	220106	Lvyuan Qu	LYQ
+630	吉林省	双阳区	220112	Shuangyang Qu	SYQ
+631	吉林省	农安县	220122	Nong,an Xian 	NAJ
+632	吉林省	九台市	220180	Jiutai Shi	JUT
+633	吉林省	榆树市	220182	Yushu Shi	YSS
+634	吉林省	德惠市	220183	Dehui Shi	DEH
+635	吉林省	吉林市	220200	Jilin Shi 	JLS
+636	吉林省	市辖区	220201	Shixiaqu	
+637	吉林省	昌邑区	220202	Changyi Qu	CYI
+638	吉林省	龙潭区	220203	Longtan Qu	LTQ
+639	吉林省	船营区	220204	Chuanying Qu	CYJ
+640	吉林省	丰满区	220211	Fengman Qu	FMQ
+641	吉林省	永吉县	220221	Yongji Xian	YOJ
+642	吉林省	蛟河市	220281	Jiaohe Shi	JHJ
+643	吉林省	桦甸市	220282	Huadian Shi	HDJ
+644	吉林省	舒兰市	220283	Shulan Shi	SLN
+645	吉林省	磐石市	220284	Panshi Shi	PSI
+646	吉林省	四平市	220300	Siping Shi	SPS
+647	吉林省	市辖区	220301	Shixiaqu	
+648	吉林省	铁西区	220302	Tiexi Qu	TXS
+649	吉林省	铁东区	220303	Tiedong Qu 	TDQ
+650	吉林省	梨树县	220322	Lishu Xian	LSU
+651	吉林省	伊通满族自治县	220323	Yitong Manzu Zizhixian	YTO
+652	吉林省	公主岭市	220381	Gongzhuling Shi	GZL
+653	吉林省	双辽市	220382	Shuangliao Shi	SLS
+654	吉林省	辽源市	220400	Liaoyuan Shi	LYH
+655	吉林省	市辖区	220401	Shixiaqu	
+656	吉林省	龙山区	220402	Longshan Qu	LGS
+657	吉林省	西安区	220403	Xi,an Qu	XAA
+658	吉林省	东丰县	220421	Dongfeng Xian	DGF
+659	吉林省	东辽县	220422	Dongliao Xian 	DLX
+660	吉林省	通化市	220500	Tonghua Shi	THS
+661	吉林省	市辖区	220501	Shixiaqu	
+662	吉林省	东昌区	220502	Dongchang Qu	DCT
+663	吉林省	二道江区	220503	Erdaojiang Qu	EDJ
+664	吉林省	通化县	220521	Tonghua Xian 	THX
+665	吉林省	辉南县	220523	Huinan Xian 	HNA
+666	吉林省	柳河县	220524	Liuhe Xian 	LHC
+667	吉林省	梅河口市	220581	Meihekou Shi	MHK
+668	吉林省	集安市	220582	Ji,an Shi	KNC
+669	吉林省	白山市	220600	Baishan Shi	BSN
+670	吉林省	市辖区	220601	Shixiaqu	
+671	吉林省	八道江区	220602	Badaojiang Qu	BDJ
+672	吉林省	抚松县	220621	Fusong Xian	FSG
+673	吉林省	靖宇县	220622	Jingyu Xian	JYJ
+674	吉林省	长白朝县族自治县	220623	Changbai Chosenzu Zizhixian	CGB
+675	吉林省	江源县	220625	Jiangyuan Xian	JYT
+676	吉林省	临江市	220681	Linjiang Shi	LIN
+677	吉林省	松原市	220700	Songyuan Shi	SYU
+678	吉林省	市辖区	220701	Shixiaqu	
+679	吉林省	宁江区	220702	Ningjiang Qu	NJA
+680	吉林省	前郭尔罗斯蒙古族自治县	220721	Qian Gorlos Mongolzu Zizhixian	QGO
+681	吉林省	长岭县	220722	Changling Xian	CLG
+682	吉林省	乾安县	220723	Qian,an Xian	QAJ
+683	吉林省	扶余县	220724	Fuyu Xian	FYU
+684	吉林省	白城市	220800	Baicheng Shi	BCS
+685	吉林省	市辖区	220801	Shixiaqu	
+686	吉林省	洮北区	220802	Taobei Qu	TBQ
+687	吉林省	镇赉县	220821	Zhenlai Xian	ZLA
+688	吉林省	通榆县	220822	Tongyu Xian	TGY
+689	吉林省	洮南市	220881	Taonan Shi	TNS
+690	吉林省	大安市	220882	Da,an Shi	DNA
+691	吉林省	延边朝鲜族自治州	222400	Yanbian Chosenzu Zizhizhou	YBZ
+692	吉林省	延吉市	222401	Yanji Shi	YNJ
+693	吉林省	图们市	222402	Tumen Shi	TME
+694	吉林省	敦化市	222403	Dunhua Shi	DHS
+695	吉林省	珲春市	222404	Hunchun Shi	HUC
+696	吉林省	龙井市	222405	Longjing Shi	LJJ
+697	吉林省	和龙市	222406	Helong Shi	HEL
+698	吉林省	汪清县	222424	Wangqing Xian	WGQ
+699	吉林省	安图县	222426	Antu Xian	ATU
+700	黑龙江省	黑龙江省	230000	Heilongjiang Sheng	HL
+701	黑龙江省	哈尔滨市	230100	Harbin Shi	HRB
+702	黑龙江省	市辖区	230101	Shixiaqu	
+703	黑龙江省	道里区	230102	Daoli Qu	DLH
+704	黑龙江省	南岗区	230103	Nangang Qu	NGQ
+705	黑龙江省	道外区	230104	Daowai Qu	DWQ
+706	黑龙江省	太平区	230105	Taiping Qu	TPQ
+707	黑龙江省	香坊区	230106	Xiangfang Qu	XFQ
+708	黑龙江省	动力区	230107	Dongli Qu	DGL
+709	黑龙江省	平房区	230108	Pingfang Qu	PFQ
+710	黑龙江省	呼兰县	230121	Hulan Xian	HLH
+711	黑龙江省	依兰县	230123	Yilan Xian	YLH
+712	黑龙江省	方正县	230124	Fangzheng Xian	FZH
+713	黑龙江省	宾县	230125	Bin Xian	BNX
+714	黑龙江省	巴彦县	230126	Bayan Xian	BYH
+715	黑龙江省	木兰县	230127	Mulan Xian 	MUL
+716	黑龙江省	通河县	230128	Tonghe Xian	TOH
+717	黑龙江省	延寿县	230129	Yanshou Xian	YSU
+718	黑龙江省	阿城市	230181	Acheng Shi	ACG
+719	黑龙江省	双城市	230182	Shuangcheng Shi	SCS
+720	黑龙江省	尚志市	230183	Shangzhi Shi	SZI
+721	黑龙江省	五常市	230184	Wuchang Shi	WCA
+722	黑龙江省	齐齐哈尔市	230200	Qiqihar Shi	NDG
+723	黑龙江省	市辖区	230201	Shixiaqu	
+724	黑龙江省	龙沙区	230202	Longsha Qu	LQQ
+725	黑龙江省	建华区	230203	Jianhua Qu	JHQ
+726	黑龙江省	铁峰区	230204	Tiefeng Qu	TFQ
+727	黑龙江省	昂昂溪区	230205	Ang,angxi Qu	AAX
+728	黑龙江省	富拉尔基区	230206	Hulan Ergi Qu	HUE
+729	黑龙江省	碾子山区	230207	Nianzishan Qu	NZS
+730	黑龙江省	梅里斯达斡尔族	230208	Meilisi Daurzu Qu	MLS
+731	黑龙江省	龙江县	230221	Longjiang Xian	LGJ
+732	黑龙江省	依安县	230223	Yi,an Xian	YAN
+733	黑龙江省	泰来县	230224	Tailai Xian	TLA
+734	黑龙江省	甘南县	230225	Gannan Xian	GNX
+735	黑龙江省	富裕县	230227	Fuyu Xian	FYX
+736	黑龙江省	克山县	230229	Keshan Xian	KSN
+737	黑龙江省	克东县	230230	Kedong Xian	KDO
+738	黑龙江省	拜泉县	230231	Baiquan Xian	BQN
+739	黑龙江省	讷河市	230281	Nehe Shi	NEH
+740	黑龙江省	鸡西市	230300	Jixi Shi	JXI
+741	黑龙江省	市辖区	230301	Shixiaqu	
+742	黑龙江省	鸡冠区	230302	Jiguan Qu	JGU
+743	黑龙江省	恒山区	230303	Hengshan Qu	HSD
+744	黑龙江省	滴道区	230304	Didao Qu	DDO
+745	黑龙江省	梨树区	230305	Lishu Qu	LJX
+746	黑龙江省	城子河区	230306	Chengzihe Qu	CZH
+747	黑龙江省	麻山区	230307	Mashan Qu	MSN
+748	黑龙江省	鸡东县	230321	Jidong Xian	JID
+749	黑龙江省	虎林市	230381	Hulin Shi	HUL
+750	黑龙江省	密山市	230382	Mishan Shi	MIS
+751	黑龙江省	鹤岗市	230400	Hegang Shi	HEG
+752	黑龙江省	市辖区	230401	Shixiaqu	
+753	黑龙江省	向阳区	230402	Xiangyang  Qu 	XYZ
+754	黑龙江省	工农区	230403	Gongnong Qu	GNH
+755	黑龙江省	南山区	230404	Nanshan Qu	NSQ
+756	黑龙江省	兴安区	230405	Xing,an Qu	XAH
+757	黑龙江省	东山区	230406	Dongshan Qu	DSA
+758	黑龙江省	兴山区	230407	Xingshan Qu	XSQ
+759	黑龙江省	萝北县	230421	Luobei Xian	LUB
+760	黑龙江省	绥宾县	230422	Suibin Xian	SBN
+761	黑龙江省	双鸭山市	230500	Shuangyashan Shi	SYS
+762	黑龙江省	市辖区	230501	Shixiaqu	
+763	黑龙江省	尖山区	230502	Jianshan Qu	JSQ
+764	黑龙江省	岭东区	230503	Lingdong Qu	LDQ
+765	黑龙江省	四方台区	230505	Sifangtai Qu	SFT
+766	黑龙江省	宝山区	230506	Baoshan Qu	BSQ
+767	黑龙江省	集贤县	230521	Jixian Xian	JXH
+768	黑龙江省	友谊县	230522	Youyi Xian	YYI
+769	黑龙江省	宝清县	230523	Baoqing Xian	BQG
+770	黑龙江省	饶河县	230524	Raohe Xian 	ROH
+771	黑龙江省	大庆市	230600	Daqing Shi	DQG
+772	黑龙江省	市辖区	230601	Shixiaqu	
+773	黑龙江省	萨尔图区	230602	Sairt Qu	SAI
+774	黑龙江省	龙凤区	230603	Longfeng Qu	LFQ
+775	黑龙江省	让胡路区	230604	Ranghulu Qu	RHL
+776	黑龙江省	红岗区	230605	Honggang Qu	HGD
+777	黑龙江省	大同区	230606	Datong Qu	DHD
+778	黑龙江省	肇州县	230621	Zhaozhou Xian	ZAZ
+779	黑龙江省	肇源县	230622	Zhaoyuan Xian	ZYH
+780	黑龙江省	林甸县	230623	Lindian Xian 	LDN
+781	黑龙江省	杜尔伯特蒙古族自治县	230624	Dorbod Mongolzu Zizhixian	DOM
+782	黑龙江省	伊春市	230700	Yichun Shi	YCH
+783	黑龙江省	市辖区	230701	Shixiaqu	
+784	黑龙江省	伊春区	230702	Yichun Qu	YYC
+785	黑龙江省	南岔区	230703	Nancha Qu	NCQ
+786	黑龙江省	友好区	230704	Youhao Qu	YOH
+787	黑龙江省	西林区	230705	Xilin Qu	XIL
+788	黑龙江省	翠峦区	230706	Cuiluan Qu	CLN
+789	黑龙江省	新青区	230707	Xinqing Qu	XQQ
+790	黑龙江省	美溪区	230708	Meixi Qu	MXQ
+791	黑龙江省	金山屯区	230709	Jinshantun Qu	JST
+792	黑龙江省	五营区	230710	Wuying Qu	WYQ
+793	黑龙江省	乌马河区	230711	Wumahe Qu	WMH
+794	黑龙江省	汤旺河区	230712	Tangwanghe Qu	TWH
+795	黑龙江省	带岭区	230713	Dailing Qu	DLY
+796	黑龙江省	乌伊岭区	230714	Wuyiling Qu	WYL
+797	黑龙江省	红星区	230715	Hongxing Qu	HGX
+798	黑龙江省	上甘岭区	230716	Shangganling Qu	SGL
+799	黑龙江省	嘉阴县	230722	Jiayin Xian	JAY
+800	黑龙江省	铁力市	230781	Tieli Shi	TEL
+801	黑龙江省	佳木斯市	230800	Jiamusi Shi	JMU
+802	黑龙江省	市辖区	230801	Shixiaqu	
+803	黑龙江省	永红区	230802	Yonghong Qu	YHJ
+804	黑龙江省	向阳区	230803	Xiangyang  Qu 	XYQ
+805	黑龙江省	前进区	230804	Qianjin Qu	QJQ
+806	黑龙江省	东风区	230805	Dongfeng Qu	DFQ
+807	黑龙江省	郊区	230811	Jiaoqu	JQJ
+808	黑龙江省	桦南县	230822	Huanan Xian	HNH
+809	黑龙江省	桦川县	230826	Huachuan Xian	HCN
+810	黑龙江省	汤原县	230828	Tangyuan Xian	TYX
+811	黑龙江省	抚远县	230833	Fuyuan Xian	FUY
+812	黑龙江省	同江市	230881	Tongjiang Shi	TOJ
+813	黑龙江省	富锦市	230882	Fujin Shi	FUJ
+814	黑龙江省	七台河市	230900	Qitaihe Shi	QTH
+815	黑龙江省	市辖区	230901	Shixiaqu	
+816	黑龙江省	新兴区	230902	Xinxing Qu	XXQ
+817	黑龙江省	桃山区	230903	Taoshan Qu	TSC
+818	黑龙江省	茄子河区	230904	Qiezihe Qu	QZI
+819	黑龙江省	勃利县	230921	Boli Xian	BLI
+820	黑龙江省	牡丹江市	231000	Mudanjiang Shi	MDG
+821	黑龙江省	市辖区	231001	Shixiaqu	
+822	黑龙江省	东安区	231002	Dong,an Qu	DGA
+823	黑龙江省	阳明区	231003	Yangming Qu	YMQ
+824	黑龙江省	爱民区	231004	Aimin Qu	AMQ
+825	黑龙江省	西安区	231005	Xi,an Qu	XAQ
+826	黑龙江省	东宁县	231024	Dongning Xian	DON
+827	黑龙江省	林口县	231025	Linkou Xian	LKO
+828	黑龙江省	绥芬河市	231081	Suifenhe Shi	SFE
+829	黑龙江省	海林市	231083	Hailin Shi	HLS
+830	黑龙江省	宁安市	231084	Ning,an Shi	NAI
+831	黑龙江省	穆棱市	231085	Muling Shi	MLG
+832	黑龙江省	黑河市	231100	Heihe Shi	HEK
+833	黑龙江省	市辖区	231101	Shixiaqu	
+834	黑龙江省	爱辉区	231102	Aihui Qu	AHQ
+835	黑龙江省	嫩江县	231121	Nenjiang Xian	NJH
+836	黑龙江省	逊克县	231123	Xunke Xian	XUK
+837	黑龙江省	孙吴县	231124	Sunwu Xian	SUW
+838	黑龙江省	北安市	231181	Bei,an Shi	BAS
+839	黑龙江省	五大连池市	231182	Wudalianchi Shi	WDL
+840	黑龙江省	绥化地区	232300	Suihua Diqu	SHD
+841	黑龙江省	绥化市	232301	Suihua Shi	SUH
+842	黑龙江省	安达市	232302	Anda Shi	ADA
+843	黑龙江省	肇东市	232303	Zhaodong Shi	ZDS
+844	黑龙江省	海伦市	232304	Hailun Shi	HLU
+845	黑龙江省	望奎县	232324	Wangkui Xian	WKI
+846	黑龙江省	兰西县	232325	Lanxi Xian	LXT
+847	黑龙江省	青冈县	232326	Qinggang Xian	QGG
+848	黑龙江省	庆安县	232330	Qing,an Xian	QAN
+849	黑龙江省	明水县	232331	Mingshui Xian	MSU
+850	黑龙江省	绥棱县	232332	Suileng Xian	SLG
+851	黑龙江省	大兴安岭地区	232700	Da Hinggan Ling Diqu	DHL
+852	黑龙江省	呼玛县	232721	Huma Xian	HUM
+853	黑龙江省	塔河县	232722	Tahe Xian	TAH
+854	黑龙江省	漠河县	232723	Mohe Xian	MOH
+855	上海市	上海市	310000	Shanghai Shi	SH
+856	上海市	市辖区	310100	Shixiaqu	
+857	上海市	黄浦区	310101	Huangpu Qu	HGP
+858	上海市	卢湾区	310103	Luwan Qu	LWN
+859	上海市	徐汇区	310104	Xuhui Qu	XHI
+860	上海市	长宁区	310105	Changning Qu	CNQ
+861	上海市	静安区	310106	Jing,an Qu	JAQ
+862	上海市	普陀区	310107	Putuo Qu	PTQ
+863	上海市	闸北区	310108	Zhabei Qu	ZBE
+864	上海市	虹口区	310109	Hongkou Qu	HKQ
+865	上海市	杨浦区	310110	Yangpu Qu	YPU
+866	上海市	闵行区	310112	Minhang Qu	MHQ
+867	上海市	宝山区	310113	Baoshan Qu	BAO
+868	上海市	嘉定区	310114	Jiading Qu	JDG
+869	上海市	浦东新区	310115	Pudong Xinqu	PDX
+870	上海市	金山区	310116	Jinshan Qu	JSH
+871	上海市	松江区	310117	Songjiang Qu	SOJ
+872	上海市	县	310200	Xian	
+873	上海市	南汇区	310119	Nanhui Qu	NNH
+874	上海市	奉贤区	310120	Fengxian Qu	FXI
+875	上海市	青浦区	310118	Qingpu  Qu	QPU
+876	上海市	崇明县	310230	Chongming Xian	CMI
+877	江苏省	江苏省	320000	Jiangsu Sheng	JS
+878	江苏省	南京市	320100	Nanjing Shi	NKG
+879	江苏省	市辖区	320101	Shixiaqu	
+880	江苏省	玄武区	320102	Xuanwu Qu	XWU
+881	江苏省	白下区	320103	Baixia Qu	BXQ
+882	江苏省	秦淮区	320104	Qinhuai Qu	QHU
+883	江苏省	建邺区	320105	Jianye Qu	JYQ
+884	江苏省	鼓楼区	320106	Gulou Qu	GLQ
+885	江苏省	下关区	320107	Xiaguan Qu	XGQ
+886	江苏省	浦口区	320111	Pukou Qu	PKO
+887	江苏省	大厂区	320112	Dachang Qu	DCH
+888	江苏省	栖霞区	320113	Qixia Qu	QAX
+889	江苏省	雨花台区	320114	Yuhuatai Qu	YHT
+890	江苏省	江宁县	320121	Jiangning Xian	JNX
+891	江苏省	江浦县	320122	Jiangpu Xian 	JPU
+892	江苏省	六合县	320123	Liuhe Xian 	LHE
+893	江苏省	溧水县	320124	Lishui Xian	LIS
+894	江苏省	高淳县	320125	Gaochun Xian	GCN
+895	江苏省	无锡市	320200	Wuxi Shi	WUX
+896	江苏省	市辖区	320201	Shixiaqu	
+897	江苏省	崇安区	320202	Chong,an Qu	CGA
+898	江苏省	南长区	320203	Nanchang Qu	NCG
+899	江苏省	北塘区	320204	Beitang Qu	BTQ
+900	江苏省	郊区	320211	Jiaoqu	JQW
+901	江苏省	马山区	320212	Mashan Qu	MSW
+902	江苏省	江阴市	320281	Jiangyin Shi	JIA
+903	江苏省	宜兴市	320282	Yixing Shi	YIX
+904	江苏省	锡山市	320283	Xishan Shi	XSS
+905	江苏省	徐州市	320300	Xuzhou Shi	XUZ
+906	江苏省	市辖区	320301	Shixiaqu	
+907	江苏省	鼓楼区	320302	Gulou Qu	GLU
+908	江苏省	云龙区	320303	Yunlong Qu	YLF
+909	江苏省	九里区	320304	Jiuli Qu	JUL
+910	江苏省	贾汪区	320305	Jiawang Qu	JWQ
+911	江苏省	泉山区	320311	Quanshan Qu	QSX
+912	江苏省	丰县	320321	Feng Xian	FXN
+913	江苏省	沛县	320322	Pei Xian	PEI
+914	江苏省	铜山县	320323	Tongshan Xian	TSX
+915	江苏省	睢宁县	320324	Suining Xian	SNI
+916	江苏省	新沂市	320381	Xinyi Shi	XYW
+917	江苏省	邳州市	320382	Pizhou Shi	PZO
+918	江苏省	常州市	320400	Changzhou Shi	CZX
+919	江苏省	市辖区	320401	Shixiaqu	
+920	江苏省	天宁区	320402	Tianning Qu	TNQ
+921	江苏省	钟楼区	320404	Zhonglou Qu	ZLQ
+922	江苏省	戚墅堰区	320405	Qishuyan Qu	QSY
+923	江苏省	郊区	320411	Jiaoqu	JCZ
+924	江苏省	溧阳市	320481	Liyang Shi	LYR
+925	江苏省	金坛市	320482	Jintan Shi	JTS
+926	江苏省	武进市	320483	Wujin Shi	WJN
+927	江苏省	苏州市	320500	Suzhou Shi	SZH
+928	江苏省	市辖区	320501	Shixiaqu	
+929	江苏省	沧浪区	320502	Canglang Qu	CLQ
+930	江苏省	平江区	320503	Pingjiang Qu	PJQ
+931	江苏省	金阊区	320504	Jinchang Qu	JCA
+932	江苏省	郊区	320511	Jiaoqu	JSZ
+933	江苏省	常熟市	320581	Changshu Shi	CGS
+934	江苏省	张家港市	320582	Zhangjiagang Shi 	ZJG
+935	江苏省	昆山市	320583	Kunshan Shi	KUS
+936	江苏省	吴江市	320584	Wujiang Shi	WUJ
+937	江苏省	太仓市	320585	Taicang Shi	TAC
+938	江苏省	吴县市	320586	Wuxian Shi	WXS
+939	江苏省	南通市	320600	Nantong Shi	NTG
+940	江苏省	市辖区	320601	Shixiaqu	
+941	江苏省	崇川区	320602	Chongchuan Qu	CCQ
+942	江苏省	港闸区	320611	Gangzha Qu	GZQ
+943	江苏省	海安县	320621	Hai,an Xian	HIA
+944	江苏省	如东县	320623	Rudong Xian	RDG
+945	江苏省	启东市	320681	Qidong Shi	QID
+946	江苏省	如皋市	320682	Rugao Shi	RGO
+947	江苏省	通州市	320683	Tongzhou Shi	TGA
+948	江苏省	海门市	320684	Haimen Shi	HME
+949	江苏省	连云港市	320700	Lianyungang Shi	LYG
+950	江苏省	市辖区	320701	Shixiaqu	
+951	江苏省	连云区	320703	Lianyun Qu	LYB
+952	江苏省	云台区	320704	Yuntai Qu	YTI
+953	江苏省	新浦区	320705	Xinpu Qu	XPQ
+954	江苏省	海州区	320706	Haizhou Qu	HIZ
+955	江苏省	赣榆县	320721	Ganyu Xian	GYU
+956	江苏省	东海县	320722	Donghai Xian	DHX
+957	江苏省	灌云县	320723	Guanyun Xian	GYS
+958	江苏省	灌南县	320724	Guannan Xian	GUN
+959	江苏省	淮阴市	320800	Huaiyin Shi	HYS
+960	江苏省	市辖区	320801	Shixiaqu	
+961	江苏省	清河区	320802	Qinghe Qu	QHH
+962	江苏省	清浦区	320811	Qingpu Qu	QPQ
+963	江苏省	淮阴县	320821	Huaiyin Xian	HYX
+964	江苏省	涟水县	320826	Lianshui Xian	LSI
+965	江苏省	洪泽县	320829	Hongze Xian	HGZ
+966	江苏省	盱眙县	320830	Xuyi Xian	XUY
+967	江苏省	金湖县	320831	Jinhu Xian	JHU
+968	江苏省	淮安市	320882	Huai,an Xian	HAS
+969	江苏省	盐城市	320900	Yancheng Shi	YCK
+970	江苏省	市辖区	320901	Shixiaqu	
+971	江苏省	城区	320902	Chengqu	CQH
+972	江苏省	响水县	320921	Xiangshui Xian	XSH
+973	江苏省	滨海县	320922	Binhai Xian	BHI
+974	江苏省	阜宁县	320923	Funing Xian	FNG
+975	江苏省	射阳县	320924	Sheyang Xian	SEY
+976	江苏省	建湖县	320925	Jianhu Xian	JIH
+977	江苏省	盐都县	320928	Yandu Xian	YDU
+978	江苏省	东台市	320981	Dongtai Shi	DTS
+979	江苏省	大丰市	320982	Dafeng Shi	DFS
+980	江苏省	扬州市	321000	Yangzhou Shi	YZH
+981	江苏省	市辖区	321001	Shixiaqu	
+982	江苏省	广陵区	321002	Guangling Qu	GGL
+983	江苏省	郊区	321011	Jiaoqu	JYZ
+984	江苏省	宝应县	321023	Baoying Xian 	BYI
+985	江苏省	邗江县	321027	Hanjiang Xian	HAJ
+986	江苏省	仪征市	321081	Yizheng Shi	YZE
+987	江苏省	高邮市	321084	Gaoyou Shi	GYO
+988	江苏省	江都市	321088	Jiangdu Shi	JDU
+989	江苏省	镇江市	321100	Zhenjiang Shi	ZHE
+990	江苏省	市辖区	321101	Shixiaqu	
+991	江苏省	东口区	321102	Dongkou Qu	JKQ
+992	江苏省	润州区	321111	Runzhou Qu	RZQ
+993	江苏省	丹徒县	321121	Dantu Xian	DNT
+994	江苏省	丹阳市	321181	Danyang Xian	DNY
+995	江苏省	扬中市	321182	Yangzhong Shi	YZG
+996	江苏省	句容市	321183	Jurong Shi	JRG
+997	江苏省	泰州市	321200	Taizhou Shi	TZS
+998	江苏省	市辖区	321201	Shixiaqu	
+999	江苏省	海陵区	321202	Hailing Qu	HIL
+1000	江苏省	高港区	321203	Gaogang Qu	GGQ
+1001	江苏省	兴化市	321281	Xinghua Shi	XHS
+1002	江苏省	靖江市	321282	Jingjiang Shi	JGJ
+1003	江苏省	泰兴市	321283	Taixing Shi	TXG
+1004	江苏省	姜堰市	321284	Jiangyan Shi	JYS
+1005	江苏省	宿迁市	321300	Suqian Shi	SUQ
+1006	江苏省	市辖区	321301	Shixiaqu	
+1007	江苏省	宿城区	321302	Sucheng Qu	SCE
+1008	江苏省	宿豫区	321321	Suyu Qu	SYY
+1009	江苏省	沭阳县	321322	Shuyang Xian	SYD
+1010	江苏省	泗阳县	321323	Siyang Xian 	SIY
+1011	江苏省	泗洪县	321324	Sihong Xian	SIH
+1012	浙江省	浙江省	330000	Zhejiang Sheng	ZJ
+1013	浙江省	杭州市	330100	Hangzhou Shi	HGH
+1014	浙江省	市辖区	330101	Shixiaqu	
+1015	浙江省	上城区	330102	Shangcheng Qu	SCQ
+1016	浙江省	下城区	330103	Xiacheng Qu	XCG
+1017	浙江省	江干区	330104	Jianggan Qu	JGQ
+1018	浙江省	拱墅区	330105	Gongshu Qu	GSQ
+1019	浙江省	西湖区	330106	Xihu Qu 	XHU
+1020	浙江省	滨江区	330108	Binjiang Qu	BJQ
+1021	浙江省	桐庐县	330122	Tonglu Xian	TLU
+1022	浙江省	淳安县	330127	Chun,an Xian	CAZ
+1023	浙江省	萧山市	330181	Xiaoshan Shi	XIS
+1024	浙江省	建德市	330182	Jiande Shi	JDS
+1025	浙江省	富阳市	330183	Fuyang Shi	FYZ
+1026	浙江省	余杭市	330184	Yuhang Shi	YHS
+1027	浙江省	临安市	330185	Lin,an Shi	LNA
+1028	浙江省	宁波市	330200	Ningbo Shi	NGB
+1029	浙江省	市辖区	330201	Shixiaqu	
+1030	浙江省	海曙区	330203	Haishu Qu	HNB
+1031	浙江省	江东区	330204	Jiangdong Qu	JDO
+1032	浙江省	江北区	330205	Jiangbei Qu	JBQ
+1033	浙江省	北仑区	330206	Beilun Qu	BLN
+1034	浙江省	镇海区	330211	Zhenhai Qu	ZHF
+1035	浙江省	象山县	330225	Xiangshan Xian	YSZ
+1036	浙江省	宁海县	330226	Ninghai Xian	NHI
+1037	浙江省	鄞县	330227	Yin Xian	YXZ
+1038	浙江省	余姚市	330281	Yuyao Shi	YYO
+1039	浙江省	慈溪市	330282	Cixi Shi	CXI
+1040	浙江省	奉化市	330283	Fenghua Shi	FHU
+1041	浙江省	温州市	330300	Wenzhou Shi	WNZ
+1042	浙江省	市辖区	330301	Shixiaqu	
+1043	浙江省	鹿城区	330302	Lucheng Qu	LUW
+1044	浙江省	龙湾区	330303	Longwan Qu	LWW
+1045	浙江省	瓯海区	330304	Ouhai Qu	OHQ
+1046	浙江省	洞头县	330322	Dongtou Xian	DTO
+1047	浙江省	永嘉县	330324	Yongjia Xian	YJX
+1048	浙江省	平阳县	330326	Pingyang Xian	PYG
+1049	浙江省	苍南县	330327	Cangnan Xian	CAN
+1050	浙江省	文成县	330328	Wencheng Xian	WCZ
+1051	浙江省	泰顺县	330329	Taishun Xian	TSZ
+1052	浙江省	瑞安市	330381	Rui,an Xian	RAS
+1053	浙江省	乐清市	330382	Yueqing Shi	YQZ
+1054	浙江省	嘉兴市	330400	Jiaxing Shi	JIX
+1055	浙江省	市辖区	330401	Shixiaqu	
+1056	浙江省	秀城区	330402	Xiucheng Qu	XCJ
+1057	浙江省	郊区	330411	Jiaoqu	JJX
+1058	浙江省	嘉善县	330421	Jiashan Xian	JSK
+1059	浙江省	海盐县	330424	Haiyan Xian	HYN
+1060	浙江省	海宁市	330481	Haining Shi	HNG
+1061	浙江省	平湖市	330482	Pinghu Shi	PHU
+1062	浙江省	桐乡市	330483	Tongxiang Shi	TXZ
+1063	浙江省	湖州市	330500	Huzhou Shi 	HZH
+1064	浙江省	市辖区	330501	Shixiaqu	
+1065	浙江省	德清县	330521	Deqing Xian	DQX
+1066	浙江省	长兴县	330522	Changxing Xian	CXG
+1067	浙江省	安吉县	330523	Anji Xian	AJI
+1068	浙江省	绍兴市	330600	Shaoxing Shi	SXG
+1069	浙江省	市辖区	330601	Shixiaqu	
+1070	浙江省	越城区	330602	Yuecheng Qu	YSX
+1071	浙江省	绍兴县	330621	Shaoxing Xian	SXZ
+1072	浙江省	新昌县	330624	Xinchang Xian	XCX
+1073	浙江省	诸暨市	330681	Zhuji Shi	ZHJ
+1074	浙江省	上虞市	330682	Shangyu Shi	SYZ
+1075	浙江省	嵊州市	330683	Shengzhou Shi	SGZ
+1076	浙江省	金华市	330700	Jinhua Shi	JHA
+1077	浙江省	市辖区	330701	Shixiaqu	
+1078	浙江省	婺城区	330702	Wucheng Qu	WCF
+1079	浙江省	金华县	330721	Jinhua Xian	JNH
+1080	浙江省	武义县	330723	Wuyi Xian	WYX
+1081	浙江省	浦江县	330726	Pujiang Xian 	PJG
+1082	浙江省	磐安县	330727	Pan,an Xian	PAX
+1083	浙江省	兰溪市	330781	Lanxi Shi	LXZ
+1084	浙江省	义乌市	330782	Yiwu Shi	YWS
+1085	浙江省	东阳市	330783	Dongyang Shi	DGY
+1086	浙江省	永康市	330784	Yongkang Shi	YKG
+1087	浙江省	衢州市	330800	Quzhou Shi	QUZ
+1088	浙江省	市辖区	330801	Shixiaqu	
+1089	浙江省	柯城区	330802	Kecheng Qu	KEC
+1090	浙江省	衢县	330821	Qu Xian	QXN
+1091	浙江省	常山县	330822	Changshan Xian	CSN
+1092	浙江省	开化县	330824	Kaihua Xian	KHU
+1093	浙江省	龙游县	330825	Longyou Xian 	LGY
+1094	浙江省	江山市	330881	Jiangshan Shi	JIS
+1095	浙江省	舟山市	330900	Zhoushan Shi	ZOS
+1096	浙江省	市辖区	330901	Shixiaqu	
+1097	浙江省	定海区	330902	Dinghai Qu	DHQ
+1098	浙江省	普陀区	330903	Putuo Qu	PTO
+1099	浙江省	岱山县	330921	Daishan Xian	DSH
+1100	浙江省	嵊泗县	330922	Shengsi Xian	SSZ
+1101	浙江省	台州市	331000	Taizhou Shi	TZZ
+1102	浙江省	市辖区	331001	Shixiaqu	
+1103	浙江省	椒江区	331002	Jiaojiang Qu	JJT
+1104	浙江省	黄岩区	331003	Huangyan Qu	HYT
+1105	浙江省	路桥区	331004	Luqiao Qu	LQT
+1106	浙江省	玉环县	331021	Yuhuan Xian	YHN
+1107	浙江省	三门县	331022	Sanmen Xian	SMN
+1108	浙江省	天台县	331023	Tiantai Xian	TTA
+1109	浙江省	仙居县	331024	Xianju Xian	XJU
+1110	浙江省	温岭市	331081	Wenling Shi	WLS
+1111	浙江省	临海市	331082	Linhai Shi	LHI
+1112	浙江省	丽水地区	332500	Lishui Diqu	LSD
+1113	浙江省	丽水市	332501	Lishui Shi	LSS
+1114	浙江省	龙泉市	332502	Longquan Shi	LGQ
+1115	浙江省	青田县	332522	Qingtian Xian	QDN
+1116	浙江省	云和县	332523	Yunhe Xian	YNH
+1117	浙江省	庆元县	332525	Qingyuan Xian	QYX
+1118	浙江省	缙云县	332526	Jinyun Xian	JYP
+1119	浙江省	遂昌县	332527	Suichang Xian	SCZ
+1120	浙江省	松阳县	332528	Songyang Xian	SGY
+1121	浙江省	景宁畲族自治县	332529	Jingning Shezu Zizhixian	JGN
+1122	安徽省	安徽省	340000	Anhui Sheng	AH
+1123	安徽省	合肥市	340100	Hefei Shi	HFE
+1124	安徽省	市辖区	340101	Shixiaqu	
+1125	安徽省	东市区	340102	Dongshi Qu	DSI
+1126	安徽省	中市区	340103	Zhongshi Qu	ZSH
+1127	安徽省	西市区	340104	Xishi Qu	XSF
+1128	安徽省	郊区	340111	Jiaoqu	JHF
+1129	安徽省	长丰县	340121	Changfeng Xian	CFG
+1130	安徽省	肥东县	340122	Feidong Xian	FDO
+1131	安徽省	肥西县	340123	Feixi Xian	FIX
+1132	安徽省	芜湖市	340200	Wuhu Shi	WHI
+1133	安徽省	市辖区	340201	Shixiaqu	
+1134	安徽省	镜湖区	340202	Jinghu Qu	JHW
+1135	安徽省	马塘区	340203	Matang Qu	MTQ
+1136	安徽省	新芜区	340204	Xinwu Qu	XWW
+1137	安徽省	鸠江区	340207	Jiujiang Qu	JJW
+1138	安徽省	芜湖县	340221	Wuhu Xian	WHX
+1139	安徽省	繁昌县	340222	Fanchang Xian	FCH
+1140	安徽省	南陵县	340223	Nanling Xian	NLX
+1141	安徽省	蚌埠市	340300	Bengbu Shi	BBU
+1142	安徽省	市辖区	340301	Shixiaqu	
+1143	安徽省	东市区	340302	Dongshi Qu	DSB
+1144	安徽省	中市区	340303	Zhongshi Qu	ZSI
+1145	安徽省	西市区	340304	Xishi Qu	XBB
+1146	安徽省	郊区	340311	Jiaoqu	JBB
+1147	安徽省	怀远县	340321	Huaiyuan Qu	HYW
+1148	安徽省	五河县	340322	Wuhe Xian	WHE
+1149	安徽省	固镇县	340323	Guzhen Xian	GZX
+1150	安徽省	淮南市	340400	Huainan Shi	HNS
+1151	安徽省	市辖区	340401	Shixiaqu	
+1152	安徽省	大通区	340402	Datong Qu	DTQ
+1153	安徽省	田家庵区	340403	Tianjia,an Qu	TJA
+1154	安徽省	谢家集区	340404	Xiejiaji Qu	XJJ
+1155	安徽省	八公山区	340405	Bagongshan Qu	BGS
+1156	安徽省	潘集区	340406	Panji Qu	PJI
+1157	安徽省	凤台区	340421	Fengtai Qu	FTX
+1158	安徽省	马鞍山市	340500	Ma,anshan Shi	MAA
+1159	安徽省	市辖区	340501	Shixiaqu	
+1160	安徽省	金家庄区	340502	Jinjiazhuang Qu	JJZ
+1161	安徽省	花山区	340503	Huashan Qu	HSM
+1162	安徽省	雨山区	340504	Yushan Qu	YSQ
+1163	安徽省	向山区	340505	Xiangshan Qu	XSM
+1164	安徽省	当涂县	340521	Dangtu Xian	DTU
+1165	安徽省	淮北市	340600	Huaibei Shi	HBE
+1166	安徽省	市辖区	340601	Shixiaqu	
+1167	安徽省	杜集区	340602	Duji Qu	DJQ
+1168	安徽省	相山区	340603	Xiangshan Qu	XSA
+1169	安徽省	烈山区	340604	Lieshan Qu	LHB
+1170	安徽省	濉溪县	340621	Suixi Xian	SXW
+1171	安徽省	铜陵市	340700	Tongling Shi	TOL
+1172	安徽省	市辖区	340701	Shixiaqu	
+1173	安徽省	铜官山区	340702	Tongguanshan Qu	TGQ
+1174	安徽省	狮子山区	340703	Shizishan Qu	SZN
+1175	安徽省	郊区	340711	Jiaoqu	JTL
+1176	安徽省	铜陵县	340721	Tongling Xian	TLX
+1177	安徽省	安庆市	340800	Anqing Shi	AQG
+1178	安徽省	市辖区	340801	Shixiaqu	
+1179	安徽省	迎江区	340802	Yingjiang Qu	YJQ
+1180	安徽省	大观区	340803	Daguan Qu	DGQ
+1181	安徽省	郊区	340811	Jiaoqu	JQA
+1182	安徽省	怀宁县	340822	Huaining Xian	HNW
+1183	安徽省	枞阳县	340823	Zongyang Xian	ZYW
+1184	安徽省	潜山县	340824	Qianshan Xian	QSW
+1185	安徽省	太湖县	340825	Taihu Xian	THU
+1186	安徽省	宿松县	340826	Susong Xian	SUS
+1187	安徽省	望江县	340827	Wangjiang Xian	WJX
+1188	安徽省	岳西县	340828	Yuexi Xian	YXW
+1189	安徽省	桐城市	340881	Tongcheng Shi	TCW
+1190	安徽省	黄山市	341000	Huangshan Shi	HSN
+1191	安徽省	市辖区	341001	Shixiaqu	
+1192	安徽省	屯溪区	341002	Tunxi Qu	TXN
+1193	安徽省	黄山区	341003	Huangshan Qu	HSK
+1194	安徽省	徽州区	341004	Huizhou Qu	HZQ
+1195	安徽省	歙县	341021	She Xian	SEX
+1196	安徽省	休宁县	341022	Xiuning Xian	XUN
+1197	安徽省	黟县	341023	Yi Xian	YIW
+1198	安徽省	祁门县	341024	Qimen Xian	QMN
+1199	安徽省	滁州市	341100	Chuzhou Shi	CUZ
+1200	安徽省	市辖区	341101	Shixiaqu	
+1201	安徽省	琅琊区	341102	Langya Qu	LYU
+1202	安徽省	南谯区	341103	Nanqiao Qu	NQQ
+1203	安徽省	来安县	341122	Lai,an Xian	LAX
+1204	安徽省	全椒县	341124	Quanjiao Xian	QJO
+1205	安徽省	定远县	341125	Dingyuan Xian	DYW
+1206	安徽省	凤阳县	341126	Fengyang Xian	FYG
+1207	安徽省	天长市	341181	Tianchang Shi	TNC
+1208	安徽省	明光市	341182	Mingguang Shi	MGG
+1209	安徽省	阜阳市	341200	Fuyang Shi	FYS
+1210	安徽省	市辖区	341201	Shixiaqu	
+1211	安徽省	颖州区	341202	Yingzhou Qu	YGA
+1212	安徽省	颖东区	341203	Yingdong Qu	YDO
+1213	安徽省	颖泉区	341204	Yingquan Qu	YQQ
+1214	安徽省	临泉县	341221	Linquan Xian	LQN
+1215	安徽省	太和县	341222	Taihe Xian	TIH
+1216	安徽省	涡阳县	341223	Guoyang Xian	GOY
+1217	安徽省	蒙城县	341224	Mengcheng Xian	MCX
+1218	安徽省	阜南县	341225	Funan Xian	FNX
+1219	安徽省	颖上县	341226	Yingshang Xian	YSW
+1220	安徽省	利辛县	341227	Lixin Xian	LIX
+1221	安徽省	亳州市	341281	Bozhou Shi	BOZ
+1222	安徽省	界首市	341282	Jieshou Shi	JSW
+1223	安徽省	宿州市	341300	Suzhou Shi	SUZ
+1224	安徽省	市辖区	341301	Shixiaqu	
+1225	安徽省	墉桥区	341302	Yongqiao Qu	YQO
+1226	安徽省	砀山县	341321	Dangshan Xian	DSW
+1227	安徽省	萧县	341322	Xiao Xian	XIO
+1228	安徽省	灵璧县	341323	Lingbi Xian	LBI
+1229	安徽省	泗县	341324	Si Xian 	SIX
+1230	安徽省	六安地区	342400	Liu,an Diqu	LAD
+1231	安徽省	六安市	342401	Liu,an Shi	LAW
+1232	安徽省	寿县	342422	Shou Xian	SHO
+1233	安徽省	霍邱县	342423	Huoqiu Xian	HQI
+1234	安徽省	舒城县	342425	Shucheng Xian	SCW
+1235	安徽省	金寨县	342426	Jingzhai Xian	JZX
+1236	安徽省	霍山县	342427	Huoshan Xian	HOS
+1237	安徽省	宣城地区	342500	Xuancheng Diqu	XCD
+1238	安徽省	宣州市	342501	Xuanzhou Shi	XZO
+1239	安徽省	宁国市	342502	Ningguo Shi	NGU
+1240	安徽省	郎溪县	342522	Langxi Xian	LGX
+1241	安徽省	广德县	342523	Guangde Xian	GGD
+1242	安徽省	泾县	342529	Jing Xian	JXA
+1243	安徽省	旌德县	342530	Jingde Xian	JDE
+1244	安徽省	绩溪县	342531	Jixi Xian	JXW
+1245	安徽省	巢湖地区	342600	Chaohu Diqu	CHD
+1246	安徽省	巢湖市	342601	Chaohu Shi	CAH
+1247	安徽省	庐江县	342622	Lujiang Xian	LJG
+1248	安徽省	无为县	342623	Wuwei Xian	WWX
+1249	安徽省	含山县	342625	Hanshan Xian	HSW
+1250	安徽省	和县	342626	He Xian 	HEX
+1251	安徽省	池州地区	342900	Chizhou Diqu	CZD
+1252	安徽省	贵池市	342901	Guichi Shi	GCI
+1253	安徽省	东至县	342921	Dongzhi Xian	DZI
+1254	安徽省	石台县	342922	Shitai Xian	SHT
+1255	安徽省	青阳县	342923	Qingyang Xian	QGY
+1256	福建省	福建省	350000	Fujian Sheng 	FJ
+1257	福建省	福州市	350100	Fuzhou Shi	FOC
+1258	福建省	市辖区	350101	Shixiaqu	
+1259	福建省	鼓楼区	350102	Gulou Qu	GLR
+1260	福建省	台江区	350103	Taijiang Qu	TJQ
+1261	福建省	仓山区	350104	Cangshan Qu	CSQ
+1262	福建省	马尾区	350105	Mawei Qu	MWQ
+1263	福建省	晋安区	350111	Jin,an Qu	JAF
+1264	福建省	闽侯县	350121	Minhou Qu	MHO
+1265	福建省	连江县	350122	Lianjiang Xian	LJF
+1266	福建省	罗源县	350123	Luoyuan Xian	LOY
+1267	福建省	闽清县	350124	Minqing Xian	MQG
+1268	福建省	永泰县	350125	Yongtai Xian	YTX
+1269	福建省	平潭县	350128	Pingtan Xian	PTN
+1270	福建省	福清市	350181	Fuqing Shi	FQS
+1271	福建省	长乐市	350182	Changle Shi	CLS
+1272	福建省	厦门市	350200	Xiamen Shi	XMN
+1273	福建省	市辖区	350201	Shixiaqu	
+1274	福建省	鼓浪屿区	350202	Gulangyu Qu	GLY
+1275	福建省	思明区	350203	Siming Qu	SMQ
+1276	福建省	开元区	350204	Kaiyuan Qu	KYQ
+1277	福建省	杏林区	350205	Xinglin Qu	XLN
+1278	福建省	湖里区	350206	Huli Qu	HLQ
+1279	福建省	集美区	350211	Jimei Qu	JMQ
+1280	福建省	同安区	350212	Tong,an Qu	TAQ
+1281	福建省	莆田市	350300	Putian Shi	PUT
+1282	福建省	市辖区	350301	Shixiaqu	
+1283	福建省	城厢区	350302	Chengxiang Qu	CXP
+1284	福建省	涵江区	350303	Hanjiang Qu	HJQ
+1285	福建省	莆田县	350321	Putian Xian	PTX
+1286	福建省	仙游县	350322	Xianyou Xian	XYF
+1287	福建省	三明市	350400	Sanming Shi	SMS
+1288	福建省	市辖区	350401	Shixiaqu	
+1289	福建省	梅列区	350402	Meilie Qu	MLQ
+1290	福建省	三元区	350403	Sanyuan Qu	SYB
+1291	福建省	明溪县	350421	Mingxi Xian	MXI
+1292	福建省	清流县	350423	Qingliu Xian	QLX
+1293	福建省	宁化县	350424	Ninghua Xian	NGH
+1294	福建省	大田县	350425	Datian Xian	DTM
+1295	福建省	尤溪县	350426	Youxi Xian	YXF
+1296	福建省	沙县	350427	Sha Xian	SAX
+1297	福建省	将乐县	350428	Jiangle Xian	JLE
+1298	福建省	泰宁县	350429	Taining Xian	TNG
+1299	福建省	建宁县	350430	Jianning Xian	JNF
+1300	福建省	永安市	350481	Yong,an Shi	YAF
+1301	福建省	泉州市	350500	Quanzhou Shi	QZJ
+1302	福建省	市辖区	350501	Shixiaqu	
+1303	福建省	鲤城区	350502	Licheng Qu	LCQ
+1304	福建省	丰泽区	350503	Fengze Qu	FZE
+1305	福建省	洛江区	350504	Luojiang Qu	LJQ
+1306	福建省	惠安县	350521	Hui,an Xian	HAF
+1307	福建省	安溪县	350524	Anxi Xian	ANX
+1308	福建省	永春县	350525	Yongchun Xian	YCM
+1309	福建省	德化县	350526	Dehua Xian	DHA
+1310	福建省	金门县	350527	Jinmen Xian	JME
+1311	福建省	石狮市	350581	Shishi Shi	SHH
+1312	福建省	晋江市	350582	Jinjiang Shi	JJG
+1313	福建省	南安市	350583	Nan,an Shi	NAS
+1314	福建省	漳州市	350600	Zhangzhou Shi	ZZU
+1315	福建省	市辖区	350601	Shixiaqu	
+1316	福建省	芗城区	350602	Xiangcheng Qu	XZZ
+1317	福建省	龙文区	350603	Longwen Qu	LWZ
+1318	福建省	云霄县	350622	Yunxiao Xian	YXO
+1319	福建省	漳浦县	350623	Zhangpu Xian	ZPU
+1320	福建省	诏安县	350624	Zhao,an Xian	ZAF
+1321	福建省	长泰县	350625	Changtai Xian	CTA
+1322	福建省	东山县	350626	Dongshan Xian	DSN
+1323	福建省	南靖县	350627	Nanjing Xian	NJX
+1324	福建省	平和县	350628	Pinghe Xian	PHE
+1325	福建省	华安县	350629	Hua,an Xian	HAN
+1326	福建省	龙海市	350681	Longhai Shi	LHM
+1327	福建省	南平市	350700	Nanping Shi	NPS
+1328	福建省	市辖区	350701	Shixiaqu	
+1329	福建省	延平区	350702	Yanping Qu	YPQ
+1330	福建省	顺昌县	350721	Shunchang Xian	SCG
+1331	福建省	浦城县	350722	Pucheng Xian	PCX
+1332	福建省	光泽县	350723	Guangze Xian	GZE
+1333	福建省	松溪县	350724	Songxi Xian	SOX
+1334	福建省	政和县	350725	Zhenghe Xian	ZGH
+1335	福建省	邵武市	350781	Shaowu Shi	SWU
+1336	福建省	武夷山市	350782	Wuyishan Shi	WUS
+1337	福建省	建瓯市	350783	Jian,ou Shi	JOU
+1338	福建省	建阳市	350784	Jianyang Shi	JNY
+1339	福建省	龙岩市	350800	Longyan Shi	LYF
+1340	福建省	市辖区	350801	Shixiaqu	
+1341	福建省	新罗区	350802	Xinluo Qu	XNL
+1342	福建省	长汀县	350821	Changting Xian	CTG
+1343	福建省	永定县	350822	Yongding Xian	YDI
+1344	福建省	上杭县	350823	Shanghang Xian	SHF
+1345	福建省	武平县	350824	Wuping Xian	WPG
+1346	福建省	连城县	350825	Liancheng Xian	LCF
+1347	福建省	漳平市	350881	Zhangping Xian	ZGP
+1348	福建省	宁德地区	352200	Ningde Diqu	NDD
+1349	福建省	宁德市	352201	Ningde Shi	NDS
+1350	福建省	福安市	352202	Fu,an Shi	FAS
+1351	福建省	福鼎市	352203	Fuding Shi	FDG
+1352	福建省	霞浦县	352225	Xiapu Xian	XPU
+1353	福建省	古田县	352227	Gutian Xian	GTN
+1354	福建省	屏南县	352228	Pingnan Xian	PNX
+1355	福建省	寿宁县	352229	Shouning Xian	SNF
+1356	福建省	周宁县	352230	Zhouning Xian	ZNX
+1357	福建省	柘荣县	352231	Zherong Xian	ZRG
+1358	江西省	江西省	360000	Jiangxi Sheng	JX
+1359	江西省	南昌市	360100	Nanchang Shi	KHN
+1360	江西省	市辖区	360101	Shixiaqu	
+1361	江西省	东湖区	360102	Donghu Qu	DHU
+1362	江西省	西湖区	360103	Xihu Qu 	XHQ
+1363	江西省	青云谱区	360104	Qingyunpu Qu	QYP
+1364	江西省	湾里区	360105	Wanli Qu	WLI
+1365	江西省	郊区	360111	Jiaoqu	JQN
+1366	江西省	南昌县	360121	Nanchang Xian	NCA
+1367	江西省	新建县	360122	Xinjian Xian	XJN
+1368	江西省	安义县	360123	Anyi Xian	AYI
+1369	江西省	进贤县	360124	Jinxian Xian	JXX
+1370	江西省	景德镇市	360200	Jingdezhen Shi	JDZ
+1371	江西省	市辖区	360201	Shixiaqu	
+1372	江西省	昌江区	360202	Changjiang Qu	CJG
+1373	江西省	珠山区	360203	Zhushan Qu	ZSJ
+1374	江西省	浮梁县	360222	Fuliang Xian	FLX
+1375	江西省	乐平市	360281	Leping Shi	LEP
+1376	江西省	萍乡市	360300	Pingxiang Shi	PXS
+1377	江西省	市辖区	360301	Shixiaqu	
+1378	江西省	安源区	360302	Anyuan Qu	AYQ
+1379	江西省	湘东区	360313	Xiangdong Qu	XDG
+1380	江西省	莲花县	360321	Lianhua Xian	LHG
+1381	江西省	上栗县	360322	Shangli Xian	SLI
+1382	江西省	芦溪县	360323	Lixi Xian	LXP
+1383	江西省	九江市	360400	Jiujiang Shi	JIU
+1384	江西省	市辖区	360401	Shixiaqu	
+1385	江西省	庐山区	360402	Lushan Qu	LSV
+1386	江西省	浔阳区	360403	Xunyang Qu	XYC
+1387	江西省	九江县	360421	Jiujiang Xian	JUJ
+1388	江西省	武宁县	360423	Wuning Xian	WUN
+1389	江西省	修水县	360424	Xiushui Xian	XSG
+1390	江西省	永修县	360425	Yongxiu Xian	YOX
+1391	江西省	德安县	360426	De,an Xian	DEA
+1392	江西省	星子县	360427	Xingzi Xian	XZI
+1393	江西省	都昌县	360428	Duchang Xian	DUC
+1394	江西省	湖口县	360429	Hukou Xian	HUK
+1395	江西省	彭泽县	360430	Pengze Xian	PZE
+1396	江西省	瑞昌市	360481	Ruichang Shi	RCG
+1397	江西省	新余市	360500	Xinyu Shi	XYU
+1398	江西省	市辖区	360501	Shixiaqu	
+1399	江西省	渝水区	360502	Yushui Qu	YSR
+1400	江西省	分宜县	360521	Fenyi Xian	FYI
+1401	江西省	鹰潭市	360606	Yingtan Shi	YTS
+1402	江西省	市辖区	360601	Shixiaqu	
+1403	江西省	月湖区	360602	Yuehu Qu	YHY
+1404	江西省	余江县	360622	Yujiang Xian	YUJ
+1405	江西省	贵溪市	360681	Guixi Shi	GXS
+1406	江西省	赣州市	360700	Ganzhou Shi	GZH
+1407	江西省	市辖区	360701	Shixiaqu	
+1408	江西省	章贡区	360702	Zhanggong Qu	ZGG
+1409	江西省	赣县	360721	Gan Xian	GXN
+1410	江西省	信丰县	360722	Xinfeng Xian 	XNF
+1411	江西省	大余县	360723	Dayu Xian	DYX
+1412	江西省	上犹县	360724	Shangyou Xian	SYO
+1413	江西省	崇义县	360725	Chongyi Xian	CYX
+1414	江西省	安远县	360726	Anyuan Xian	AYN
+1415	江西省	龙南县	360727	Longnan Xian	LNX
+1416	江西省	定南县	360728	Dingnan Xian	DNN
+1417	江西省	全南县	360729	Quannan Xian	QNN
+1418	江西省	宁都县	360730	Ningdu Xian	NDU
+1419	江西省	于都县	360731	Yudu Xian	YUD
+1420	江西省	兴国县	360732	Xingguo Xian	XGG
+1421	江西省	会昌县	360733	Huichang Xian	HIC
+1422	江西省	寻乌县	360734	Xunwu Xian	XNW
+1423	江西省	石城县	360735	Shicheng Xian	SIC
+1424	江西省	瑞金市	360781	Ruijin Shi	RJS
+1425	江西省	南康市	360782	Nankang Shi	NNK
+1426	江西省	宜春地区	362200	Yichun Diqu 	YCD
+1427	江西省	宜春市	362201	Yichun Shi	YCN
+1428	江西省	丰城市	362202	Fengcheng Shi	FCS
+1429	江西省	樟树市	362203	Zhangshu Shi	ZSS
+1430	江西省	高安市	362204	Gao,an Shi	GAS
+1431	江西省	奉新县	362226	Fengxin Xian	FGX
+1432	江西省	万载县	362227	Wanzai Xian	WZA
+1433	江西省	上高县	362228	Shanggao Xian	SGO
+1434	江西省	宜丰县	362229	Yifeng Xian	YFG
+1435	江西省	靖安县	362232	Jing,an Xian	JGA
+1436	江西省	铜鼓县	362233	Tonggu Xian	TGU
+1437	江西省	上饶地区	362300	Shangrao Diqu	SRD
+1438	江西省	上饶市	362301	Shangrao Shi	SRS
+1439	江西省	德兴市	362302	Dexing Shi	DEX
+1440	江西省	上饶县	362321	Shangrao Xian 	SRX
+1441	江西省	广丰县	362322	Guangfeng Xian	GFG
+1442	江西省	玉山县	362323	Yushan Xian	YUS
+1443	江西省	铅山县	362324	Qianshan Xian	YSG
+1444	江西省	横峰县	362325	Hengfeng Xian	HFG
+1445	江西省	弋阳县	362326	Yiyang Xian	YYB
+1446	江西省	余干县	362329	Yugan Xian	YUG
+1447	江西省	波阳县	362330	Boyang Xian	BYG
+1448	江西省	万年县	362331	Wannian Xian	WNI
+1449	江西省	婺源县	362334	Wuyuan Xian	WUY
+1450	江西省	吉安地区	362400	Ji,an Diqu	JAD
+1451	江西省	吉安市	362401	Ji,an Shi	JAS
+1452	江西省	井冈山市	362402	Jinggangshan Shi	JGS
+1453	江西省	吉安县	362421	Ji,an Xian	JAX
+1454	江西省	吉水县	362422	Jishui Xian	JSG
+1455	江西省	峡江县	362423	Xiajiang Xian	XJG
+1456	江西省	新干县	362424	Xingan Xian	XGA
+1457	江西省	永丰县	362425	Yongfeng Xian	YFX
+1458	江西省	泰和县	362426	Taihe Xian	THE
+1459	江西省	遂川县	362427	Suichuan Xian	SCN
+1460	江西省	万安县	362428	Wan,an Xian	WAX
+1461	江西省	安福县	362429	Anfu Xian	AFU
+1462	江西省	永新县	362430	Yongxin Xian 	YXG
+1463	江西省	宁冈县	362432	Ninggang Xian	NGG
+1464	江西省	抚州地区	362500	Fuzhou Diqu	FZD
+1465	江西省	临川市	362502	Linchuan Shi	LCR
+1466	江西省	南城县	362522	Nancheng Xian	NCE
+1467	江西省	黎川县	362523	Lichuan Xian	LCP
+1468	江西省	南丰县	362524	Nanfeng Xian	NFG
+1469	江西省	崇仁县	362525	Chongren Xian	CRN
+1470	江西省	乐安县	362526	Le,an Xian	LEA
+1471	江西省	宜黄县	362527	Yihuang Xian	YHX
+1472	江西省	金溪县	362528	Jinxi Xian	JXF
+1473	江西省	资溪县	362529	Zixi Xian	ZXI
+1474	江西省	东乡县	362531	Dongxiang Xian	DGX
+1475	江西省	广昌县	362532	Guangchang Xian	GCG
+1476	山东省	山东省	370000	Shandong Sheng 	SD
+1477	山东省	济南市	370100	Jinan Shi	TNA
+1478	山东省	市辖区	370101	Shixiaqu	
+1479	山东省	历下区	370102	Lixia Qu	LXQ
+1480	山东省	市中区	370103	Shizhong Qu	SZQ
+1481	山东省	槐荫区	370104	Huaiyin Qu	HYF
+1482	山东省	天桥区	370105	Tianqiao Qu	TQQ
+1483	山东省	历城区	370112	Licheng Qu	LCZ
+1484	山东省	长清县	370123	Changqing Xian	CQG
+1485	山东省	平阴县	370124	Pingyin Xian	PYL
+1486	山东省	济阳县	370125	Jiyang Xian	JYL
+1487	山东省	商河县	370126	Shanghe Xian	SGH
+1488	山东省	章丘市	370181	Zhangqiu Shi	ZQS
+1489	山东省	青岛市	370200	Qingdao Shi	TAO
+1490	山东省	市辖区	370201	Shixiaqu	
+1491	山东省	市南区	370202	Shinan Qu	SNQ
+1492	山东省	市北区	370203	Shibei Qu	SBQ
+1493	山东省	四方区	370205	Sifang Qu	SFQ
+1494	山东省	黄岛区	370211	Huangdao Qu	HDO
+1495	山东省	崂山区	370212	Laoshan Qu	LQD
+1496	山东省	李沧区	370213	Licang Qu	LCT
+1497	山东省	城阳区	370214	Chengyang Qu	CEY
+1498	山东省	胶州市	370281	Jiaozhou Shi	JZS
+1499	山东省	即墨市	370282	Jimo Shi	JMO
+1500	山东省	平度市	370283	Pingdu Shi	PDU
+1501	山东省	胶南市	370284	Jiaonan Shi	JNS
+1502	山东省	莱西市	370285	Laixi Shi	LXE
+1503	山东省	淄博市	370300	Zibo Shi	ZBO
+1504	山东省	市辖区	370301	Shixiaqu	
+1505	山东省	淄川区	370302	Zichuan Qu	ZCQ
+1506	山东省	张店区	370303	Zhangdian Qu	ZDQ
+1507	山东省	博山区	370304	Boshan Qu	BSZ
+1508	山东省	临淄区	370305	Linzi Qu	LZQ
+1509	山东省	周村区	370306	Zhoucun Qu	ZCN
+1510	山东省	桓台县	370321	Huantai Xian	HTL
+1511	山东省	高青县	370322	Gaoqing Xian	GQG
+1512	山东省	沂源县	370323	Yiyuan Xian	YIY
+1513	山东省	枣庄市	370400	Zaozhuang Shi	ZZG
+1514	山东省	市辖区	370401	Shixiaqu	
+1515	山东省	市中区	370402	Shizhong Qu	SZZ
+1516	山东省	薛城区	370403	Xuecheng Qu	XEC
+1517	山东省	峄城区	370404	Yicheng Qu	YZZ
+1518	山东省	台儿庄区	370405	Tai,erzhuang Qu	TEZ
+1519	山东省	山亭区	370406	Shanting Qu	STG
+1520	山东省	滕州市	370481	Tengzhou Shi	TZO
+1521	山东省	东营市	370500	Dongying Shi	DYG
+1522	山东省	市辖区	370501	Shixiaqu	
+1523	山东省	东营区	370502	Dongying Qu	DYQ
+1524	山东省	河口区	370503	Hekou Qu	HKO
+1525	山东省	垦利县	370521	Kenli Xian	KLI
+1526	山东省	利津县	370522	Lijin Xian	LJN
+1527	山东省	广饶县	370523	Guangrao Xian 	GRO
+1528	山东省	烟台市	370600	Yantai Shi	YNT
+1529	山东省	市辖区	370601	Shixiaqu	
+1530	山东省	芝罘区	370602	Zhifu Qu	ZFQ
+1531	山东省	福山区	370611	Fushan Qu	FUS
+1532	山东省	牟平区	370612	Muping Qu	MPQ
+1533	山东省	莱山区	370613	Laishan Qu	LYT
+1534	山东省	长岛县	370634	Changdao Xian	CDO
+1535	山东省	龙口市	370681	Longkou Shi	LKU
+1536	山东省	莱阳市	370682	Laiyang Shi	LYD
+1537	山东省	莱州市	370683	Laizhou Shi	LZG
+1538	山东省	蓬莱市	370684	Penglai Shi	PLI
+1539	山东省	招远市	370685	Zhaoyuan Shi	ZYL
+1540	山东省	栖霞市	370686	Qixia Shi	QXS
+1541	山东省	海阳市	370687	Haiyang Shi	HYL
+1542	山东省	潍坊市	370700	Weifang Shi	WEF
+1543	山东省	市辖区	370701	Shixiaqu	
+1544	山东省	潍城区	370702	Weicheng Qu	WCG
+1545	山东省	寒亭区	370703	Hanting Qu	HNT
+1546	山东省	坊子区	370704	Fangzi Qu	FZQ
+1547	山东省	奎文区	370705	Kuiwen Qu	KWN
+1548	山东省	临朐县	370724	Linqu Xian	LNQ
+1549	山东省	昌乐县	370725	Changle Xian	CLX
+1550	山东省	青州市	370781	Qingzhou Shi	QGZ
+1551	山东省	诸城市	370782	Zhucheng Shi	ZCL
+1552	山东省	寿光市	370783	Shouguang Shi	SGG
+1553	山东省	安丘市	370784	Anqiu Shi	AQU
+1554	山东省	高密市	370785	Gaomi Shi	GMI
+1555	山东省	昌邑市	370786	Changyi Shi	CYL
+1556	山东省	济宁市	370800	Jining Shi	JNG
+1557	山东省	市辖区	370801	Shixiaqu	
+1558	山东省	市中区	370802	Shizhong Qu	SZU
+1559	山东省	任城区	370811	Rencheng Qu	RCQ
+1560	山东省	微山县	370826	Weishan Xian	WSA
+1561	山东省	鱼台县	370827	Yutai Xian	YTL
+1562	山东省	金乡县	370828	Jinxiang Xian	JXG
+1563	山东省	嘉祥县	370829	Jiaxiang Xian	JXP
+1564	山东省	汶上县	370830	Wenshang Xian	WNS
+1565	山东省	泗水县	370831	Sishui Xian	SSH
+1566	山东省	梁山县	370832	Liangshan Xian	LSN
+1567	山东省	曲阜市	370881	Qufu Shi	QFU
+1568	山东省	兖州市	370882	Yanzhou Shi	YZL
+1569	山东省	邹城市	370883	Zoucheng Shi	ZCG
+1570	山东省	泰安市	370900	Tai,an Shi	TAI
+1571	山东省	市辖区	370901	Shixiaqu	
+1572	山东省	泰山区	370902	Taishan Qu	TSQ
+1573	山东省	郊区	370911	Jiaoqu	JQT
+1574	山东省	宁阳县	370921	Ningyang Xian	NGY
+1575	山东省	东平县	370923	Dongping Xian	DPG
+1576	山东省	新泰市	370982	Xintai Shi	XTA
+1577	山东省	肥城市	370983	Feicheng Shi	FEC
+1578	山东省	威海市	371000	Weihai Shi	WEH
+1579	山东省	市辖区	371001	Shixiaqu	
+1580	山东省	环翠区	371002	Huancui Qu	HNC
+1581	山东省	文登市	371081	Wendeng Shi	WDS
+1582	山东省	荣城市	371082	Rongcheng Shi	RCS
+1583	山东省	乳山市	371083	Rushan Shi	RSN
+1584	山东省	日照市	371100	Rizhao Shi	RZH
+1585	山东省	市辖区	371101	Shixiaqu	
+1586	山东省	东港区	371102	Donggang Qu	DGR
+1587	山东省	五莲县	371121	Wulian Xian	WLN
+1588	山东省	莒县	371122	Ju Xian	JUX
+1589	山东省	莱芜市	371200	Laiwu Shi	LWS
+1590	山东省	市辖区	371201	Shixiaqu	
+1591	山东省	莱城区	371202	Laicheng Qu	LAC
+1592	山东省	钢城区	371203	Gangcheng Qu	GCQ
+1593	山东省	临沂市	371300	Linyi Shi	LYI
+1594	山东省	市辖区	371301	Shixiaqu	
+1595	山东省	兰山区	371302	Lanshan Qu	LLS
+1596	山东省	罗庄区	371311	Luozhuang Qu	LZU
+1597	山东省	河东区	371312	Hedong Qu	HDL
+1598	山东省	沂南县	371321	Yinan Xian	YNN
+1599	山东省	郯城县	371322	Tancheng Xian	TCE
+1600	山东省	沂水县	371323	Yishui Xian	YIS
+1601	山东省	苍山县	371324	Cangshan Xian	CSH
+1602	山东省	费县	371325	Fei Xian	FEI
+1603	山东省	平邑县	371326	Pingyi Xian	PYI
+1604	山东省	莒南县	371327	Junan Xian	JNB
+1605	山东省	蒙阴县	371328	Mengyin Xian	MYL
+1606	山东省	临沭县	371329	Linshu Xian	LSP
+1607	山东省	德州市	371400	Dezhou Shi	DZS
+1608	山东省	市辖区	371401	Shixiaqu	
+1609	山东省	德城区	371402	Decheng Qu	DCD
+1610	山东省	陵县	371421	Ling Xian	LXL
+1611	山东省	宁津县	371422	Ningjin Xian	NGJ
+1612	山东省	庆云县	371423	Qingyun Xian	QYL
+1613	山东省	临邑县	371424	Linyi xian	LYM
+1614	山东省	齐河县	371425	Qihe Xian	QIH
+1615	山东省	平原县	371426	Pingyuan Xian	PYN
+1616	山东省	夏津县	371427	Xiajin Xian	XAJ
+1617	山东省	武城县	371428	Wucheng Xian	WUC
+1618	山东省	乐陵市	371481	Leling Shi	LEL
+1619	山东省	禹城市	371482	Yucheng Shi	YCL
+1620	山东省	聊城市	371500	Liaocheng Shi	LCH
+1621	山东省	市辖区	371501	Shixiaqu	
+1622	山东省	东昌府区	371502	Dongchangfu Qu	DCF
+1623	山东省	阳谷县	371521	Yanggu Xian 	YGU
+1624	山东省	莘县	371522	Shen Xian	SHN
+1625	山东省	茌平县	371523	Chiping Xian 	CPG
+1626	山东省	东阿县	371524	Dong,e Xian	DGE
+1627	山东省	冠县	371525	Guan Xian	GXL
+1628	山东省	高唐县	371526	Gaotang Xian	GTG
+1629	山东省	临清市	371581	Linqing Xian	LQS
+1630	山东省	滨州地区	372300	Binzhou Diqu 	BNZ
+1631	山东省	滨州市	372301	Binzhou Shi	BZH
+1632	山东省	惠民县	372321	Huimin Xian	HMN
+1633	山东省	阳信县	372323	Yangxin Xian	YXN
+1634	山东省	无棣县	372324	Wudi Xian	WDI
+1635	山东省	沾化县	372325	Zhanhua Xian	ZHU
+1636	山东省	博兴县	372328	Boxing Xian	BOX
+1637	山东省	邹平县	372330	Zouping Xian	ZOP
+1638	山东省	荷泽地区	372900	Heze Diqu	HZE
+1639	山东省	菏泽市	372901	Heze Shi	HZS
+1640	山东省	曹县	372922	Cao Xian	CAO
+1641	山东省	定陶县	372923	Dingtao Xian	DGT
+1642	山东省	成武县	372924	Chengwu Xian	CWX
+1643	山东省	单县	372925	Shan Xian	SXN
+1644	山东省	巨野县	372926	Juye Xian	JYE
+1645	山东省	郓城县	372928	Yuncheng Xian	YCR
+1646	山东省	鄄城县	372929	Juancheng Xian	JNC
+1647	山东省	东明县	372930	Dongming Xian	DMG
+1648	河南省	河南省	410000	Henan Sheng	HA
+1649	河南省	郑州市	410100	Zhengzhou Shi	CGO
+1650	河南省	市辖区	410101	Shixiaqu	
+1651	河南省	中原区	410102	Zhongyuan Qu	ZYQ
+1652	河南省	二七区	410103	Erqi Qu	EQQ
+1653	河南省	管城回族区	410104	Guancheng Huizu Qu	GCH
+1654	河南省	金水区	410105	Jinshui Qu	JSU
+1655	河南省	上街区	410106	Shangjie Qu	SJE
+1656	河南省	邙山区	410108	Mangshan Qu	MSQ
+1657	河南省	中牟县	410122	Zhongmou Xian	ZMO
+1658	河南省	巩义市	410181	Gongyi Shi	GYI
+1659	河南省	荥阳市	410182	Xingyang Shi	XYK
+1660	河南省	新密市	410183	Xinmi Shi	XMI
+1661	河南省	新郑市	410184	Xinzheng Shi	XZG
+1662	河南省	登丰市	410185	Dengfeng Shi	DFY
+1663	河南省	开封市	410200	Kaifeng Shi	KFS
+1664	河南省	市辖区	410201	Shixiaqu	
+1665	河南省	龙亭区	410202	Longting Qu	LTK
+1666	河南省	顺河回族区	410203	Shunhe Huizu Qu	SHR
+1667	河南省	鼓楼区	410204	Gulou Qu	GLK
+1668	河南省	南关区	410205	Nanguan Qu	NGK
+1669	河南省	郊区	410211	Jiaoqu	JQK
+1670	河南省	杞县	410221	Qi Xian	QIX
+1671	河南省	通许县	410222	Tongxu Xian	TXY
+1672	河南省	尉氏县	410223	Weishi Xian	WSI
+1673	河南省	开封县	410224	Kaifeng Xian	KFX
+1674	河南省	兰考县	410225	Lankao Xian	LKA
+1675	河南省	洛阳市	410300	Luoyang Shi	LYA
+1676	河南省	市辖区	410301	Shixiaqu	
+1677	河南省	老城区	410302	Laocheng Qu	LLY
+1678	河南省	西工区	410303	Xigong Qu	XGL
+1679	河南省	壥河回族区	410304	Chanhe Huizu Qu	CHH
+1680	河南省	涧西区	410305	Jianxi Qu	JXL
+1681	河南省	吉利区	410306	Jili Qu	JLL
+1682	河南省	郊区	410311	Jiaoqu	JQL
+1683	河南省	孟津县	410322	Mengjin Xian	MGJ
+1684	河南省	新安县	410323	Xin,an Xian	XAX
+1685	河南省	栾川县	410324	Luanchuan Xian	LCK
+1686	河南省	嵩县	410325	Song Xian	SON
+1687	河南省	汝阳县	410326	Ruyang Xian	RUY
+1688	河南省	宜阳县	410327	Yiyang Xian	YYY
+1689	河南省	洛宁县	410328	Luoning Xian	LNI
+1690	河南省	伊川县	410329	Yichuan Xian	YCZ
+1691	河南省	偃师市	410381	Yanshi Shi	YST
+1692	河南省	平顶山市	410400	Pingdingshan Shi	PDS
+1693	河南省	市辖区	410401	Shixiaqu	
+1694	河南省	新华区	410402	Xinhua Qu	XHP
+1695	河南省	卫东区	410403	Weidong Qu	WDG
+1696	河南省	石龙区	410404	Shilong Qu	SIL
+1697	河南省	湛河区	410411	Zhanhe Qu	ZHQ
+1698	河南省	宝丰县	410421	Baofeng Xian	BFG
+1699	河南省	叶县	410422	Ye Xian	YEX
+1700	河南省	鲁山县	410423	Lushan Xian	LUS
+1701	河南省	郏县	410425	Jia Xian	JXY
+1702	河南省	舞钢市	410481	Wugang Shi	WGY
+1703	河南省	汝州市	410482	Ruzhou Shi	RZO
+1704	河南省	安阳市	410500	Anyang Shi	AYS
+1705	河南省	市辖区	410501	Shixiaqu	
+1706	河南省	文峰区	410502	Wenfeng Qu	WFQ
+1707	河南省	北关区	410503	Beiguan Qu	BGQ
+1708	河南省	铁西区	410504	Tiexi Qu	TXA
+1709	河南省	郊区	410511	Jiaoqu	JQU
+1710	河南省	安阳县	410522	Anyang Xian	AYX
+1711	河南省	汤阴县	410523	Tangyin Xian	TYI
+1712	河南省	滑县	410526	Hua Xian	HUA
+1713	河南省	内黄县	410527	Neihuang Xian	NHG
+1714	河南省	林州市	410581	Linzhou Shi	LZY
+1715	河南省	鹤壁市	410600	Hebi Shi	HBS
+1716	河南省	市辖区	410601	Shixiaqu	
+1717	河南省	鹤山区	410602	Heshan Qu	HSF
+1718	河南省	山城区	410603	Shancheng Qu	SCB
+1719	河南省	郊区	410611	Jiaoqu	JHB
+1720	河南省	浚县	410621	Xun Xian	XUX
+1721	河南省	淇县	410622	Qi Xian	QXY
+1722	河南省	新乡市	410700	Xinxiang Shi	XXS
+1723	河南省	市辖区	410701	Shixiaqu	
+1724	河南省	红旗区	410702	Hongqi Qu	HQQ
+1725	河南省	新华区	410703	Xinhua Qu	XHR
+1726	河南省	北站区	410704	Beizhan Qu	BZQ
+1727	河南省	郊区	410711	Jiaoqu	JQX
+1728	河南省	新乡县	410721	Xinxiang Xian	XXX
+1729	河南省	获嘉县	410724	Huojia Xian	HOJ
+1730	河南省	原阳县	410725	Yuanyang Xian	YYA
+1731	河南省	延津县	410726	Yanjin Xian	YJN
+1732	河南省	封丘县	410727	Fengqiu Xian	FQU
+1733	河南省	长垣县	410728	Changyuan Xian	CYU
+1734	河南省	卫辉市	410781	Weihui Shi	WHS
+1735	河南省	辉县市	410782	Huixian Shi	HXS
+1736	河南省	焦作市	410800	Jiaozuo Shi	JZY
+1737	河南省	市辖区	410801	Shixiaqu	
+1738	河南省	解放区	410802	Jiefang Qu	JFQ
+1739	河南省	中站区	410803	Zhongzhan Qu	ZZQ
+1740	河南省	马村区	410804	Macun Qu	MCQ
+1741	河南省	山阳区	410811	Shanyang Qu	SYC
+1742	河南省	修武县	410821	Xiuwu Xian	XUW
+1743	河南省	博爱县	410822	Bo,ai Xian	BOA
+1744	河南省	武陟县	410823	Wuzhi Xian	WZI
+1745	河南省	温县	410825	Wen Xian	WEN
+1746	河南省	济源市	410881	Jiyuan Shi	JYY
+1747	河南省	沁阳市	410882	Qinyang Shi	QYS
+1748	河南省	孟州市	410883	Mengzhou Shi	MZO
+1749	河南省	濮阳市	410900	Puyang Shi	PYS
+1750	河南省	市辖区	410901	Shixiaqu	
+1751	河南省	市区	410902	Shiqu	SIQ
+1752	河南省	清丰县	410922	Qingfeng Xian	QFG
+1753	河南省	南乐县	410923	Nanle Xian	NLE
+1754	河南省	范县	410926	Fan Xian	FAX
+1755	河南省	台前县	410927	Taiqian Xian	TQN
+1756	河南省	濮阳县	410928	Puyang Xian	PUY
+1757	河南省	许昌市	411000	Xuchang Shi	XCS
+1758	河南省	市辖区	411001	Shixiaqu	
+1759	河南省	魏都区	411002	Weidu Qu	WED
+1760	河南省	许昌县	411023	Xuchang Xian	XUC
+1761	河南省	鄢陵县	411024	Yanling Xian	YLY
+1762	河南省	襄城县	411025	Xiangcheng Xian	XAC
+1763	河南省	禹州市	411081	Yuzhou Shi	YUZ
+1764	河南省	长葛市	411082	Changge Shi	CGE
+1765	河南省	漯河市	411100	Luohe Shi	LHS
+1766	河南省	市辖区	411101	Shixiaqu	
+1767	河南省	源汇区	411102	Yuanhui Qu	YHI
+1768	河南省	舞阳县	411121	Wuyang Xian	WYG
+1769	河南省	临颍县	411122	Linying Xian	LNY
+1770	河南省	郾城县	411123	Yancheng Xian	YNC
+1771	河南省	三门峡市	411200	Sanmenxia Shi	SMX
+1772	河南省	市辖区	411201	Shixiaqu	
+1773	河南省	湖滨区	411202	Hubin Qu	HBI
+1774	河南省	渑池县	411221	Mianchi Xian	MCI
+1775	河南省	陕县	411222	Shan Xian	SHX
+1776	河南省	卢氏县	411224	Lushi Xian	LUU
+1777	河南省	义马市	411281	Yima Shi	YMA
+1778	河南省	灵宝市	411282	Lingbao Shi	LBS
+1779	河南省	南阳市	411300	Nanyang Shi	NYS
+1780	河南省	市辖区	411301	Shixiaqu	
+1781	河南省	宛城区	411302	Wancheng Qu	WCN
+1782	河南省	卧龙区	411303	Wolong Qu	WOL
+1783	河南省	南召县	411321	Nanzhao Xian	NZO
+1784	河南省	方城县	411322	Fangcheng Xian	FCX
+1785	河南省	西峡县	411323	Xixia Xian	XXY
+1786	河南省	镇平县	411324	Zhenping Xian	ZPX
+1787	河南省	内乡县	411325	Neixiang Xian	NXG
+1788	河南省	淅川县	411326	Xichuan Xian	XCY
+1789	河南省	社旗县	411327	Sheqi Xian	SEQ
+1790	河南省	唐河县	411328	Tanghe Xian	TGH
+1791	河南省	新野县	411329	Xinye Xian	XYE
+1792	河南省	桐柏县	411330	Tongbai Xian	TBX
+1793	河南省	邓州市	411381	Dengzhou Shi	DGZ
+1794	河南省	商丘市	411400	Shangqiu Shi	SQS
+1795	河南省	市辖区	411401	Shixiaqu	
+1796	河南省	梁园区	411402	Liangyuan Qu	LYY
+1797	河南省	睢阳区	411403	Suiyang Qu	SYA
+1798	河南省	民权县	411421	Minquan Xian	MQY
+1799	河南省	睢县	411422	Sui Xian	SUI
+1800	河南省	宁陵县	411423	Ningling Xian	NGL
+1801	河南省	柘城县	411424	Zhecheng Xian	ZHC
+1802	河南省	虞城县	411425	Yucheng Xian	YUC
+1803	河南省	夏邑县	411426	Xiayi Xian	XAY
+1804	河南省	永城市	411481	Yongcheng Shi	YOC
+1805	河南省	信阳市	411500	Xinyang Shi	XYG
+1806	河南省	市辖区	411501	Shixiaqu	
+1807	河南省	浉河区	411502	Shihe Qu	SHU
+1808	河南省	平桥区	411503	Pingqiao Qu	PQQ
+1809	河南省	罗山县	411521	Luoshan Xian	LSE
+1810	河南省	光山县	411522	Guangshan Xian	GSX
+1811	河南省	新县	411523	Xin Xian	XXI
+1812	河南省	商城县	411524	Shangcheng Xian	SCX
+1813	河南省	固始县	411525	Gushi Xian	GSI
+1814	河南省	潢川县	411526	Huangchuan Xian	HCU
+1815	河南省	淮滨县	411527	Huaibin Xian	HBN
+1816	河南省	息县	411528	Xi Xian	XIX
+1817	河南省	周口地区	412700	Zhoukou Diqu	ZKD
+1818	河南省	周口市	412701	Zhoukou Shi	ZKS
+1819	河南省	项城市	412702	Xiangcheng Shi	XGC
+1820	河南省	扶沟县	412721	Fugou Xian	FUG
+1821	河南省	西华县	412722	Xihua Xian	XIH
+1822	河南省	商水县	412723	Shangshui Xian	SSU
+1823	河南省	太康县	412724	Taikang Xian	TKG
+1824	河南省	鹿邑县	412725	Luyi Xian	LUY
+1825	河南省	郸城县	412726	Dancheng Xian	DNC
+1826	河南省	淮阳县	412727	Huaiyang Xian	HYG
+1827	河南省	沈丘县	412728	Shenqiu Xian	SQU
+1828	河南省	驻马店地区	412800	Zhumadian Diqu	ZMQ
+1829	河南省	驻马店市	412801	Zhumadian Shi	ZMD
+1830	河南省	确山县	412821	Queshan Xian	QSA
+1831	河南省	泌阳县	412822	Biyang Xian	BYY
+1832	河南省	遂平县	412823	Suiping Xian	SUP
+1833	河南省	西平县	412824	Xiping Xian	XIP
+1834	河南省	上蔡县	412825	Shangcai Xian	SGC
+1835	河南省	汝南县	412826	Runan Xian	RNN
+1836	河南省	平舆县	412827	Pingyu Xian	PYX
+1837	河南省	新蔡县	412828	Xincai Xian	XNC
+1838	河南省	正阳县	412829	Zhengyang Xian	ZGY
+1839	湖北省	湖北省	420000	Hubei Sheng	HB
+1840	湖北省	武汉市	420100	Wuhan Shi	WUH
+1841	湖北省	市辖区	420101	Shixiaqu	
+1842	湖北省	江岸区	420102	Jiang,an Qu	JAA
+1843	湖北省	江汉区	420103	Jianghan Qu	JHN
+1844	湖北省	硚口区	420104	Qiaokou Qu	QKQ
+1845	湖北省	汉阳区	420105	Hanyang Qu	HYA
+1846	湖北省	武昌区	420106	Wuchang Qu	WCQ
+1847	湖北省	青山区	420107	Qingshan Qu	QSN
+1848	湖北省	洪山区	420111	Hongshan Qu	HSQ
+1849	湖北省	东西湖区	420112	Dongxihu Qu	DXH
+1850	湖北省	汉南区	420113	Hannan Qu	HNQ
+1851	湖北省	蔡甸区	420114	Caidian Qu	CDN
+1852	湖北省	江夏区	420115	Jiangxia Qu	JXQ
+1853	湖北省	黄陂区	420116	Huangpi Qu	HPI
+1854	湖北省	新洲区	420117	Xinzhou Qu	XNZ
+1855	湖北省	黄石市	420200	Huangshi Shi	HIS
+1856	湖北省	市辖区	420201	Shixiaqu	
+1857	湖北省	黄石港区	420202	Huangshigang Qu	HSG
+1858	湖北省	石灰窑区	420203	Shihuiyao Qu	SHY
+1859	湖北省	下陆区	420204	Xialu Qu	XAL
+1860	湖北省	铁山区	420205	Tieshan Qu	TSH
+1861	湖北省	阳新县	420222	Yangxin Xian	YXE
+1862	湖北省	大冶市	420281	Daye Shi	DYE
+1863	湖北省	十堰市	420300	Shiyan Shi	SYE
+1864	湖北省	市辖区	420301	Shixiaqu	
+1865	湖北省	茅箭区	420302	Maojian Qu	MJN
+1866	湖北省	张湾区	420303	Zhangwan Qu	ZWQ
+1867	湖北省	郧县	420321	Yun Xian	YUN
+1868	湖北省	郧西县	420322	Yunxi Xian	YNX
+1869	湖北省	竹山县	420323	Zhushan Xian	ZHS
+1870	湖北省	竹溪县	420324	Zhuxi Xian	ZXX
+1871	湖北省	房县	420325	Fang Xian	FAG
+1872	湖北省	丹江口市	420381	Danjiangkou Shi	DJK
+1873	湖北省	宜昌市	420500	Yichang Shi	YCO
+1874	湖北省	市辖区	420501	Shixiaqu	
+1875	湖北省	西陵区	420502	Xiling Qu	XLQ
+1876	湖北省	伍家岗区	420503	Wujiagang Qu	WJG
+1877	湖北省	点军区	420504	Dianjun Qu	DJN
+1878	湖北省	猇亭区	420505	Xiaoting Qu	XTQ
+1879	湖北省	宜昌县	420521	Yichang Xian	YCX
+1880	湖北省	远安县	420525	Yuan,an Xian	YAX
+1881	湖北省	兴山县	420526	Xingshan Xian	XSX
+1882	湖北省	秭归县	420527	Zigui Xian	ZGI
+1883	湖北省	长阳土家族自治县	420528	Changyang Tujiazu Zizhixian	CYA
+1884	湖北省	五峰土家族自治县	420529	Wufeng Tujiazu Zizhixian	WFG
+1885	湖北省	宜都市	420581	Yidu Shi	YID
+1886	湖北省	当阳市	420582	Dangyang Shi	DYS
+1887	湖北省	枝江市	420583	Zhijiang Shi	ZIJ
+1888	湖北省	襄樊市	420600	Xiangfan Shi	XFN
+1889	湖北省	市辖区	420601	Shixiaqu	
+1890	湖北省	襄城区	420602	Xiangcheng Qu	XXF
+1891	湖北省	樊城区	420606	Fancheng Qu	FNC
+1892	湖北省	襄阳县	420621	Xiangyang Xian	XYA
+1893	湖北省	南漳县	420624	Nanzhang Xian	NZH
+1894	湖北省	谷城县	420625	Gucheng Xian	GUC
+1895	湖北省	保康县	420626	Baokang Xian	BKG
+1896	湖北省	老河口市	420682	Laohekou Shi	LHK
+1897	湖北省	枣阳市	420683	Zaoyang Shi	ZOY
+1898	湖北省	宜城市	420684	Yicheng Shi	YCW
+1899	湖北省	鄂州市	420700	Ezhou Shi	EZS
+1900	湖北省	市辖区	420701	Shixiaqu	
+1901	湖北省	梁子湖区	420702	Liangzihu Qu	LZI
+1902	湖北省	华容区	420703	Huarong Qu	HRQ
+1903	湖北省	鄂城区	420704	Echeng Qu	ECQ
+1904	湖北省	荆门市	420800	Jingmen Shi	JMS
+1905	湖北省	市辖区	420801	Shixiaqu	
+1906	湖北省	东宝区	420802	Dongbao Qu	DBQ
+1907	湖北省	京山县	420821	Jingshan Xian	JSA
+1908	湖北省	沙洋县	420822	Shayang Xian	SYF
+1909	湖北省	钟祥县	420881	Zhongxiang Xian	ZXS
+1910	湖北省	孝感市	420900	Xiaogan Shi	XGE
+1911	湖北省	市辖区	420901	Shixiaqu	
+1912	湖北省	孝南区	420902	Xiaonan Qu	XNA
+1913	湖北省	孝昌县	420921	Xiaochang Xian	XOC
+1914	湖北省	大悟县	420922	Dawu Xian	DWU
+1915	湖北省	云梦县	420923	Yunmeng Xian	YMX
+1916	湖北省	应城市	420981	Yingcheng Shi	YCG
+1917	湖北省	安陆市	420982	Anlu Shi	ALU
+1918	湖北省	广水市	420983	Guangshui Shi	GSS
+1919	湖北省	汉川市	420984	Hanchuan Shi	HCH
+1920	湖北省	荆州市	421000	Jingzhou Shi	JGZ
+1921	湖北省	市辖区	421001	Shixiaqu	
+1922	湖北省	沙市区	421002	Shashi Qu	SSJ
+1923	湖北省	荆州区	421003	Jingzhou Qu	JZQ
+1924	湖北省	公安县	421022	Gong,an Xian	GGA
+1925	湖北省	监利县	421023	Jianli Xian	JLI
+1926	湖北省	江陵县	421024	Jiangling Xian	JLX
+1927	湖北省	石首市	421081	Shishou Shi	SSO
+1928	湖北省	洪湖市	421083	Honghu Shi	HHU
+1929	湖北省	松滋市	421087	Songzi Shi	SZF
+1930	湖北省	黄冈市	421100	Huanggang Shi	HE
+1931	湖北省	市辖区	421101	Shixiaqu	
+1932	湖北省	黄州区	421102	Huangzhou Qu	HZC
+1933	湖北省	团风县	421121	Tuanfeng Xian	TFG
+1934	湖北省	红安县	421122	Hong,an Xian	HGA
+1935	湖北省	罗田县	421123	Luotian Xian	LTE
+1936	湖北省	英山县	421124	Yingshan Xian	YSE
+1937	湖北省	浠水县	421125	Xishui Xian	XSE
+1938	湖北省	蕲春县	421126	Qichun Xian	QCN
+1939	湖北省	黄梅县	421127	Huangmei Xian	HGM
+1940	湖北省	麻城市	421181	Macheng Shi	MCS
+1941	湖北省	武穴市	421182	Wuxue Shi	WXE
+1942	湖北省	咸宁市	421200	Xianning Xian	XNS
+1943	湖北省	市辖区	421201	Shixiaqu	
+1944	湖北省	咸安区	421202	Xian,an Qu	XAN
+1945	湖北省	嘉鱼县	421221	Jiayu Xian	JYX
+1946	湖北省	通城县	421222	Tongcheng Xian	TCX
+1947	湖北省	崇阳县	421223	Chongyang Xian	CGY
+1948	湖北省	通山县	421224	Tongshan Xian	TSA
+1949	湖北省	赤壁市	421281	Chibi Shi	CBI
+1950	湖北省	恩施土家族苗族自治州	422800	Enshi Tujiazu Miaozu Zizhizhou	ESH
+1951	湖北省	恩施市	422801	Enshi Shi	ESS
+1952	湖北省	利川市	422802	Lichuan Shi	LCE
+1953	湖北省	建始县	422822	Jianshi Xian	JSE
+1954	湖北省	巴东县	422823	Badong Xian	BDG
+1955	湖北省	宣恩县	422825	Xuan,en Xian	XEN
+1956	湖北省	咸丰县	422826	Xianfeng Xian	XFG
+1957	湖北省	来凤县	422827	Laifeng Xian	LFG
+1958	湖北省	鹤峰县	422828	Hefeng Xian	HEF
+1959	湖北省	省直辖县级行政单位	429000	Sheng Zhixia Xianji Xingzhengdanwei	
+1960	湖北省	随州市	429001	Suizhou Shi	SZR
+1961	湖北省	仙桃市	429004	Xiantao Shi	XNT
+1962	湖北省	潜江市	429005	Qianjiang Shi	QNJ
+1963	湖北省	天门市	429006	Tianmen Shi	TMS
+1964	湖北省	神农架林区	429021	Shennongjia Linqu	SNJ
+1965	湖南省	湖南省	430000	Hunan Sheng	HN
+1966	湖南省	长沙市	430100	Changsha Shi	CSX
+1967	湖南省	市辖区	430101	Shixiaqu	
+1968	湖南省	芙蓉区	430102	Furong Qu	FRQ
+1969	湖南省	天心区	430103	Tianxin Qu	TXQ
+1970	湖南省	岳麓区	430104	Yuelu Qu	YLU
+1971	湖南省	开福区	430105	Kaifu Qu	KFQ
+1972	湖南省	雨花区	430111	Yuhua Qu	YHA
+1973	湖南省	长沙县	430121	Changsha Xian	CSA
+1974	湖南省	望城县	430122	Wangcheng Xian	WCH
+1975	湖南省	宁乡县	430124	Ningxiang Xian	NXX
+1976	湖南省	浏阳市	430181	Liuyang Shi	LYS
+1977	湖南省	株洲市	430200	Zhuzhou Shi	ZZS
+1978	湖南省	市辖区	430201	Shixiaqu	
+1979	湖南省	荷塘区	430202	Hetang Qu	HTZ
+1980	湖南省	芦淞区	430203	Lusong Qu	LZZ
+1981	湖南省	石峰区	430204	Shifeng Qu	SFG
+1982	湖南省	天元区	430211	Tianyuan Qu	TYQ
+1983	湖南省	株洲县	430221	Zhuzhou Xian	ZZX
+1984	湖南省	攸县	430223	You Xian	YOU
+1985	湖南省	茶陵县	430224	Chaling Xian	CAL
+1986	湖南省	炎陵县	430225	Yanling Xian	YLX
+1987	湖南省	醴陵市	430281	Liling Shi	LIL
+1988	湖南省	湘潭市	430300	Xiangtan Shi	XGT
+1989	湖南省	市辖区	430301	Shixiaqu	
+1990	湖南省	雨湖区	430302	Yuhu Qu	YHU
+1991	湖南省	岳塘区	430304	Yuetang Qu	YTG
+1992	湖南省	湘潭县	430321	Xiangtan Qu	XTX
+1993	湖南省	湘乡市	430381	Xiangxiang Shi	XXG
+1994	湖南省	韶山市	430382	Shaoshan Shi	SSN
+1995	湖南省	衡阳市	430400	Hengyang Shi	HNY
+1996	湖南省	市辖区	430401	Shixiaqu	
+1997	湖南省	江东区	430402	Jiangdong Qu	JDH
+1998	湖南省	城南区	430403	Chengnan Qu	CNN
+1999	湖南省	城北区	430404	Chengbei Qu	CBQ
+2000	湖南省	郊区	430411	Jiaoqu	JHY
+2001	湖南省	南岳区	430412	Nanyue Qu	NYQ
+2002	湖南省	衡阳县	430421	Hengyang Xian	HYO
+2003	湖南省	衡南县	430422	Hengnan Xian	HNX
+2004	湖南省	衡山县	430423	Hengshan Xian	HSH
+2005	湖南省	衡东县	430424	Hengdong Xian	HED
+2006	湖南省	祁东县	430426	Qidong Xian	QDX
+2007	湖南省	耒阳市	430481	Leiyang Shi	LEY
+2008	湖南省	常宁市	430482	Changning Shi	CNS
+2009	湖南省	邵阳市	430500	Shaoyang Shi	SYR
+2010	湖南省	市辖区	430501	Shixiaqu	
+2011	湖南省	双清区	430502	Shuangqing Qu	SGQ
+2012	湖南省	大祥区	430503	Daxiang Qu	DXS
+2013	湖南省	北塔区	430511	Beita Qu	BET
+2014	湖南省	邵东县	430521	Shaodong Xian	SDG
+2015	湖南省	新邵县	430522	Xinshao Xian	XSO
+2016	湖南省	邵阳县	430523	Shaoyang Xian	SYW
+2017	湖南省	隆回县	430524	Longhui Xian	LGH
+2018	湖南省	洞口县	430525	Dongkou Xian	DGK
+2019	湖南省	绥宁县	430527	Suining Xian	SNX
+2020	湖南省	新宁县	430528	Xinning Xian	XNI
+2021	湖南省	城步苗族自治县	430529	Chengbu Miaozu Zizhixian	CBU
+2022	湖南省	武冈市	430581	Wugang Shi	WGS
+2023	湖南省	岳阳市	430600	Yueyang Shi	YYG
+2024	湖南省	市辖区	430601	Shixiaqu	
+2025	湖南省	岳阳楼区	430602	Yueyanglou Qu	YYL
+2026	湖南省	云溪区	430603	Yunxi Qu	YXI
+2027	湖南省	君山区	430611	Junshan Qu	JUS
+2028	湖南省	岳阳县	430621	Yueyang Xian	YYX
+2029	湖南省	华容县	430623	Huarong Xian	HRG
+2030	湖南省	湘阴县	430624	Xiangyin Xian	XYN
+2031	湖南省	平江县	430626	Pingjiang Xian	PJH
+2032	湖南省	汨罗市	430681	Miluo Shi	MLU
+2033	湖南省	临湘市	430682	Linxiang Shi	LXY
+2034	湖南省	常德市	430700	Changde Shi	CDE
+2035	湖南省	市辖区	430701	Shixiaqu	
+2036	湖南省	武陵区	430702	Wuling Qu	WLQ
+2037	湖南省	鼎城区	430703	Dingcheng Qu	DCE
+2038	湖南省	安乡县	430721	Anxiang Xian	AXG
+2039	湖南省	汉寿县	430722	Hanshou Xian	HSO
+2040	湖南省	澧县	430723	Li Xian	LXX
+2041	湖南省	临澧县	430724	Linli Xian	LNL
+2042	湖南省	桃源县	430725	Taoyuan Xian	TOY
+2043	湖南省	石门县	430726	Shimen Xian	SHM
+2044	湖南省	津市市	430781	Jinshi Shi	JSS
+2045	湖南省	张家界市	430800	Zhangjiajie Shi	ZJJ
+2046	湖南省	市辖区	430801	Shixiaqu	
+2047	湖南省	永定区	430802	Yongding Qu	YDQ
+2048	湖南省	武陵源区	430811	Wulingyuan Qu	WLY
+2049	湖南省	慈利县	430821	Cili Xian	CLI
+2050	湖南省	桑植县	430822	Sangzhi Xian	SZT
+2051	湖南省	益阳市	430900	Yiyang Shi	YYS
+2052	湖南省	市辖区	430901	Shixiaqu	
+2053	湖南省	资阳区	430902	Ziyang Qu	ZYC
+2054	湖南省	赫山区	430903	Heshan Qu	HSY
+2055	湖南省	南县	430921	Nan Xian	NXN
+2056	湖南省	桃江县	430922	Taojiang Xian	TJG
+2057	湖南省	安化县	430923	Anhua Xian	ANH
+2058	湖南省	沅江市	430981	Yuanjiang Shi	YJS
+2059	湖南省	郴州市	431000	Chenzhou Shi	CNZ
+2060	湖南省	市辖区	431001	Shixiaqu	
+2061	湖南省	北湖区	431002	Beihu Qu	BHQ
+2062	湖南省	苏仙区	430003	Suxian Qu	SUX
+2063	湖南省	桂阳县	431021	Guiyang Xian	GYX
+2064	湖南省	宜章县	431022	yizhang Xian	YZA
+2065	湖南省	永兴县	431023	Yongxing Xian	YXX
+2066	湖南省	嘉禾县	431024	Jiahe Xian	JAH
+2067	湖南省	临武县	431025	Linwu Xian	LWX
+2068	湖南省	汝城县	431026	Rucheng Xian	RCE
+2069	湖南省	桂东县	431027	Guidong Xian	GDO
+2070	湖南省	安仁县	431028	Anren Xian	ARN
+2071	湖南省	资兴市	431081	Zixing Shi	ZXG
+2072	湖南省	永州市	431100	Yongzhou Shi	YZS
+2073	湖南省	市辖区	431101	Shixiaqu	
+2074	湖南省	芝山区	431102	Zhishan Qu	ZSY
+2075	湖南省	冷水滩区	431103	Lengshuitan Qu	LST
+2076	湖南省	祁阳县	431121	Qiyang Xian	QJY
+2077	湖南省	东安县	431122	Dong,an Xian	DOA
+2078	湖南省	双牌县	431123	Shuangpai Xian	SPA
+2079	湖南省	道县	431124	Dao Xian	DAO
+2080	湖南省	江永县	431125	Jiangyong Xian	JYD
+2081	湖南省	宁远县	431126	Ningyuan Xian	NYN
+2082	湖南省	蓝山县	431127	Lanshan Xian	LNS
+2083	湖南省	新田县	431128	Xintian Xian	XTN
+2084	湖南省	江华瑶族自治县	431129	Jianghua Yaozu Zizhixian	JHX
+2085	湖南省	怀化市	431200	Huaihua Shi	HHS
+2086	湖南省	市辖区	431201	Shixiaqu	
+2087	湖南省	鹤城区	431202	Hecheng Qu	HCG
+2088	湖南省	中方县	431221	Zhongfang Xian	ZFX
+2089	湖南省	沅陵县	431222	Yuanling Xian	YNL
+2090	湖南省	辰溪县	431223	Chenxi Xian	CXX
+2091	湖南省	溆浦县	431224	Xupu Xian	XUP
+2092	湖南省	会同县	431225	Huitong Xian	HTG
+2093	湖南省	麻阳苗族自治县	431226	Mayang Miaozu Zizhixian	MYX
+2094	湖南省	新晃侗族自治县	431227	Xinhuang Dongzu Zizhixian	XHD
+2095	湖南省	芷江侗族自治县	431228	Zhijiang Dongzu Zizhixian	ZJX
+2096	湖南省	靖州苗族侗族自治县	431229	Jingzhou Miaozu Dongzu Zizhixian	JZO
+2097	湖南省	通道侗族自治县	431230	Tongdao Dongzu Zizhixian	TDD
+2098	湖南省	洪江市	431281	Hongjiang Shi	HGJ
+2099	湖南省	娄底地区	432500	Loudi Diqu	LDD
+2100	湖南省	娄底市	432501	Loudi Shi	LDI
+2101	湖南省	冷水江市	432502	Lengshuijiang Shi	LSJ
+2102	湖南省	涟源市	432503	Lianyuan Shi	LYU
+2103	湖南省	双峰县	432522	Shuangfeng Xian	SFX
+2104	湖南省	新化县	432524	Xinhua Xian	XNH
+2105	湖南省	湘西土家族苗族自治州	433100	Xiangxi Tujiazu Miaozu Zizhizhou 	XXZ
+2106	湖南省	吉首市	433101	Jishou Shi	JSO
+2107	湖南省	泸溪县	433122	Luxi Xian	LXW
+2108	湖南省	凤凰县	433123	Fenghuang Xian	FHX
+2109	湖南省	花垣县	433124	Huayuan Xian	HYH
+2110	湖南省	保靖县	433125	Baojing Xian	BJG
+2111	湖南省	古丈县	433126	Guzhang Xian	GZG
+2112	湖南省	永顺县	433127	Yongshun Xian	YSF
+2113	湖南省	龙山县	433130	Longshan Xian	LSR
+2114	广东省	广东省	440000	Guangdong Sheng	GD
+2115	广东省	金湾区	440404	Jinwan Qu	JW Q
+2116	广东省	广州市	440100	Guangzhou Shi	CAN
+2117	广东省	市辖区	440101	Shixiaqu	
+2118	广东省	东山区	440102	Dongshan Qu	DSG
+2119	广东省	荔湾区	440103	Liwan Qu	LWQ
+2120	广东省	越秀区	440104	Yuexiu Qu	YXU
+2121	广东省	海珠区	440105	Haizhu Qu	HZU
+2122	广东省	天河区	440106	Tianhe Qu	THQ
+2123	广东省	芳村区	440107	Fangcun Qu	FCN
+2124	广东省	白云区	440111	Baiyun Qu	BYN
+2125	广东省	黄埔区	440112	Huangpu Qu	HPU
+2126	广东省	番禺区	440113	Panyu Qu	PNY
+2127	广东省	花都区	440114	Huadu Qu	HDU
+2128	广东省	增城市	440183	Zengcheng Shi	ZEC
+2129	广东省	从化市	440184	Conghua Shi	CNH
+2130	广东省	韶关市	440200	Shaoguan Shi	HSC
+2131	广东省	市辖区	440201	Shixiaqu	
+2132	广东省	北江区	440202	Beijiang Qu	BJA
+2133	广东省	武江区	440203	Wujiang Qu	WJQ
+2134	广东省	浈江区	440204	Zhenjiang Qu	ZJQ
+2135	广东省	曲江县	440221	Qujiang Xian	QUJ
+2136	广东省	始兴县	440222	Shixing Xian	SXX
+2137	广东省	仁化县	440224	Renhua Xian	RHA
+2138	广东省	翁源县	440229	Wengyuan Xian	WYN
+2139	广东省	乳源瑶族自治县	440232	Ruyuan Yaozu Zizhixian	RYN
+2140	广东省	新丰县	440233	Xinfeng Xian	XFY
+2141	广东省	乐昌市	440281	Lechang Shi	LEC
+2142	广东省	南雄市	440282	Nanxiong Shi	NXS
+2143	广东省	深圳市	440300	Shenzhen Shi	SZX
+2144	广东省	市辖区	440301	Shixiaqu	
+2145	广东省	罗湖区	440303	Luohu Qu	LHQ
+2146	广东省	福田区	440304	Futian Qu	FTN
+2147	广东省	南山区	440305	Nanshan Qu	NSN
+2148	广东省	宝安区	440306	Bao,an Qu	BAQ
+2149	广东省	龙岗区	440307	Longgang Qu	LGG
+2150	广东省	盐田区	440308	Yan Tian Qu	YTQ
+2151	广东省	珠海市	440400	Zhuhai Shi	ZUH
+2152	广东省	市辖区	440401	Shixiaqu	
+2153	广东省	香洲区	440402	Xiangzhou Qu	XZQ
+2154	广东省	斗门区	440403	Doumen Qu	DOU
+2155	广东省	汕头市	440500	Shantou Shi	SWA
+2156	广东省	市辖区	440501	Shixiaqu	
+2157	广东省	潮南区	440514	Chaonan Qu	CN Q
+2158	广东省	龙湖区	440507	Longhu Qu	LHH
+2159	广东省	金平区	440511	Jinping Qu	JPQ
+2160	广东省	茂港区	440903	Maogang Qu	MGQ
+2161	广东省	南澳县	440523	Nan,ao Xian	NAN
+2162	广东省	潮阳区	440513	Chaoyang  Qu	CHY
+2163	广东省	澄海区	440515	Chenghai QU	CHS
+2164	广东省	佛山市	440600	Foshan Shi	FOS
+2165	广东省	市辖区	440601	Shixiaqu	
+2166	广东省	禅城区	440604	Chancheng Qu	CC Q
+2167	广东省	顺德区	440606	Shunde Shi	SUD
+2168	广东省	南海区	440605	Nanhai Shi	NAH
+2169	广东省	三水区	440607	Sanshui Shi	SJQ
+2170	广东省	高明区	440608	Gaoming Shi	GOM
+2171	广东省	江门市	440700	Jiangmen Shi	JMN
+2172	广东省	市辖区	440701	Shixiaqu	
+2173	广东省	蓬江区	440703	Pengjiang Qu	PJJ
+2174	广东省	江海区	440704	Jianghai Qu	JHI
+2175	广东省	台山市	440781	Taishan Shi	TSS
+2176	广东省	新会区	440705	Xinhui Shi	XIN
+2177	广东省	开平市	440783	Kaiping Shi	KPS
+2178	广东省	鹤山市	440784	Heshan Shi	HES
+2179	广东省	恩平市	440785	Enping Shi	ENP
+2180	广东省	湛江市	440800	Zhanjiang Shi	ZHA
+2181	广东省	市辖区	440801	Shixiaqu	
+2182	广东省	赤坎区	440802	Chikan Qu	CKQ
+2183	广东省	霞山区	440803	Xiashan Qu	XAS
+2184	广东省	坡头区	440804	Potou Qu	PTU
+2185	广东省	麻章区	440811	Mazhang Qu	MZQ
+2186	广东省	遂溪县	440823	Suixi Xian	SXI
+2187	广东省	徐闻县	440825	Xuwen Xian	XWN
+2188	广东省	廉江市	440881	Lianjiang Shi	LJS
+2189	广东省	雷州市	440882	Leizhou Shi	LEZ
+2190	广东省	吴川市	440883	Wuchuan Shi	WCS
+2191	广东省	茂名市	440900	Maoming Shi	MMI
+2192	广东省	市辖区	440901	Shixiaqu	
+2193	广东省	茂南区	440902	Maonan Qu	MNQ
+2194	广东省	电白县	440923	Dianbai Xian	DBI
+2195	广东省	高州市	440981	Gaozhou Shi	GZO
+2196	广东省	化州市	440982	Huazhou Shi	HZY
+2197	广东省	信宜市	440983	Xinyi Shi	XYY
+2198	广东省	肇庆市	441200	Zhaoqing Shi	ZQG
+2199	广东省	市辖区	441201	Shixiaqu	
+2200	广东省	端州区	441202	Duanzhou Qu	DZQ
+2201	广东省	鼎湖区	441203	Dinghu Qu	DGH
+2202	广东省	广宁县	441223	Guangning Xian	GNG
+2203	广东省	怀集县	441224	Huaiji Xian	HJX
+2204	广东省	封开县	441225	Fengkai Xian	FKX
+2205	广东省	德庆县	441226	Deqing Xian	DQY
+2206	广东省	高要市	441283	Gaoyao Xian	GYY
+2207	广东省	四会市	441284	Sihui Shi	SHI
+2208	广东省	惠州市	441300	Huizhou Shi	HUI
+2209	广东省	市辖区	441301	Shixiaqu	
+2210	广东省	惠城区	441302	Huicheng Qu	HCQ
+2211	广东省	博罗县	441322	Boluo Xian	BOL
+2212	广东省	惠东县	441323	Huidong Xian	HID
+2213	广东省	龙门县	441324	Longmen Xian	LMN
+2214	广东省	惠阳区	441303	Huiyang Shi	HUY
+2215	广东省	梅州市	441400	Meizhou Shi	MXZ
+2216	广东省	市辖区	441401	Shixiaqu	
+2217	广东省	梅江区	441402	Meijiang Qu	MJQ
+2218	广东省	梅县	441421	Mei Xian	MEX
+2219	广东省	大埔县	441422	Dabu Xian	DBX
+2220	广东省	丰顺县	441423	Fengshun Xian	FES
+2221	广东省	五华县	441424	Wuhua Xian	WHY
+2222	广东省	平远县	441426	Pingyuan Xian	PYY
+2223	广东省	蕉岭县	441427	Jiaoling Xian	JOL
+2224	广东省	兴宁市	441481	Xingning Shi	XNG
+2225	广东省	汕尾市	441500	Shanwei Shi	SWE
+2226	广东省	市辖区	441501	Shixiaqu	
+2227	广东省	城区	441502	Chengqu	CQS
+2228	广东省	海丰县	441521	Haifeng Xian	HIF
+2229	广东省	陆河县	441523	Luhe Xian	LHY
+2230	广东省	陆丰市	441581	Lufeng Shi	LUF
+2231	广东省	河源市	441600	Heyuan Shi	HEY
+2232	广东省	市辖区	441601	Shixiaqu	
+2233	广东省	源城区	441602	Yuancheng Qu	YCQ
+2234	广东省	紫金县	441621	Zijin Xian	ZJY
+2235	广东省	龙川县	441622	Longchuan Xian	LCY
+2236	广东省	连平县	441623	Lianping Xian	LNP
+2237	广东省	和平县	441624	Heping Xian	HPY
+2238	广东省	东源县	441625	Dongyuan Xian	DYN
+2239	广东省	阳江市	441700	Yangjiang Shi	YJI
+2240	广东省	市辖区	441701	Shixiaqu	
+2241	广东省	江城区	441702	Jiangcheng Qu	JCQ
+2242	广东省	阳西县	441721	Yangxi Xian	YXY
+2243	广东省	阳东县	441723	Yangdong Xian	YGD
+2244	广东省	阳春市	441781	Yangchun Shi	YCU
+2245	广东省	清远市	441800	Qingyuan Shi	QYN
+2246	广东省	市辖区	441801	Shixiaqu	
+2247	广东省	清城区	441802	Qingcheng Qu	QCQ
+2248	广东省	佛冈县	441821	Fogang Xian	FGY
+2249	广东省	阳山县	441823	Yangshan Xian	YSN
+2250	广东省	连山壮族瑶族自治县	441825	Lianshan Zhuangzu Yaozu Zizhixian	LSZ
+2251	广东省	连山瑶族自治县	441826	Lianshan Yaozu Zizhixian	LNN
+2252	广东省	清新县	441827	Qingxin Xian	QGX
+2253	广东省	英德市	441881	Yingde Shi	YDS
+2254	广东省	连州市	441882	Lianzhou Shi	LZO
+2255	广东省	东莞市	441900	Dongguan Shi	DGG
+2256	广东省	中山市	442000	Zhongshan Shi	ZSN
+2257	广东省	潮州市	445100	Chaozhou Shi	CZY
+2258	广东省	市辖区	445101	Shixiaqu	
+2259	广东省	湘桥区	445102	Xiangqiao Qu	XQO
+2260	广东省	潮安县	445121	Chao,an Xian	CAY
+2261	广东省	饶平县	445122	Raoping Xian	RPG
+2262	广东省	揭阳市	445200	Jieyang Shi	JIY
+2263	广东省	市辖区	445201	Shixiaqu	
+2264	广东省	榕城区	445202	Rongcheng Qu	RCH
+2265	广东省	揭东县	445221	Jiedong Xian	JDX
+2266	广东省	揭西县	445222	Jiexi Xian	JEX
+2267	广东省	惠来县	445224	Huilai Xian	HLY
+2268	广东省	普宁市	445281	Puning Shi	PNG
+2269	广东省	云浮市	445300	Yunfu Shi	YFS
+2270	广东省	市辖区	445301	Shixiaqu	
+2271	广东省	云城区	445302	Yuncheng Qu	YYF
+2272	广东省	新兴县	445321	Xinxing Xian	XNX
+2273	广东省	郁南县	445322	Yunan Xian	YNK
+2274	广东省	云安县	445323	Yun,an Xian	YUA
+2275	广东省	罗定市	445381	Luoding Shi	LUO
+2276	广东省	濠江区	440512	Haojiang Qu	HJ Q
+2277	广西壮族自治区	广西壮族自治区	450000	Guangxi Zhuangzu Zizhiqu	GX
+2278	广西壮族自治区	南宁市	450100	Nanning Shi	NNG
+2279	广西壮族自治区	市辖区	450101	Shixiaqu	
+2280	广西壮族自治区	兴宁区	450102	Xingning Qu	XNE
+2281	广西壮族自治区	新城区	450103	Xincheng Qu	XCE
+2282	广西壮族自治区	城北区	450104	Chengbei Qu	CBN
+2283	广西壮族自治区	江南区	450105	Jiangnan Qu	JNA
+2284	广西壮族自治区	永新区	450106	Yongxin Qu	YXQ
+2285	广西壮族自治区	市郊区	450111	Shijiao Qu	SJO
+2286	广西壮族自治区	邕宁县	450121	Yongning Xian	YNG
+2287	广西壮族自治区	武鸣县	450122	Wuming Xian	WMG
+2288	广西壮族自治区	柳州市	450200	Liuzhou Shi	LZH
+2289	广西壮族自治区	市辖区	450201	Shixiaqu	
+2290	广西壮族自治区	城中区	450202	Chengzhong Qu	CZG
+2291	广西壮族自治区	鱼峰区	450203	Yufeng Qu	YFQ
+2292	广西壮族自治区	柳南区	450204	Liunan Qu	LNU
+2293	广西壮族自治区	柳北区	450205	Liubei Qu	LBE
+2294	广西壮族自治区	市郊区	450211	Shijiao Qu	SJL
+2295	广西壮族自治区	柳江县	450221	Liujiang Xian	LUJ
+2296	广西壮族自治区	柳城县	450222	Liucheng Xian	LCB
+2297	广西壮族自治区	桂林市	450300	Guilin Shi	KWL
+2298	广西壮族自治区	市辖区	450301	Shixiaqu	
+2299	广西壮族自治区	秀峰区	450302	Xiufeng Qu	XUF
+2300	广西壮族自治区	叠彩区	450303	Diecai Qu	DCA
+2301	广西壮族自治区	象山区	450304	Xiangshan Qu	XSK
+2302	广西壮族自治区	七星区	450305	Qixing Qu	QXG
+2303	广西壮族自治区	雁山区	450311	Yanshan Qu	YSA
+2304	广西壮族自治区	阳朔县	450321	Yangshuo Xian	YSO
+2305	广西壮族自治区	临桂县	450322	Lingui Xian	LGI
+2306	广西壮族自治区	灵川县	450323	Lingchuan Xian	LCU
+2307	广西壮族自治区	全州县	450324	Quanzhou Xian	QZO
+2308	广西壮族自治区	兴安县	450325	Xing,an Xian	XAG
+2309	广西壮族自治区	永福县	450326	Yongfu Xian	YFU
+2310	广西壮族自治区	灌阳县	450327	Guanyang Xian	GNY
+2311	广西壮族自治区	龙胜各族自治县	450328	Longsheng Gezu Zizhixian	LSG
+2312	广西壮族自治区	资源县	450329	Ziyuan Xian	ZYU
+2313	广西壮族自治区	平乐县	450330	Pingle Xian	PLE
+2314	广西壮族自治区	荔浦县	450331	Lipu Xian	LPU
+2315	广西壮族自治区	恭城瑶族自治县	450332	Gongcheng Yaozu Zizhixian	GGC
+2316	广西壮族自治区	梧州市	450400	Wuzhou Shi	WUZ
+2317	广西壮族自治区	市辖区	450401	Shixiaqu	
+2318	广西壮族自治区	万秀区	450403	Wanxiu Qu	WXQ
+2319	广西壮族自治区	蝶山区	450404	Dieshan Qu	DES
+2320	广西壮族自治区	市郊区	450411	Shijiao Qu	SWZ
+2321	广西壮族自治区	苍梧县	450421	Cangwu Xian	CAW
+2322	广西壮族自治区	腾县	450422	Teng Xian	TEG
+2323	广西壮族自治区	蒙山县	450423	Mengshan Xian	MSA
+2324	广西壮族自治区	岑溪市	450481	Cenxi Shi	CEX
+2325	广西壮族自治区	北海市	450500	Beihai Shi	BHY
+2326	广西壮族自治区	市辖区	450501	Shixiaqu	
+2327	广西壮族自治区	海城区	450502	Haicheng Qu	HCB
+2328	广西壮族自治区	银海区	450503	Yinhai Qu	YHB
+2329	广西壮族自治区	铁山港区	450512	Tieshangangqu 	TSG
+2330	广西壮族自治区	合浦县	450521	Hepu Xian	HPX
+2331	广西壮族自治区	防城港市	450600	Fangchenggang Shi	FAN
+2332	广西壮族自治区	市辖区	450601	Shixiaqu	
+2333	广西壮族自治区	港口区	450602	Gangkou Qu	GKQ
+2334	广西壮族自治区	防城区	450603	Fangcheng Qu	FCQ
+2335	广西壮族自治区	上思县	450621	Shangsi Xian	SGS
+2336	广西壮族自治区	东兴市	450681	Dongxing Shi	DOX
+2337	广西壮族自治区	钦州市	450700	Qinzhou Shi	QZH
+2338	广西壮族自治区	市辖区	450701	Shixiaqu	
+2339	广西壮族自治区	钦南区	450702	Qinnan Qu	QNQ
+2340	广西壮族自治区	钦北区	450703	Qinbei Qu	QBQ
+2341	广西壮族自治区	灵山县	450721	Lingshan Xian	LSB
+2342	广西壮族自治区	浦北县	450722	Pubei Xian	PBE
+2343	广西壮族自治区	贵港市	450800	Guigang Shi	GUG
+2344	广西壮族自治区	市辖区	450801	Shixiaqu	
+2345	广西壮族自治区	港北区	450802	Gangbei Qu	GBE
+2346	广西壮族自治区	港南区	450803	Gangnan Qu	GNQ
+2347	广西壮族自治区	平南县	450821	Pingnan Xian	PNN
+2348	广西壮族自治区	桂平市	450881	Guiping Shi	GPS
+2349	广西壮族自治区	玉林市	450900	Yulin Shi	YUL
+2350	广西壮族自治区	市辖区	450901	Shixiaqu	
+2351	广西壮族自治区	玉州区	450902	Yuzhou Qu	YZO
+2352	广西壮族自治区	容县	450921	Rong Xian	ROG
+2353	广西壮族自治区	陆川县	450922	Luchuan Xian	LCJ
+2354	广西壮族自治区	博白县	450923	Bobai Xian	BBA
+2355	广西壮族自治区	兴业县	450924	Xingye Xian	XGY
+2356	广西壮族自治区	北流市	450981	Beiliu Shi	BLS
+2357	广西壮族自治区	南宁地区	452100	Nanning Diqu	NND
+2358	广西壮族自治区	凭祥市	452101	Pingxiang Shi	PIN
+2359	广西壮族自治区	横县	452122	Heng Xian	HEN
+2360	广西壮族自治区	宾阳县	452123	Binyang Xian	BYX
+2361	广西壮族自治区	上林县	452124	Shanglin Xian	SLX
+2362	广西壮族自治区	隆安县	452126	Long,an Xian	LGA
+2363	广西壮族自治区	马山县	452127	Mashan Xian	MSH
+2364	广西壮族自治区	扶绥县	452128	Fusui Xian	FSU
+2365	广西壮族自治区	崇左县	452129	Chongzuo Xian	CZU
+2366	广西壮族自治区	大新县	452130	Daxin Xian	DXN
+2367	广西壮族自治区	天等县	452131	Tiandeng Xian	TDG
+2368	广西壮族自治区	宁明县	452132	Ningming Xian	NMG
+2369	广西壮族自治区	龙州县	452133	Longzhou Xian	LZX
+2370	广西壮族自治区	柳州地区	452200	Liuzhou Diqu	LZD
+2371	广西壮族自治区	合山市	452201	Heshan Shi	HSS
+2372	广西壮族自治区	鹿寨县	452223	Luzhai Xian	LZA
+2373	广西壮族自治区	象州县	452224	Xiangzhou Xian	XGZ
+2374	广西壮族自治区	武宣县	452225	Wuxuan Xian	WXN
+2375	广西壮族自治区	来宾县	452226	Laibin Xian	LBN
+2376	广西壮族自治区	融安县	452227	Rong,an Xian	RAN
+2377	广西壮族自治区	三江侗族自治县	452228	Sanjiang Dongzu Zizhixian	SJG
+2378	广西壮族自治区	融水苗族自治县	452229	Rongshui Miaozu Zizhixian	RSI
+2379	广西壮族自治区	金秀瑶族自治县	452230	Jinxiu Yaozu Zizhixian	JXU
+2380	广西壮族自治区	忻城县	452231	Xincheng Xian	XCH
+2381	广西壮族自治区	贺州地区	452400	Hezhou Diqu	HZD
+2382	广西壮族自治区	贺州市	452402	Hezhou Shi	HZB
+2383	广西壮族自治区	昭平县	452424	Zhaoping Xian	ZPG
+2384	广西壮族自治区	钟山县	452427	Zhongshan Xian	ZSG
+2385	广西壮族自治区	富川瑶族自治县	452428	Fuchuan Yaozu Zizhixian	FUC
+2386	广西壮族自治区	百色地区	452600	Baise Diqu	BSE
+2387	广西壮族自治区	百色市	452601	Baise Shi	BSS
+2388	广西壮族自治区	田阳县	452622	Tianyang Xian	TYG
+2389	广西壮族自治区	田东县	452623	Tiandong Xian	TDO
+2390	广西壮族自治区	平果县	452624	Pingguo Xian	PGX
+2391	广西壮族自治区	德保县	452625	Debao Xian	DEB
+2392	广西壮族自治区	靖西县	452626	Jingxi Xian	JGX
+2393	广西壮族自治区	那坡县	452627	Napo Xian	NPO
+2394	广西壮族自治区	凌云县	452628	Lingyun Xian	LYN
+2395	广西壮族自治区	乐业县	452629	Leye Xian	LYE
+2396	广西壮族自治区	田林县	452630	Tianlin Xian	TLN
+2397	广西壮族自治区	隆林各族自治县	452631	Longlin Gezu Zizhixian	LLN
+2398	广西壮族自治区	西林县	452632	Xilin Xian	XLX
+2399	广西壮族自治区	河池地区	452700	Hechi Diqu	HCD
+2400	广西壮族自治区	河池市	452701	Hechi Shi	HCS
+2401	广西壮族自治区	宜州市	452702	Yizhou Shi	YIZ
+2402	广西壮族自治区	罗城仫佬族自治县	452723	Luocheng Mulaozu Zizhixian	LOC
+2403	广西壮族自治区	环江毛南族自治县	452724	Huanjiang Maonanzu Zizhixian	HNJ
+2404	广西壮族自治区	南丹县	452725	Nandan Xian	NDN
+2405	广西壮族自治区	天峨县	452726	Tian,e Xian	TEX
+2406	广西壮族自治区	凤山县	452727	Fengshan Xian	FSA
+2407	广西壮族自治区	东兰县	452728	Donglan Xian	DLN
+2408	广西壮族自治区	巴马瑶族自治县	452729	Bama Yaozu Zizhixian	BMA
+2409	广西壮族自治区	都安瑶族自治县	452730	Du,an Yaozu Zizhixian	DUA
+2410	广西壮族自治区	大化瑶族自治县	452731	Dahua Yaozu Zizhixian	DAH
+2411	海南省	海南省	460000	Hainan Sheng	HI
+2412	海南省	琼山区	460107	QiongShan Qu	QS
+2413	海南省	美兰区	460108	MeiLan Qu	ML
+2414	海南省	海口市	460100	Haikou Shi	HAK
+2415	海南省	市辖区	460101	Shixiaqu	
+2416	海南省	龙华区	460106	LongHua Qu	LH
+2417	海南省	秀英区	460105	Xiuying Qu	XYH
+2418	海南省	三亚市	460200	Sanya Shi	SYX
+2419	海南省	市辖区	460201	Shixiaqu	
+2420	海南省	通什市	460001	Tongshi Shi	TOS
+2421	海南省	琼海市	460002	Qionghai Shi	QHA
+2422	海南省	儋州市	460003	Danzhou Shi	DNZ
+2423	海南省	琼山市	460004	Qiongshan Shi	QSS
+2424	海南省	文昌市	460005	Wenchang Shi	WEC
+2425	海南省	万宁市	460006	Wanning Shi	WNN
+2426	海南省	东方市	460007	Dongfang Shi	DFG
+2427	海南省	定安县	460025	Ding,an Xian	DIA
+2428	海南省	屯昌县	460026	Tunchang Xian	TCG
+2429	海南省	澄迈县	460027	Chengmai Xian	CMA
+2430	海南省	临高县	460028	Lingao Xian	LGO
+2431	海南省	白沙黎族自治县	460030	Baisha Lizu Zizhixian	BSX
+2432	海南省	昌江黎族自治县	460031	Changjiang Lizu Zizhixian	CJX
+2433	海南省	乐东黎族自治县	460033	Ledong Lizu Zizhixian	LED
+2434	海南省	陵水黎族自治县	460034	Lingshui Lizu Zizhixian	LSL
+2435	海南省	保亭黎族苗族自治县	460035	Baoting Lizu Miaozu Zizhixian	BTG
+2436	海南省	琼中黎族苗族自治县	460036	Qiongzhong Lizu Miaozu Zizhixian	QZG
+2437	海南省	西沙群岛	460037	Xisha Qundao	XSD
+2438	海南省	南沙群岛	460038	Nansha Qundao	NSA
+2439	海南省	中沙群岛的岛礁及其海域	460039	Zhongsha Qundao de Daojiao Jiqi Haiyu	ZSA
+2440	重庆市	重庆市	500000	Chongqing Shi	CQ
+2441	重庆市	市辖区	500100	Shixiaqu	
+2442	重庆市	万州区	500101	Wanzhou Qu	WZO 
+2443	重庆市	涪陵区	500102	Fuling Qu	FLG
+2444	重庆市	渝中区	500103	Yuzhong Qu	YZQ
+2445	重庆市	大渡口区	500104	Dadukou Qu	DDK
+2446	重庆市	江北区	500105	Jiangbei Qu	JBE
+2447	重庆市	沙坪坝区	500106	Shapingba Qu	SPB
+2448	重庆市	九龙坡区	500107	Jiulongpo Qu	JLP
+2449	重庆市	南岸区	500108	Nan,an Qu	NAQ
+2450	重庆市	北碚区	500109	Beibei Qu	BBE
+2451	重庆市	万盛区	500110	Wansheng Qu	WSQ
+2452	重庆市	双桥区	500111	Shuangqiao Qu	SQQ
+2453	重庆市	渝北区	500112	Yubei Qu	YBE
+2454	重庆市	巴南区	500113	Banan Qu	BNN
+2455	重庆市	县	500200	Xian	
+2456	重庆市	长寿县	500221	Chaoshou Xian	CSO
+2457	重庆市	綦江县	500222	Qijiang Xian	QJG
+2458	重庆市	潼南县	500223	Tongnan Xian	TNN
+2459	重庆市	铜梁县	500224	Tongliang Xian	TGL
+2460	重庆市	大足县	500225	Dazu Xian	DZX
+2461	重庆市	荣昌县	500226	Rongchang Xian	RGC
+2462	重庆市	璧山县	500227	Bishan Xian	BSY
+2463	重庆市	梁平县	500228	Liangping Xian	LGP
+2464	重庆市	城口县	500229	Chengkou Xian	CKO
+2465	重庆市	丰都县	500230	Fengdu Xian	FDU
+2466	重庆市	垫江县	500231	Dianjiang Xian	DJG
+2467	重庆市	武隆县	500232	Wulong Xian	WLG
+2468	重庆市	忠县	500233	Zhong Xian	ZHX
+2469	重庆市	开县	500234	Kai Xian	KAI
+2470	重庆市	云阳县	500235	Yunyang Xian	YNY
+2471	重庆市	奉节县	500236	Fengjie Xian	FJE
+2472	重庆市	巫山县	500237	Wushan Xian	WSN
+2473	重庆市	巫溪县	500238	Wuxi Xian	WXX
+2474	重庆市	黔江土家族苗族自治县	500239	Qianjiang Tujiazu Zizhixian	QJX
+2475	重庆市	石柱土家族自治县	500240	Shizhu Tujiazu Zizhixian	SZY
+2476	重庆市	秀山土家族苗族自治县	500241	Xiushan Tujiazu Miaozu Zizhixian	XUS
+2477	重庆市	酉阳土家族苗族自治县	500242	Youyang Tujiazu Miaozu Zizhixian	YUY
+2478	重庆市	彭水苗族土家族自治县	500243	Pengshui Miaozu Tujiazu Zizhixian	PSU
+2479	重庆市	市	500300	Shi	
+2480	重庆市	江津市	500381	Jiangjin Shi	JJY
+2481	重庆市	合川市	500382	Hechuan Shi	HEC
+2482	重庆市	永川市	500383	Yongchuan Shi	YCP
+2483	重庆市	南川市	500384	Nanchuan Shi	NCU
+2484	四川省	四川省	510000	Sichuan Sheng	SC
+2485	四川省	成都市	510100	Chengdu Shi	CTU
+2486	四川省	市辖区	510101	Shixiaqu	
+2487	四川省	锦江区	510104	Jinjiang Qu	JJQ
+2488	四川省	青羊区	510105	Qingyang Qu	QYQ
+2489	四川省	金牛区	510106	Jinniu Qu	JNU
+2490	四川省	武侯区	510107	Wuhou Qu	WHQ
+2491	四川省	成华区	510108	Chenghua Qu	CHQ
+2492	四川省	龙泉驿区	510112	Longquanyi Qu	LQY
+2493	四川省	青白江区	510113	Qingbaijiang Qu	QBJ
+2494	四川省	金堂县	510121	Jintang Xian	JNT
+2495	四川省	双流县	510122	Shuangliu Xian	SLU
+2496	四川省	温江县	510123	Wenjiang Xian	WNJ
+2497	四川省	郫县	510124	Pi Xian	PIX
+2498	四川省	新都县	510125	Xindu Xian	XDU
+2499	四川省	大邑县	510129	Dayi Xian	DYI
+2500	四川省	蒲江县	510131	Pujiang Xian	PJX
+2501	四川省	新津县	510132	Xinjin Xian	XJC
+2502	四川省	都江堰市	510181	Dujiangyan Shi	DJY
+2503	四川省	彭州市	510182	Pengzhou Shi	PZS
+2504	四川省	邛崃市	510183	Qionglai Shi	QLA
+2505	四川省	崇州市	510184	Chongzhou Shi	CZO
+2506	四川省	自贡市	510300	Zigong Shi	ZGS
+2507	四川省	市辖区	510301	Shixiaqu	
+2508	四川省	自流井区	510302	Ziliujing Qu	ZLJ
+2509	四川省	恭井区	510303	Gongjing Qu	GJQ
+2510	四川省	大安区	510304	Da,an Qu	DAQ
+2511	四川省	沿滩区	510311	Yantan Qu	YTN
+2512	四川省	荣县	510321	Rong Xian	RGX
+2513	四川省	富顺县	510322	Fushun Xian	FSH
+2514	四川省	攀枝花市	510400	Panzhihua Shi	PZH
+2515	四川省	市辖区	510401	Shixiaqu	
+2516	四川省	东区	510402	Dong Qu	DQP
+2517	四川省	西区	510403	Xi Qu	XIQ
+2518	四川省	仁和区	510411	Renhe Qu	RHQ
+2519	四川省	米易县	510421	Miyi Xian	MIY
+2520	四川省	盐边县	510422	Yanbian Xian	YBN
+2521	四川省	泸州市	510500	Luzhou Shi	LUZ
+2522	四川省	市辖区	510501	Shixiaqu	
+2523	四川省	江阳区	510502	Jiangyang Qu	JYB
+2524	四川省	纳溪区	510503	Naxi Qu	NXI
+2525	四川省	龙马潭区	510504	Longmatan Qu	LMT
+2526	四川省	泸县	510521	Lu Xian	LUX
+2527	四川省	合江县	510522	Hejiang Xian	HEJ
+2528	四川省	叙永县	510524	Xuyong Xian	XYO
+2529	四川省	古蔺县	510525	Gulin Xian	GUL
+2530	四川省	德阳市	510600	Deyang Shi	DEY
+2531	四川省	市辖区	510601	Shixiaqu	
+2532	四川省	旌阳区	510603	Jingyang Qu	JYF
+2533	四川省	中江县	510623	Zhongjiang Xian	ZGJ
+2534	四川省	罗江县	510626	Luojiang Xian	LOJ
+2535	四川省	广汉市	510681	Guanghan Shi	GHN
+2536	四川省	什邡市	510682	Shifang Shi	SFS
+2537	四川省	绵竹市	510683	Jinzhou Shi	MZU
+2538	四川省	绵阳市	510700	Mianyang Shi	MYG
+2539	四川省	市辖区	510701	Shixiaqu	
+2540	四川省	涪城区	510703	Fucheng Qu	FCM
+2541	四川省	游仙区	510704	Youxian Qu	YXM
+2542	四川省	三台县	510722	Santai Xian	SNT
+2543	四川省	盐亭县	510723	Yanting Xian	YTC
+2544	四川省	安县	510724	An Xian	AXN
+2545	四川省	梓潼县	510725	Zitong Xian	ZTG
+2546	四川省	北川县	510726	Beichuan Xian	BCN
+2547	四川省	平武县	510727	Pingwu Xian	PWU
+2548	四川省	江油市	510781	Jiangyou Shi	JYO
+2549	四川省	广元市	510800	Guangyuan Shi	GYC
+2550	四川省	市辖区	510801	Shixiaqu	
+2551	四川省	市中区	510802	Shizhong Qu	SZG
+2552	四川省	元坝区	510811	Yuanba Qu	YBQ
+2553	四川省	朝天区	510812	Chaotian Qu	CTN
+2554	四川省	旺苍县	510821	Wangcang Xian	WGC
+2555	四川省	青川县	510822	Qingchuan Xian	QCX
+2556	四川省	剑阁县	510823	Jiange Xian	JGE
+2557	四川省	苍溪县	510824	Cangxi Xian	CXC
+2558	四川省	遂宁市	510900	Suining Shi	SNS
+2559	四川省	市辖区	510901	Shixiaqu	
+2560	四川省	市中区	510902	Shizhong Qu	SZB
+2561	四川省	蓬溪县	510921	Pengxi Xian	PXI
+2562	四川省	射洪县	510922	Shehong Xian	SHE
+2563	四川省	大英县	510923	Daying Xian	DAY
+2564	四川省	内江市	511000	Neijiang Shi	NJS
+2565	四川省	市辖区	511001	Shixiaqu	
+2566	四川省	市中区	511002	Shizhong Qu	SZM
+2567	四川省	东兴区	511011	Dongxing Qu	DXQ
+2568	四川省	威远县	511024	Weiyuan Xian	WYU
+2569	四川省	资中县	511025	Zizhong Xian	ZZC
+2570	四川省	隆昌县	511028	Longchang Xian	LCC
+2571	四川省	乐山市	511100	Leshan Shi	LES
+2572	四川省	市辖区	511101	Shixiaqu	
+2573	四川省	市中区	511102	Shizhong Qu	SZP
+2574	四川省	沙湾区	511111	Shawan Qu	SWN
+2575	四川省	五通桥区	511112	Wutongqiao Qu	WTQ
+2576	四川省	金口河区	511113	Jinkouhe Qu	JKH
+2577	四川省	犍为县	511123	Qianwei Xian	QWE
+2578	四川省	井研县	511124	Jingyan Xian	JYA
+2579	四川省	夹江县	511126	Jiajiang Xian	JJC
+2580	四川省	沐川县	511129	Muchuan Xian	MCH
+2581	四川省	峨边彝族自治县	511132	Ebian Yizu Zizhixian	EBN
+2582	四川省	马边彝族自治县	511133	Mabian Yizu Zizhixian	MBN
+2583	四川省	峨眉山市	511181	Emeishan Shi	EMS
+2584	四川省	南充市	511300	Nanchong Shi	NCO
+2585	四川省	市辖区	511301	Shixiaqu	
+2586	四川省	顺庆区	511302	Shunqing Xian	SQG
+2587	四川省	高坪区	511303	Gaoping Qu	GPQ
+2588	四川省	嘉陵区	511304	Jialing Qu	JLG
+2589	四川省	南部县	511321	Nanbu Xian	NBU
+2590	四川省	营山县	511322	Yingshan Xian	YGS
+2591	四川省	蓬安县	511323	Peng,an Xian	PGA
+2592	四川省	仪陇县	511324	Yilong Xian	YLC
+2593	四川省	西充县	511325	Xichong Xian	XCO
+2594	四川省	阆中市	511381	Langzhong Shi	LZJ
+2595	四川省	宜宾市	511500	Yibin Shi	YBS
+2596	四川省	市辖区	511501	Shixiaqu	
+2597	四川省	翠屏区	511502	Cuiping Qu	CPQ
+2598	四川省	宜宾县	511521	Yibin Xian	YBX
+2599	四川省	南溪县	511522	Nanxi Xian	NNX
+2600	四川省	江安县	511523	Jiang,an Xian	JAC
+2601	四川省	长宁县	511524	Changning Xian	CNX
+2602	四川省	高县	511525	Gao Xian	GAO
+2603	四川省	珙县	511526	Gong Xian	GOG
+2604	四川省	筠连县	511527	Junlian Xian	JNL
+2605	四川省	兴文县	511528	Xingwen Xian	XWC
+2606	四川省	屏山县	511529	Pingshan Xian	PSC
+2607	四川省	广安市	511600	Guang,an Shi	GAC
+2608	四川省	市辖区	511601	Shixiaqu	
+2609	四川省	广安区	511602	Guang,an Qu	GAQ
+2610	四川省	岳池县	511621	Yuechi Xian	YCC
+2611	四川省	武胜县	511622	Wusheng Xian	WSG
+2612	四川省	邻水县	511623	Linshui Xian	LSH
+2613	四川省	华蓥市	511681	Huaying Shi	HYC
+2614	四川省	达川地区	513000	Dachuan Diqu	DCC
+2615	四川省	达川市	513001	Dachuan Shi	DCS
+2616	四川省	万源市	513002	Wanyuan Shi	WYS
+2617	四川省	达县	513021	Da Xian	DAX
+2618	四川省	宣汉县	513022	Xuanhan Xian	XHC
+2619	四川省	开江县	513023	Kaijiang Xian	KJG
+2620	四川省	大竹县	513029	Dazhu Xian	DZU
+2621	四川省	渠县	513030	Qu Xian	QXC
+2622	四川省	雅安地区	513100	Ya,an Diqu	YAD
+2623	四川省	雅安市	513101	Ya,an Shi	YAS
+2624	四川省	名山县	513122	Mingshan Xian	MGS
+2625	四川省	荥经县	513123	Yingjing Xian	YJC
+2626	四川省	汉源县	513124	Hanyuan Xian	HAY
+2627	四川省	石棉县	513125	Shimian Xian	SIM
+2628	四川省	天全县	513126	Tianquan Xian	TQU
+2629	四川省	芦山县	513127	Lushan Xian	LSC
+2630	四川省	宝兴县	513128	Baoxing Xian	BXC
+2631	四川省	阿坝藏族羌族自治州	513200	Aba(Ngawa) Zangzu Qiangzu Zizhizhou	ABA
+2632	四川省	汶川县	513221	Wenchuan Xian	WNC
+2633	四川省	理县	513222	Li Xian	LXC
+2634	四川省	茂县	513223	Mao Xian	MAO
+2635	四川省	松潘县	513224	Songpan Xian	SOP
+2636	四川省	九寨沟县	513225	Jiuzhaigou Xian	JZG
+2637	四川省	金川县	513226	Jinchuan Xian	JCH
+2638	四川省	小金县	513227	Xiaojin Xian	XJX
+2639	四川省	黑水县	513228	Heishui Xian	HIS
+2640	四川省	马尔康县	513229	Barkam Xian	BAK
+2641	四川省	壤塘县	513230	Zamtang Xian	ZAM
+2642	四川省	阿坝县	513231	Aba(Ngawa) Xian	ABX
+2643	四川省	若尔盖县	513232	ZoigeXian	ZOI
+2644	四川省	红原县	513233	Hongyuan Xian	HOY
+2645	四川省	甘孜藏族自治州	513300	Garze Zangzu Zizhizhou	GAZ
+2646	四川省	康定县	513321	Kangding(Dardo) Xian	KDX
+2647	四川省	泸定县	513322	Luding(Jagsamka) Xian	LUD
+2648	四川省	丹巴县	513323	Danba(Rongzhag) Xian	DBA
+2649	四川省	九龙县	513324	Jiulong(Gyaisi) Xian	JLC
+2650	四川省	雅江县	513325	Yajiang(Nyagquka) Xian	YAJ
+2651	四川省	道孚县	513326	Dawu Xian	DAW
+2652	四川省	炉霍县	513327	Luhuo(Zhaggo) Xian	LUH
+2653	四川省	甘孜县	513328	Garze Xian	GRZ
+2654	四川省	新龙县	513329	Xinlong(Nyagrong) Xian	XLG
+2655	四川省	德格县	513330	DegeXian	DEG
+2656	四川省	白玉县	513331	Baiyu Xian	BYC
+2657	四川省	石渠县	513332	Serxv Xian	SER
+2658	四川省	色达县	513333	Sertar Xian	STX
+2659	四川省	理塘县	513334	Litang Xian	LIT
+2660	四川省	巴塘县	513335	Batang Xian	BTC
+2661	四川省	乡城县	513336	Xiangcheng(Qagcheng) Xian	XCC
+2662	四川省	稻城县	513337	Daocheng(Dabba) Xian	DCX
+2663	四川省	得荣县	513338	Derong Xian	DER
+2664	四川省	凉山彝族自治州	513400	Liangshan Yizu Zizhizhou	LSY
+2665	四川省	西昌市	513401	Xichang Shi	XCA
+2666	四川省	木里藏族自治县	513422	Muli Zangzu Zizhixian	MLI
+2667	四川省	盐源县	513423	Yanyuan Xian	YYU
+2668	四川省	德昌县	513424	Dechang Xian	DEC
+2669	四川省	会理县	513425	Huili Xian	HLI
+2670	四川省	会东县	513426	Huidong Xian	HDG
+2671	四川省	宁南县	513427	Ningnan Xian	NIN
+2672	四川省	普格县	513428	Puge Xian	PGE
+2673	四川省	布拖县	513429	Butuo Xian	BTO
+2674	四川省	金阳县	513430	Jinyang Xian	JYW
+2675	四川省	昭觉县	513431	Zhaojue Xian	ZJE
+2676	四川省	喜德县	513432	Xide Xian	XDE
+2677	四川省	冕宁县	513433	Mianning Xian	MNG
+2678	四川省	越西县	513434	Yuexi Xian	YXC
+2679	四川省	甘洛县	513435	Ganluo Xian	GLO
+2680	四川省	美姑县	513436	Meigu Xian	MEG
+2681	四川省	雷波县	513437	Leibo Xian	LBX
+2682	四川省	巴中地区	513700	Bazhong Diqu	BZD
+2683	四川省	巴中市	513701	Bazhong Shi	BZS
+2684	四川省	通江县	513721	Tongjiang Xian	TGJ
+2685	四川省	南江县	513722	Nanjiang Xian	NJC
+2686	四川省	平昌县	513723	Pingchang Xian	PCG
+2687	四川省	眉山地区	513800	Meishan Diqu	MSD
+2688	四川省	眉山县	513821	Meishan Xian	MSX
+2689	四川省	仁寿县	513822	Renshou Xian	RSO
+2690	四川省	彭山县	513823	Pengshan Xian	PGS
+2691	四川省	洪雅县	513824	Hongya Xian	HGY
+2692	四川省	丹棱县	513825	Danling Xian	DLG
+2693	四川省	青神县	513826	Qingshen Xian	QSC
+2694	四川省	资阳地区	513900	Ziyang Diqu	ZYA
+2695	四川省	资阳市	513901	Ziyang Shi	ZYS
+2696	四川省	简阳市	513902	Jianyang Shi	JYC
+2697	四川省	安岳县	513921	Anyue Xian	AYU
+2698	四川省	乐至县	513922	Lezhi Xian	LZC
+2699	贵州省	贵州省	520000	Guizhou Sheng	GZ
+2700	贵州省	贵阳市	520100	Guiyang Shi	KWE
+2701	贵州省	市辖区	520101	Shixiaqu	
+2702	贵州省	南明区	520102	Nanming Qu	NMQ
+2703	贵州省	云岩区	520103	Yunyan Qu	YYQ
+2704	贵州省	花溪区	520111	Huaxi Qu	HXI
+2705	贵州省	乌当区	520112	Wudang Qu	WDQ
+2706	贵州省	白云区	520113	Baiyun Qu	BYU
+2707	贵州省	开阳县	520121	Kaiyang Xian	KYG
+2708	贵州省	息烽县	520122	Xifeng Xian	XFX
+2709	贵州省	修文县	520123	Xiuwen Xian	XWX
+2710	贵州省	清镇市	520181	Qingzhen Shi	QZN
+2711	贵州省	六盘水市	520200	Liupanshui Shi	LPS
+2712	贵州省	钟山区	520201	Zhongshan Qu	ZSQ
+2713	贵州省	盘县特区	520202	Panxian Tequ	PXT
+2714	贵州省	六枝特区	520203	Liuzhi Tequ	LZT
+2715	贵州省	水城县	520221	Shuicheng Xian	SUC
+2716	贵州省	遵义市	520300	Zunyi Shi	ZNY
+2717	贵州省	市辖区	520301	Shixiaqu	
+2718	贵州省	红花岗区	520302	Honghuagang Qu	HHG
+2719	贵州省	遵义县	520321	Zunyi Xian	ZYI
+2720	贵州省	桐梓县	520322	Tongzi Xian	TZI
+2721	贵州省	绥阳县	520323	Suiyang Xian	SUY
+2722	贵州省	正阳县	520324	Zhengyang Xian	ZAX
+2723	贵州省	道真仡佬族苗族自治县	520325	Daozhen Gelaozu Miaozu Zizhixian	DZN
+2724	贵州省	务川仡佬族苗族自治县	520326	Wuchuan Gelaozu Miaozu Zizhixian	WCU
+2725	贵州省	凤冈县	520327	Fenggang Xian	FGG
+2726	贵州省	湄潭县	520328	Meitan Xian	MTN
+2727	贵州省	余庆县	520329	Yuqing Xian	YUQ
+2728	贵州省	习水县	520330	Xishui Xian	XSI
+2729	贵州省	赤水市	520381	Chishui Shi	CSS
+2730	贵州省	仁怀市	520382	Renhuai Shi	RHS
+2731	贵州省	铜仁地区	522200	Tongren Diqu	TRD
+2732	贵州省	铜仁市	522201	Tongren Shi	TRS
+2733	贵州省	江口县	522222	Jiangkou Xian	JGK
+2734	贵州省	玉屏侗族自治县	522223	Yuping Dongzu Zizhixian	YPG
+2735	贵州省	石阡县	522224	Shiqian Xian	SQI
+2736	贵州省	思南县	522225	Sinan Xian	SNA
+2737	贵州省	印江土家族苗族自治县	522226	Yinjiang Tujiazu Miaozu Zizhixian	YJY
+2738	贵州省	德江县	522227	Dejiang Xian	DEJ
+2739	贵州省	沿河土家族自治县	522228	Yanhe Tujiazu Zizhixian	YHE
+2740	贵州省	松桃苗族自治县	522229	Songtao Miaozu Zizhixian	STM
+2741	贵州省	万山特区	522230	Wanshan Tequ	WAS
+2742	贵州省	黔西南布依族苗族自治州	522300	Qianxinan Buyeizu Zizhizhou	QXZ
+2743	贵州省	兴义市	522301	Xingyi Shi	XYI
+2744	贵州省	兴仁县	522322	Xingren Xian	XRN
+2745	贵州省	普安县	522323	Pu,an Xian	PUA
+2746	贵州省	晴隆县	522324	Qinglong Xian	QLG
+2747	贵州省	贞丰县	522325	Zhenfeng Xian	ZFG
+2748	贵州省	望谟县	522326	Wangmo Xian	WMO
+2749	贵州省	册亨县	522327	Ceheng Xian	CEH
+2750	贵州省	安龙县	522328	Anlong Xian	ALG
+2751	贵州省	毕节地区	522400	Bijie Diqu	BJD
+2752	贵州省	毕节市	522401	Bijie Shi	BJE
+2753	贵州省	大方县	522422	Dafang Xian	DAF
+2754	贵州省	黔西县	522423	Qianxi Xian	QNX
+2755	贵州省	金沙县	522424	Jinsha Xian	JSX
+2756	贵州省	织金县	522425	Zhijin Xian	ZJN
+2757	贵州省	纳雍县	522426	Nayong Xian	NYG
+2758	贵州省	威宁彝族回族苗族自治县	522427	Weining Yizu Huizu Miaozu Zizhixian	WNG
+2759	贵州省	赫章县	522428	Hezhang Xian	HZA
+2760	贵州省	安顺地区	522500	Anshun Diqu 	ASD
+2761	贵州省	安顺市	522501	Anshun Xian	ASS
+2762	贵州省	平坝县	522526	Pingba Xian	PBA
+2763	贵州省	普定县	522527	Puding Xian	PUD
+2764	贵州省	关岭布依族苗族自治县	522528	Guanling Buyeizu Miaozu Zizhixian	GNL
+2765	贵州省	镇宁布依族苗族自治县	522529	Zhenning Buyeizu Miaozu Zizhixian	ZNN
+2766	贵州省	紫云苗族布依族自治县	522530	Ziyun Miaozu Buyeizu Zizhixian	ZYF
+2767	贵州省	黔东南苗族侗族自治州	522600	Qiandongnan Miaozu Dongzu Zizhizhou	QND
+2768	贵州省	凯里市	522601	Kaili Shi	KLS
+2769	贵州省	黄平县	522622	Huangping Xian	HPN
+2770	贵州省	施秉县	522623	Shibing Xian	SBG
+2771	贵州省	三穗县	522624	Sansui Xian	SAS
+2772	贵州省	镇远县	522625	Zhenyuan Xian	ZYX
+2773	贵州省	岑巩县	522626	Cengong Xian	CGX
+2774	贵州省	天柱县	522627	Tianzhu Xian	TZU
+2775	贵州省	锦屏县	522628	Jinping Xian	JPX
+2776	贵州省	剑河县	522629	Jianhe Xian	JHE
+2777	贵州省	台江县	522630	Taijiang Xian	TJX
+2778	贵州省	黎平县	522631	Liping Xian	LIP
+2779	贵州省	榕江县	522632	Rongjiang Xian	RJG
+2780	贵州省	从江县	522633	Congjiang Xian	COJ
+2781	贵州省	雷山县	522634	Leishan Xian	LSA
+2782	贵州省	麻江县	522635	Majiang Xian	MAJ
+2783	贵州省	丹寨县	522636	Danzhai Xian	DZH
+2784	贵州省	黔南布依族苗族自治州	522700	Qiannan Buyeizu Miaozu Zizhizhou	QNZ
+2785	贵州省	都匀市	522701	Duyun Shi	DUY
+2786	贵州省	福泉市	522702	Fuquan Shi	FQN
+2787	贵州省	荔波县	522722	Libo Xian	LBO
+2788	贵州省	贵定县	522723	Guiding Xian	GDG
+2789	贵州省	瓮安县	522725	Weng,an Xian	WGA
+2790	贵州省	独山县	522726	Dushan Xian	DSX
+2791	贵州省	平塘县	522727	Pingtang Xian	PTG
+2792	贵州省	罗甸县	522728	Luodian Xian	LOD
+2793	贵州省	长顺县	522729	Changshun Xian	CSU
+2794	贵州省	龙里县	522730	Longli Xian	LLI
+2795	贵州省	惠水县	522731	Huishui Xian	HUS
+2796	贵州省	三都水族自治县	522732	Sandu Suizu Zizhixian	SDU
+2797	云南省	云南省	530000	Yunnan Sheng	YN
+2798	云南省	昆明市	530100	Kunming Shi	KMG
+2799	云南省	市辖区	530101	Shixiaqu	
+2800	云南省	五华区	530102	Wuhua Qu	WHA
+2801	云南省	盘龙区	530103	Panlong Qu	PLQ
+2802	云南省	官渡区	530111	Guandu Qu	GDU
+2803	云南省	西山区	530112	Xishan Qu	XSN
+2804	云南省	东川区	530113	Dongchuan Qu	DCU
+2805	云南省	呈贡县	530121	Chenggong Xian	CGD
+2806	云南省	晋宁县	530122	Jinning Xian	JND
+2807	云南省	富民县	530124	Fumin Xian	FMN
+2808	云南省	宜良县	530125	Yiliang Xian	YIL
+2809	云南省	石林彝族自治县	530126	Shilin Yizu Zizhixian	SLY
+2810	云南省	嵩明县	530127	Songming Xian	SMI
+2811	云南省	禄劝彝族苗族自治县	530128	Luchuan Yizu Miaozu Zizhixian	LUC
+2812	云南省	寻甸回族彝族自治县	530129	Xundian Huizu Yizu Zizhixian	XDN
+2813	云南省	安宁市	530181	Anning Shi	ANG
+2814	云南省	曲靖市	530300	Qujing Shi	QJS
+2815	云南省	市辖区	530301	Shixiaqu	
+2816	云南省	麒麟区	530302	Qilin Xian	QLQ
+2817	云南省	马龙县	530321	Malong Xian	MLO
+2818	云南省	陆良县	530322	Luliang Xian	LLX
+2819	云南省	师宗县	530323	Shizong Xian	SZD
+2820	云南省	罗平县	530324	Luoping Xian	LPX
+2821	云南省	富源县	530325	Fuyuan Xian	FYD
+2822	云南省	会泽县	530326	Huize Xian	HUZ
+2823	云南省	沾益县	530328	Zhanyi Xian	ZYD
+2824	云南省	宣威市	530381	Xuanwei Shi	XWS
+2825	云南省	玉溪市	530400	Yuxi Shi	YXS
+2826	云南省	市辖区	530401	Shixiaqu	
+2827	云南省	红塔区	530402	Hongta Qu	HTA
+2828	云南省	江川县	530421	Jiangchuan Xian	JGC
+2829	云南省	澄江县	530422	Chengjiang Xian	CGJ
+2830	云南省	通海县	530423	Tonghai Xian	THI
+2831	云南省	华宁县	530424	Huaning Xian	HND
+2832	云南省	易门县	530425	Yimen Xian	YMD
+2833	云南省	峨山彝族自治县	530426	Eshan Yizu Zizhixian	ESN
+2834	云南省	新平彝族傣族自治县	530427	Xinping Yizu Daizu Zizhixian	XNP
+2835	云南省	元江哈尼族彝族傣族自治县	530428	Yuanjiang Hanizu Yizu Daizu Zizhixian	YJA
+2836	云南省	昭通地区	532100	Zhaotong Diqu	ZTD
+2837	云南省	昭通市	532101	Zhaotong Shi	ZTS
+2838	云南省	鲁甸县	532122	Ludian Xian	LDX
+2839	云南省	巧家县	532123	Qiaojia Xian	QJA
+2840	云南省	盐津县	532124	Yanjin Xian	YJD
+2841	云南省	大关县	532125	Daguan Xian	DGN
+2842	云南省	永善县	532126	Yongshan Xian	YSB
+2843	云南省	绥江县	532127	Suijiang Xian	SUJ
+2844	云南省	镇雄县	532128	Zhenxiong Xian	ZEX
+2845	云南省	彝良县	532129	Yiliang Xian	YLG
+2846	云南省	威信县	532130	Weixin Xian	WIX
+2847	云南省	水富县	532131	Shuifu Xian 	SFD
+2848	云南省	楚雄彝族自治州	532300	Chuxiong Yizu Zizhizhou	CXD
+2849	云南省	楚雄市	532301	Chuxiong Shi	CXS
+2850	云南省	双柏县	532322	Shuangbai Xian	SBA
+2851	云南省	牟定县	532323	Mouding Xian	MDI
+2852	云南省	南华县	532324	Nanhua Xian	NHA
+2853	云南省	姚安县	532325	Yao,an Xian	YOA
+2854	云南省	大姚县	532326	Dayao Xian	DYO
+2855	云南省	永仁县	532327	Yongren Xian	YRN
+2856	云南省	元谋县	532328	Yuanmou Xian	YMO
+2857	云南省	武定县	532329	Wuding Xian	WDX
+2858	云南省	禄丰县	532331	Lufeng Xian	LFX
+2859	云南省	红河哈尼族彝族自治州	532500	Honghe Hanizu Yizu Zizhizhou	HHZ
+2860	云南省	个旧市	532501	Gejiu Shi	GJU
+2861	云南省	开远市	532502	Kaiyuan Shi	KYD
+2862	云南省	蒙自县	532522	Mengzi Xian	MZI
+2863	云南省	屏边苗族自治县	532523	Pingbian Miaozu Zizhixian	PBN
+2864	云南省	建水县	532524	Jianshui Xian	JSD
+2865	云南省	石屏县	532525	Shiping Xian	SPG
+2866	云南省	弥勒县	532526	Mile Xian	MIL
+2867	云南省	泸西县	532527	Luxi Xian	LXD
+2868	云南省	元阳县	532528	Yuanyang Xian	YYD
+2869	云南省	红河县	532529	Honghe Xian	HHX
+2870	云南省	金平苗族瑶族傣族自治县	532530	Jinping Miaozu Yaozu Daizu Zizhixian	JNP
+2871	云南省	绿春县	532531	Lvchun Xian	LCX
+2872	云南省	河口瑶族自治县	532532	Hekou Yaozu Zizhixian	HKM
+2873	云南省	文山壮族苗族自治州	532600	Wenshan Zhuangzu Miaozu Zizhizhou	WSZ
+2874	云南省	文山县	532621	Wenshan Xian	WES
+2875	云南省	砚山县	532622	Yanshan Xian	YSD
+2876	云南省	西畴县	532623	Xichou Xian	XIC
+2877	云南省	麻栗坡县	532624	Malipo Xian	MLP
+2878	云南省	马关县	532625	Maguan Xian	MGN
+2879	云南省	丘北县	532626	Qiubei Xian	QBE
+2880	云南省	广南县	532627	Guangnan Xian	GGN
+2881	云南省	富宁县	532628	Funing Xian	FND
+2882	云南省	思茅地区	532700	Simao Diqu 	SMD
+2883	云南省	思茅市	532701	Simao Shi	SYM
+2884	云南省	普洱哈尼族彝族自治县	532722	Pu,er Hanizu Yizu Zizhixian	PER
+2885	云南省	墨江哈尼族自治县	532723	Mojiang Hanizu Zizhixian	MJG
+2886	云南省	景东彝族自治县	532724	Jingdong Yizu Zizhixian	JDD
+2887	云南省	景谷傣族彝族自治县	532725	Jinggu Daizu Yizu Zizhixian	JGD
+2888	云南省	镇沅彝族哈尼族拉祜族自治县	532726	Zhenyuan Yizu Hanizu Lahuzu Zizhixian	ZYY
+2889	云南省	江城哈尼族彝族自治县	532727	Jiangcheng Hanizu Yizu Zizhixian	JCE
+2890	云南省	孟连傣族拉祜族佤族自治县	532728	Menglian Daizu Lahuzu Vazu Zizixian	MLN
+2891	云南省	澜沧拉祜族自治县	532729	Lancang Lahuzu Zizhixian	LCA
+2892	云南省	西盟佤族自治县	532730	Ximeng Vazu Zizhixian	XMG
+2893	云南省	西双版纳傣族自治州	532800	Xishuangbanna Daizu Zizhizhou	XSB
+2894	云南省	景洪市	532801	Jinghong Shi	JHG
+2895	云南省	勐海县	532822	Menghai Xian	MHI
+2896	云南省	勐腊县	532823	Mengla Xian	MLA
+2897	云南省	大理白族自治州	532900	Dali Baizu Zizhizhou	DLZ
+2898	云南省	大理市	532901	Dali Shi	DLS
+2899	云南省	漾濞彝族自治县	532922	Yangbi Yizu Zizhixian	YGB
+2900	云南省	祥云县	532923	Xiangyun Xian	XYD
+2901	云南省	宾川县	532924	Binchuan Xian	BCD
+2902	云南省	弥渡县	532925	Midu Xian	MDU
+2903	云南省	南涧彝族自治县	532926	Nanjian Yizu Zizhixian	NNJ
+2904	云南省	巍山彝族回族自治县	532927	Weishan Yizu Huizu Zizhixian	WSY
+2905	云南省	永平县	532928	Yongping Xian	YPX
+2906	云南省	云龙县	532929	Yunlong Xian	YLO
+2907	云南省	洱源县	532930	Eryuan Xian	EYN
+2908	云南省	剑川县	532931	Jianchuan Xian	JIC
+2909	云南省	鹤庆县	532932	Heqing Xian	HQG
+2910	云南省	保山地区	533000	Baoshan Diqu	BSD
+2911	云南省	保山市	533001	Baoshan Shi	BOS
+2912	云南省	施甸县	533022	Shidian Xian	SDD
+2913	云南省	腾冲县	533023	Tengchong Xian	TCO
+2914	云南省	龙陵县	533024	Longling Xian	LGL
+2915	云南省	昌宁县	533025	Changning Xian	CND
+2916	云南省	德宏傣族景颇族自治州	533100	Dehong Daizu Jingpozu Zizhizhou	DHG
+2917	云南省	畹町市	533101	Wanding Shi	WAN
+2918	云南省	瑞丽市	533102	Ruili Shi	RUI
+2919	云南省	潞西市	533103	Luxi Shi	LXS
+2920	云南省	梁河县	533122	Lianghe Xian	LHD
+2921	云南省	盈江县	533123	Yingjiang Xian	YGJ
+2922	云南省	陇川县	533124	Longchuan Xian	LCN
+2923	云南省	丽江地区	533200	Lijiang Diqu	LJD
+2924	云南省	丽江纳西族自治县	533221	Lijing Naxizu Zizhixian	LIJ
+2925	云南省	永胜县	533222	Yongsheng Xian	YOS
+2926	云南省	华坪县	533223	Huaping Xian	HAP
+2927	云南省	宁蒗彝族自治县	533224	Ninglang Yizu Zizhixian	NLG
+2928	云南省	怒江傈僳族自治州	533300	Nujiang Lisuzu Zizhizhou	NUJ
+2929	云南省	泸水县	533321	Lushui Xian	LSX
+2930	云南省	福贡县	533323	Fugong Xian	FGO
+2931	云南省	贡山独龙族怒族自治县	533324	Gongshan Dulongzu Nuzu Zizhixian	GSN
+2932	云南省	兰坪白族普米族自治县	533325	Lanping Baizu Pumizu Zizhixian	LPG
+2933	云南省	迪庆藏族自治州	533400	Deqen Zangzu Zizhizhou	DEZ
+2934	云南省	中甸县	533421	Zhongdian Xian	ZDX
+2935	云南省	德钦县	533422	Deqen Xian	DQN
+2936	云南省	维西傈僳族自治县	533423	Weixi Lisuzu Zizhixian	WXI
+2937	云南省	临沧地区	533500	Lincang Diqu	LCD
+2938	云南省	临沧县	533521	Lincang Xian	LCI
+2939	云南省	凤庆县	533522	Fengqing Xian	FQX
+2940	云南省	云县	533523	Yun Xian	YXP
+2941	云南省	永德县	533524	Yongde Xian	YDX
+2942	云南省	镇康县	533525	Zhenkang Xian	ZKG
+2943	云南省	双江拉祜族佤族布朗族傣族自治县	533526	Shuangjiang Lahuzu Vazu Bulangzu Daizu Zizhixian	SGJ
+2944	云南省	耿马傣族佤族自治县	533527	Gengma Daizu Vazu Zizhixian	GMA
+2945	云南省	沧源佤族自治县	533528	Cangyuan Vazu Zizhixian	CYN
+2946	西藏自治区	西藏自治区	540000	Xizang Zizhiqu	XZ
+2947	西藏自治区	拉萨市	540100	Lhasa Shi	LXA
+2948	西藏自治区	市辖区	540101	Shixiaqu	
+2949	西藏自治区	城关区	540102	Chengguang Qu	CGN
+2950	西藏自治区	林周县	540121	Lhvnzhub Xian	LZB
+2951	西藏自治区	当雄县	540122	Damxung Xian	DAM
+2952	西藏自治区	尼木县	540123	Nyemo Xian	NYE
+2953	西藏自治区	曲水县	540124	Qvxv Xian	QUX
+2954	西藏自治区	堆龙德庆县	540125	Doilungdeqen Xian	DOI
+2955	西藏自治区	达孜县	540126	Dagze Xian	DAG
+2956	西藏自治区	墨竹工卡县	540127	Maizhokunggar Xian	MAI
+2957	西藏自治区	昌都地区	542100	Qamdo Diqu	QAD
+2958	西藏自治区	昌都县	542121	Qamdo Xian	QAX
+2959	西藏自治区	江达县	542122	Jomda Xian	JOM
+2960	西藏自治区	贡觉县	542123	Konjo Xian	KON
+2961	西藏自治区	类乌齐县	542124	Riwoqe Xian	RIW
+2962	西藏自治区	丁青县	542125	Dengqen Xian	DEN
+2963	西藏自治区	察雅县	542126	Chagyab Xian	CHA
+2964	西藏自治区	八宿县	542127	Baxoi Xian	BAX
+2965	西藏自治区	左贡县	542128	Zogang Xian	ZOX
+2966	西藏自治区	芒康县	542129	Mangkam Xian	MAN
+2967	西藏自治区	洛隆县	542132	Lhorong Xian	LHO
+2968	西藏自治区	边坝县	542133	Banbar Xian	BAN
+2969	西藏自治区	盐井县	542134	Yanjing(Cakal,ko) Xian	YJZ
+2970	西藏自治区	碧土县	542135	Pvtog Xian	PUG
+2971	西藏自治区	妥坝县	542136	Toba Xian	TOB
+2972	西藏自治区	生达县	542137	Sinda Xian	SIN
+2973	西藏自治区	山南地区	542200	Shannan Diqu	SND
+2974	西藏自治区	乃东县	542221	Nedong Xian	NED
+2975	西藏自治区	扎囊县	542222	Chanang(Chatang) Xian	CNG
+2976	西藏自治区	贡嘎县	542223	Gonggar Xian	GON
+2977	西藏自治区	桑日县	542224	Sangri Xian	SRI
+2978	西藏自治区	琼结县	542225	Qonggyai Xian	QON
+2979	西藏自治区	曲松县	542226	Qusum Xian	QUS
+2980	西藏自治区	措美县	542227	Comai Xian	COM
+2981	西藏自治区	洛扎县	542228	Lhozhag Xian	LHX
+2982	西藏自治区	加查县	542229	Gyaca Xian	GYA
+2983	西藏自治区	隆子县	542231	Lhvnze Xian	LHZ
+2984	西藏自治区	错那县	542232	Cona Xian	CON
+2985	西藏自治区	浪卡子县	542233	Nagarze Xian	NAX
+2986	西藏自治区	日喀则地区	542300	Xigaze Diqu	XID
+2987	西藏自治区	日喀则市	542301	Xigaze Shi	XIG
+2988	西藏自治区	南木林县	542322	Namling Xian	NAM
+2989	西藏自治区	江孜县	542323	Gyangze Xian	GYZ
+2990	西藏自治区	定日县	542324	Tingri Xian	TIN
+2991	西藏自治区	萨迦县	542325	Sa,gya Xian	SGX
+2992	西藏自治区	拉孜县	542326	Lhaze Xian	LAZ
+2993	西藏自治区	昂仁县	542327	Ngamring Xian	NGA
+2994	西藏自治区	谢通门县	542328	Xaitongmoin Xian	XTM
+2995	西藏自治区	白朗县	542329	Bainang Xian	BAI
+2996	西藏自治区	仁布县	542330	Rinbung Xian	RIN
+2997	西藏自治区	康马县	542331	Kangmar Xian	KAN
+2998	西藏自治区	定结县	542332	Dinggye Xian	DIN
+2999	西藏自治区	仲巴县	542333	Zhongba Xian	ZHB
+3000	西藏自治区	亚东县	542334	Yadong(Chomo) Xian	YDZ
+3001	西藏自治区	吉隆县	542335	Gyirong Xian	GIR
+3002	西藏自治区	聂拉木县	542336	Nyalam Xian	NYA
+3003	西藏自治区	萨嘎县	542337	Saga Xian	SAG
+3004	西藏自治区	岗巴县	542338	Gamba Xian	GAM
+3005	西藏自治区	那曲地区	542400	Nagqu Diqu	NAD
+3006	西藏自治区	那曲县	542421	Nagqu Xian	NAG
+3007	西藏自治区	嘉黎县	542422	Lhari Xian	LHR
+3008	西藏自治区	比如县	542423	Biru Xian	BRU
+3009	西藏自治区	聂荣县	542424	Nyainrong Xian	NRO
+3010	西藏自治区	安多县	542425	Amdo Xian	AMD
+3011	西藏自治区	申扎县	542426	Xainza Xian	XZX
+3012	西藏自治区	索县	542427	Sog Xian	SOG
+3013	西藏自治区	班戈县	542428	Bangoin Xian	BGX
+3014	西藏自治区	巴青县	542429	Baqen Xian	BQE
+3015	西藏自治区	尼玛县	542430	Nyima Xian	NYX
+3016	西藏自治区	阿里地区	542500	Ngari Diqu	NGD
+3017	西藏自治区	普兰县	542521	Burang Xian	BUR
+3018	西藏自治区	札达县	542522	Zanda Xian	ZAN
+3019	西藏自治区	噶尔县	542523	Gar Xian	GAR
+3020	西藏自治区	日土县	542524	Rutog Xian	RUT
+3021	西藏自治区	革吉县	542525	Ge,gyai Xian	GEG
+3022	西藏自治区	改则县	542526	Gerze Xian	GER
+3023	西藏自治区	措勤县	542527	Coqen Xian	COQ
+3024	西藏自治区	隆格尔县	542528	Lunggar Xian	LUN
+3025	西藏自治区	林芝地区	542600	Nyingchi Diqu	NYD
+3026	西藏自治区	林芝县	542621	Nyingchi Xian	NYI
+3027	西藏自治区	工布江达县	542622	Gongbo,gyamda Xian	GOX
+3028	西藏自治区	米林县	542623	Mainling Xian	MAX
+3029	西藏自治区	墨脱县	542624	Metog Xian	MET
+3030	西藏自治区	波密县	542625	Bomi(Bowo) Xian	BMI
+3031	西藏自治区	察隅县	542626	Zayv Xian	ZAY
+3032	西藏自治区	朗县	542627	Nang Xian	NGX
+3033	陕西省	陕西省	610000	Shanxi Sheng 	SN
+3034	陕西省	西安市	610100	Xi,an Shi	SIA
+3035	陕西省	市辖区	610101	Shixiaqu	
+3036	陕西省	新城区	610102	Xincheng Qu	XCK
+3037	陕西省	碑林区	610103	Beilin Qu	BLQ
+3038	陕西省	莲湖区	610104	Lianhu Qu	LHU
+3039	陕西省	灞桥区	610111	Baqiao Qu	BQQ
+3040	陕西省	未央区	610112	Weiyang Qu	
+3041	陕西省	雁塔区	610113	Yanta Qu	YTA
+3042	陕西省	阎良区	610114	Yanliang Qu	YLQ
+3043	陕西省	临潼区	610115	Lintong Qu	LTG
+3044	陕西省	长安县	610121	Chang,an Xian	CAX
+3045	陕西省	蓝田县	610122	Lantian Xian	LNT
+3046	陕西省	周至县	610124	Zhouzhi Xian	ZOZ
+3047	陕西省	户县	610125	Hu Xian	HUX
+3048	陕西省	高陵县	610126	Gaoling Xian	GLS
+3049	陕西省	铜川市	610200	Tongchuan Shi	TCN
+3050	陕西省	市辖区	610201	Shixiaqu	
+3051	陕西省	城区	610202	Chengqu	CQT
+3052	陕西省	郊区	610203	Jiaoqu	JTC
+3053	陕西省	耀县	610221	Yao Xian	YAO
+3054	陕西省	宜君县	610222	Yijun Xian	YJU
+3055	陕西省	宝鸡市	610300	Baoji Shi	BJI
+3056	陕西省	市辖区	610301	Shixiaqu	
+3057	陕西省	渭滨区	610302	Weibin Qu	WBQ
+3058	陕西省	金台区	610303	Jintai Qu	JTQ
+3059	陕西省	宝鸡县	610321	Baoji Xian	BJX
+3060	陕西省	凤翔县	610322	Fengxiang Xian	FXG
+3061	陕西省	岐山县	610323	Qishan Xian	QIS
+3062	陕西省	扶风县	610324	Fufeng Xian	FFG
+3063	陕西省	眉县	610326	Mei Xian	MEI
+3064	陕西省	陇县	610327	Long Xian	LON
+3065	陕西省	千阳县	610328	Qianyang Xian	QNY
+3066	陕西省	麟游县	610329	Linyou Xian	LYP
+3067	陕西省	凤县	610330	Feng Xian	FEG
+3068	陕西省	太白县	610331	Taibai Xian	TBA
+3069	陕西省	咸阳市	610400	Xianyang Shi	XYS
+3070	陕西省	市辖区	610401	Shixiaqu	
+3071	陕西省	秦都区	610402	Qindu Qu	QDU
+3072	陕西省	杨陵区	610403	Yangling Qu	YGL
+3073	陕西省	渭城区	610404	Weicheng Qu	WIC
+3074	陕西省	三原县	610422	Sanyuan Xian	SYN
+3075	陕西省	泾阳县	610423	Jingyang Xian	JGY
+3076	陕西省	乾县	610424	Qian Xian	QIA
+3077	陕西省	礼泉县	610425	Liquan Xian	LIQ
+3078	陕西省	永寿县	610426	Yongshou Xian	YSH
+3079	陕西省	彬县	610427	Bin Xian	BIX
+3080	陕西省	长武县	610428	Changwu Xian	CWU
+3081	陕西省	旬邑县	610429	Xunyi Xian	XNY
+3082	陕西省	淳化县	610430	Chunhua Xian	CHU
+3083	陕西省	武功县	610431	Wugong Xian	WGG
+3084	陕西省	兴平市	610481	Xingping Shi	XPG
+3085	陕西省	渭南市	610500	Weinan Shi	WNA
+3086	陕西省	市辖区	610501	Shixiaqu	
+3087	陕西省	临渭区	610502	Linwei Qu	LWE
+3088	陕西省	华县	610521	Hua Xian	HXN
+3089	陕西省	潼关县	610522	Tongguan Xian	TGN
+3090	陕西省	大荔县	610523	Dali Xian	DAL
+3091	陕西省	合阳县	610524	Heyang Xian	HYK
+3092	陕西省	澄城县	610525	Chengcheng Xian	CCG
+3093	陕西省	蒲城县	610526	Pucheng Xian	PUC
+3094	陕西省	白水县	610527	Baishui Xian	BSU
+3095	陕西省	富平县	610528	Fuping Xian	FPX
+3096	陕西省	韩城市	610581	Hancheng Shi	HCE
+3097	陕西省	华阴市	610582	Huayin Shi	HYI
+3098	陕西省	延安市	610600	Yan,an Shi	YNA
+3099	陕西省	市辖区	610601	Shixiaqu	
+3100	陕西省	宝塔区	610602	Baota Qu	BTA
+3101	陕西省	延长县	610621	Yanchang Xian	YCA
+3102	陕西省	延川县	610622	Yanchuan Xian	YCT
+3103	陕西省	子长县	610623	Zichang Xian	ZCA
+3104	陕西省	安塞县	610624	Ansai Xian	ANS
+3105	陕西省	志丹县	610625	Zhidan Xian	ZDN
+3106	陕西省	吴旗县	610626	Wuqi Xian	WQI
+3107	陕西省	甘泉县	610627	Ganquan Xian	GQN
+3108	陕西省	富县	610628	Fu Xian	FUX
+3109	陕西省	洛川县	610629	Luochuan Xian	LCW
+3110	陕西省	宜川县	610630	Yichuan Xian	YIC
+3111	陕西省	黄龙县	610631	Huanglong Xian	HGL
+3112	陕西省	黄陵县	610632	Huangling Xian	HLG
+3113	陕西省	汉中市	610700	Hanzhong Shi	HZJ
+3114	陕西省	市辖区	610701	Shixiaqu	
+3115	陕西省	汉台区	610702	Hantai Qu	HTQ
+3116	陕西省	南郑县	610721	Nanzheng Xian	NZG
+3117	陕西省	城固县	610722	Chenggu Xian	CGU
+3118	陕西省	洋县	610723	Yang Xian	YGX
+3119	陕西省	西乡县	610724	Xixiang Xian	XXA
+3120	陕西省	勉县	610725	Mian Xian	MIA
+3121	陕西省	宁强县	610726	Ningqiang Xian	NQG
+3122	陕西省	略阳县	610727	Lueyang Xian	LYC
+3123	陕西省	镇巴县	610728	Zhenba Xian	ZBA
+3124	陕西省	留坝县	610729	Liuba Xian	LBA
+3125	陕西省	佛坪县	610730	Foping Xian	FPG
+3126	陕西省	安康地区	612400	Ankang Diqu	AKG
+3127	陕西省	安康市	612401	Ankang Shi	ANK
+3128	陕西省	汉阴县	612422	Hanyin Xian	HYY
+3129	陕西省	石泉县	612423	Shiquan Xian	SQN
+3130	陕西省	宁陕县	612424	Ningshan Xian	NGS
+3131	陕西省	紫阳县	612425	Ziyang Xian	ZYG
+3132	陕西省	岚皋县	612426	Langao Xian	LNG
+3133	陕西省	平利县	612427	Pingli Xian	PLX
+3134	陕西省	镇坪县	612428	Zhenping Xian	ZNP
+3135	陕西省	旬阳县	612429	Xunyang Xian	XYX
+3136	陕西省	白河县	612430	Baihe Xian	BHE
+3137	陕西省	商洛地区	612500	Shangluo Diqu	SLD
+3138	陕西省	商州市	612501	Shangzhou Shi	SZO
+3139	陕西省	洛南县	612522	Luonan Xian	LNK
+3140	陕西省	丹凤县	612523	Danfeng Xian	DNF
+3141	陕西省	商南县	612524	Shangnan Xian	SNN
+3142	陕西省	山阳县	612525	Shanyang Xian	SNY
+3143	陕西省	镇安县	612526	Zhen,an Xian	ZNA
+3144	陕西省	柞水县	612527	Zhashui Xian	ZSU
+3145	陕西省	榆林地区	612700	Yulin Diqu	YLD
+3146	陕西省	榆林市	612701	Yulin Shi	YLN
+3147	陕西省	神木县	612722	Shenmu Xian	SMU
+3148	陕西省	府谷县	612723	Fugu Xian	FGU
+3149	陕西省	横山县	612724	Hengshan Xian	HAS
+3150	陕西省	靖边县	612725	Jingbian Xian	JBN
+3151	陕西省	定边县	612726	Dingbian Xian	DBN
+3152	陕西省	绥德县	612727	Suide Xian	SDE
+3153	陕西省	米脂县	612728	Mizhi Xian	MZH
+3154	陕西省	佳县	612729	Jia Xian	JXN
+3155	陕西省	吴堡县	612730	Wubu Xian	WBU
+3156	陕西省	清涧县	612731	Qingjian Xian	QJN
+3157	陕西省	子洲县	612732	Zizhou Xian	ZZH
+3158	甘肃省	甘肃省	620000	Gansu Sheng	GS
+3159	甘肃省	兰州市	620100	Lanzhou Shi	LHW
+3160	甘肃省	市辖区	620101	Shixiaqu	
+3161	甘肃省	城关区	620102	Chengguan Qu	CLZ
+3162	甘肃省	七里河区	620103	Qilihe Qu	QLH
+3163	甘肃省	西固区	620104	Xigu Qu	XGU
+3164	甘肃省	安宁区	620105	Anning Qu	ANQ
+3165	甘肃省	红古区	620111	Honggu Qu	HOG
+3166	甘肃省	永登县	620121	Yongdeng Xian	YDG
+3167	甘肃省	皋兰县	620122	Gaolan Xian	GAL
+3168	甘肃省	榆中县	620123	Yuzhong Xian	YZX
+3169	甘肃省	嘉峪关市	620200	Jiayuguan Shi	JYG
+3170	甘肃省	市辖区	620201	Shixiaqu	
+3171	甘肃省	金昌市	620300	Jinchang Shi	JCS
+3172	甘肃省	市辖区	620301	Shixiaqu	
+3173	甘肃省	金川区	620302	Jinchuan Qu	JCU
+3174	甘肃省	永昌县	620321	Yongchang Xian	YCF
+3175	甘肃省	白银市	620400	Baiyin Shi	BYS
+3176	甘肃省	市辖区	620401	Shixiaqu	
+3177	甘肃省	白银区	620402	Baiyin Qu	BYB
+3178	甘肃省	平川区	620403	Pingchuan Qu	PCQ
+3179	甘肃省	靖远县	620421	Jingyuan Xian	JYH
+3180	甘肃省	会宁县	620422	Huining xian	HNI
+3181	甘肃省	景泰县	620423	Jingtai Xian	JGT
+3182	甘肃省	天水市	620500	Tianshui Shi	TSU
+3183	甘肃省	市辖区	620501	Shixiaqu	
+3184	甘肃省	秦城区	620502	Qincheng Qu	QCG
+3185	甘肃省	北道区	620503	Beidao Qu	BDQ
+3186	甘肃省	清水县	620521	Qingshui Xian	QSG
+3187	甘肃省	秦安县	620522	Qin,an Xian	QNA
+3188	甘肃省	甘谷县	620523	Gangu Xian	GGU
+3189	甘肃省	武山县	620524	Wushan Xian	WSX
+3190	甘肃省	张家川回族自治县	620525	Zhangjiachuan Huizu Zizhixian	ZJC
+3191	甘肃省	酒泉地区	622100	Jiuquan Diqu	JQD
+3192	甘肃省	玉门市	622101	Yumen Shi	YMS
+3193	甘肃省	酒泉市	622102	Jiuquan Shi	JQG
+3194	甘肃省	敦煌市	622103	Dunhuang Shi	DNH
+3195	甘肃省	金塔县	622123	Jinta Xian	JTA
+3196	甘肃省	肃北蒙古族自治县	622124	Subei Monguzu Zizhixian	SBE
+3197	甘肃省	阿克塞哈萨克族自治县	622125	Aksay Kazakzu Zizhixian	AKX
+3198	甘肃省	安西县	622126	Anxi Xian	AXI
+3199	甘肃省	张掖地区	622200	Zhangye Diqu 	ZYJ
+3200	甘肃省	张掖市	622201	Zhangye Shi	ZYE
+3201	甘肃省	肃南裕固族自治县	622222	Sunan Yugurzu Zizhixian	SUN
+3202	甘肃省	民乐县	622223	Minle Xian	MLE
+3203	甘肃省	临泽县	622224	Linze Xian	LZE
+3204	甘肃省	高台县	622225	Gaotai Xian	GAT
+3205	甘肃省	山丹县	622226	Shandan Xian	SDN
+3206	甘肃省	武威地区	622300	Wuwei Diqu 	WWD
+3207	甘肃省	武威市	622301	Wuwei Shi	WWS
+3208	甘肃省	民勤县	622322	Minqin Xian	MQN
+3209	甘肃省	古浪县	622323	Gulang Xian	GLG
+3210	甘肃省	天祝藏族自治县	622326	Tianzhu Zangzu Zizhixian	TZG
+3211	甘肃省	定西地区	622400	Dingxi Diqu	DXD
+3212	甘肃省	定西县	622421	Dingxi Xian	DXI
+3213	甘肃省	通渭县	622424	Tongwei Xian	TWE
+3214	甘肃省	陇西县	622425	Longxi Xian	LXK
+3215	甘肃省	渭源县	622426	Weiyuan Xian	WIY
+3216	甘肃省	临洮县	622427	Lintao Xian	LTO
+3217	甘肃省	漳县	622428	Zhang Xian	ZGX
+3218	甘肃省	岷县	622429	Min Xian	MIN
+3219	甘肃省	陇南地区	622600	Longnan Diqu	LND
+3220	甘肃省	武都县	622621	Wudu Xian	WUD
+3221	甘肃省	宕昌县	622623	Dangchang Xian	DGC
+3222	甘肃省	成县	622624	Cheng Xian	CHG
+3223	甘肃省	康县	622625	Kang Xian	KNG
+3224	甘肃省	文县	622626	Wen Xian	WEG
+3225	甘肃省	西和县	622627	Xihe Xian	XHE
+3226	甘肃省	礼县	622628	Li Xian	LXG
+3227	甘肃省	两当县	622629	Liangdang Xian	LDG
+3228	甘肃省	徽县	622630	Hui Xian	HIX
+3229	甘肃省	平凉地区	622700	Pingliang Diqu	PLG
+3230	甘肃省	平凉市	622701	Pingliang Shi	PLS
+3231	甘肃省	泾川县	622722	Jingchuan Xian	JCN
+3232	甘肃省	灵台县	622723	Lingtai Xian	LGT
+3233	甘肃省	崇信县	622724	Chongxin Xian	COX
+3234	甘肃省	华亭县	622725	Huating Xian	HTI
+3235	甘肃省	庄浪县	622726	Zhuanglang Xian	ZLG
+3236	甘肃省	静宁县	622727	Jingning Xian	JNI
+3237	甘肃省	庆阳地区	622800	Qingyang Diqu	QYD
+3238	甘肃省	西峰市	622801	Xifeng Shi	XFS
+3239	甘肃省	庆阳市	622821	Qingyang Shi	QYG
+3240	甘肃省	环县	622822	Huan Xian	HUN
+3241	甘肃省	华池县	622823	Huachi Xian	HCI
+3242	甘肃省	合水县	622824	Heshui Xian	HSX
+3243	甘肃省	正宁县	622825	Zhengning Xian	ZGN
+3244	甘肃省	宁县	622826	Ning Xian	NIG
+3245	甘肃省	镇原县	622827	Zhenyuan Xian	ZYN
+3246	甘肃省	临夏回族自治州	622900	Linxia Huizu Zizhizhou 	LXH
+3247	甘肃省	临夏市	622901	Linxia Shi	LXR
+3248	甘肃省	临夏县	622921	Linxia Xian	LXF
+3249	甘肃省	康乐县	622922	Kangle Xian	KLE
+3250	甘肃省	永靖县	622923	Yongjing Xian	YJG
+3251	甘肃省	广河县	622924	Guanghe Xian	GHX
+3252	甘肃省	和政县	622925	Hezheng Xian	HZG
+3253	甘肃省	东乡族自治县	622926	Dongxiangzu Zizhixian	DXZ
+3254	甘肃省	积石山保安族东乡族撒拉族自治县	622927	Jishishan Bonanzu Dongxiangzu Salarzu Zizhixian	JSN
+3255	甘肃省	甘南藏族自治州	623000	Gannan Zangzu Zizhizhou	GNZ
+3256	甘肃省	合作市	623001	Hezuo Shi	HEZ
+3257	甘肃省	临潭县	623021	Lintan Xian	LTN
+3258	甘肃省	卓尼县	623022	Jone	JON
+3259	甘肃省	舟曲县	623023	Zhugqu Xian	ZQU
+3260	甘肃省	迭部县	623024	Tewo Xian	TEW
+3261	甘肃省	玛曲县	623025	Maqu Xian	MQU
+3262	甘肃省	碌曲县	623026	Luqu Xian	LQU
+3263	甘肃省	夏河县	623027	Xiahe Xian	XHN
+3264	青海省	青海省	630000	Qinghai Sheng	QH
+3265	青海省	西宁市	630100	Xining Shi	XNN
+3266	青海省	市辖区	630101	Shixiaqu	
+3267	青海省	城东区	630102	Chengdong Qu	CDQ
+3268	青海省	城中区	630103	Chengzhong Qu	CZQ
+3269	青海省	城西区	630104	Chengxi Qu	CXQ
+3270	青海省	城北区	630105	Chengbei Qu	CBE
+3271	青海省	大通回族土族自治县	630121	Datong Huizu Tuzu Zizhixian	DAT
+3272	青海省	海东地区	632100	Haidong Diqu	HDD
+3273	青海省	平安县	632121	Ping,an Xian	PAN
+3274	青海省	民和回族土族自治县	632122	Minhe Huizu Tuzu Zizhixian	MHE
+3275	青海省	乐都县	632123	Ledu Xian	LDU
+3276	青海省	湟中县	632124	Huangzhong Xian	HZX
+3277	青海省	湟源县	632125	Huangyuan Xian	HYU
+3278	青海省	互助土族自治县	632126	Huzhu Tuzu Zizhixian	HZT
+3279	青海省	化隆回族自治县	632127	Hualong Huizu Zizhixian	HLO
+3280	青海省	循化撒拉族自治县	632128	Xunhua Salazu Zizhixian	XUH
+3281	青海省	海北藏族自治州	632200	Haibei Zangzu Zizhizhou	HBZ
+3282	青海省	门源回族自治县	632221	Menyuan Huizu Zizhixian	MYU
+3283	青海省	祁连县	632222	Qilian Xian	QLN
+3284	青海省	海晏县	632223	Haiyan Xian	HIY
+3285	青海省	刚察县	632224	Gangca Xian	GAN
+3286	青海省	黄南藏族自治州	632300	Huangnan Zangzu Zizhizhou	HNZ
+3287	青海省	同仁县	632321	Tongren Xian	TRN
+3288	青海省	尖扎县	632322	Jainca Xian	JAI
+3289	青海省	泽库县	632323	Zekog Xian	ZEK
+3290	青海省	河南蒙古族自治县	632324	Henan Mongolzu Zizhixian	HNM
+3291	青海省	海南藏族自治州	632500	Hainan Zangzu Zizhizhou	HNN
+3292	青海省	共和县	632521	Gonghe Xian	GHE
+3293	青海省	同德县	632522	Tongde Xian	TDX
+3294	青海省	贵德县	632523	Guide Xian	GID
+3295	青海省	兴海县	632524	Xinghai Xian	XHA
+3296	青海省	贵南县	632525	Guinan Xian	GNN
+3297	青海省	果洛藏族自治州	632600	Golog Zangzu Zizhizhou	GOL
+3298	青海省	玛沁县	632621	Maqen Xian	MAQ
+3299	青海省	班玛县	632622	Baima Xian	BMX
+3300	青海省	甘德县	632623	Gade Xian	GAD
+3301	青海省	达日县	632624	Tarlag Xian	TAR
+3302	青海省	久治县	632625	Jigzhi Xian	JUZ
+3303	青海省	玛多县	632626	Madoi Xian	MAD
+3304	青海省	玉树藏族自治州	632700	Yushu Zangzu Zizhizhou	YSZ
+3305	青海省	玉树县	632721	Yushu Xian	YSK
+3306	青海省	杂多县	632722	Zadoi Xian	ZAD
+3307	青海省	称多县	632723	Chindu Xian	CHI
+3308	青海省	治多县	632724	Zhidoi Xian	ZHI
+3309	青海省	囊谦县	632725	Nangqen Xian	NQN
+3310	青海省	曲麻莱县	632726	Qumarleb Xian	QUM
+3311	青海省	海西蒙古族藏族自治州	632800	Haixi Mongolzu Zangzu Zizhizhou	HXZ
+3312	青海省	格尔木市	632801	Golmud Shi	GOS
+3313	青海省	德令哈市	632802	Delhi Shi	DEL
+3314	青海省	乌兰县	632821	Ulan Xian	ULA
+3315	青海省	都兰县	632822	Dulan Xian	DUL
+3316	青海省	天峻县	632823	Tianjun Xian	TJN
+3317	宁夏回族自治区	宁夏回族自治区	640000	Ningxia Huizu Zizhiqu	NX
+3318	宁夏回族自治区	银川市	640100	Yinchuan Shi	INC
+3319	宁夏回族自治区	市辖区	640101	Shixiaqu	
+3320	宁夏回族自治区	城区	640102	Chengqu	CQY
+3321	宁夏回族自治区	新城区	640103	Xincheng Qu	XCU
+3322	宁夏回族自治区	郊区	640111	Jiaoqu	JQC
+3323	宁夏回族自治区	永宁县	640121	Yongning Xian	YGN
+3324	宁夏回族自治区	贺兰县	640122	Helan Xian	HLN
+3325	宁夏回族自治区	石嘴山市	640200	Shizuishan Shi	SZS
+3326	宁夏回族自治区	市辖区	640201	Shixiaqu	
+3327	宁夏回族自治区	大武口区	640202	Dawukou Qu	DWK
+3328	宁夏回族自治区	石嘴山区	640203	Shizuishan Qu	SZA
+3329	宁夏回族自治区	石炭井区	640204	Shitanjing Qu	STJ
+3330	宁夏回族自治区	平罗县	640221	Pingluo Xian	PLO
+3331	宁夏回族自治区	陶乐县	640222	Taole Xian	TLE
+3332	宁夏回族自治区	惠农县	640223	Huinong Xian	HNO
+3333	宁夏回族自治区	吴忠市	640300	Wuzhong Shi	WZS
+3334	宁夏回族自治区	市辖区	640301	Shixiaqu	
+3335	宁夏回族自治区	利通区	640302	Litong Qu	LTW
+3336	宁夏回族自治区	中卫县	640321	Zhongwei Xian	ZWE
+3337	宁夏回族自治区	中宁县	640322	Zhongning Xian	ZNG
+3338	宁夏回族自治区	盐池县	640323	Yanchi Xian	YCY
+3339	宁夏回族自治区	同心县	640324	Tongxin Xian	TGX
+3340	宁夏回族自治区	青铜峡市	640381	Qingtongxia Xian	QTX
+3341	宁夏回族自治区	灵武市	640382	Lingwu Shi	LWU
+3342	宁夏回族自治区	固原地区	642200	Guyuan Diqu	GYD
+3343	宁夏回族自治区	固原县	642221	Guyuan Xian	GYN
+3344	宁夏回族自治区	海原县	642222	Haiyuan Xian	HYB
+3345	宁夏回族自治区	西吉县	642223	Xiji Xian	XJI
+3346	宁夏回族自治区	隆德县	642224	Longde Xian	LDE
+3347	宁夏回族自治区	泾源县	642225	Jingyuan Xian	JYK
+3348	宁夏回族自治区	彭阳县	642226	Pengyang Xian	PEY
+3349	新疆维吾尔自治区	新疆维吾尔自治区	650000	Xinjiang Uygur Zizhiqu	XJ
+3350	新疆维吾尔自治区	乌鲁木齐市	650100	Urumqi Shi	URC
+3351	新疆维吾尔自治区	市辖区	650101	Shixiaqu	
+3352	新疆维吾尔自治区	天山区	650102	Tianshan Qu	TSL
+3353	新疆维吾尔自治区	沙依巴克区	650103	Saybag Qu	SAY
+3354	新疆维吾尔自治区	新市区	650104	Xinshi Qu	XSU
+3355	新疆维吾尔自治区	水磨沟区	650105	Shuimogou Qu	SMG
+3356	新疆维吾尔自治区	头屯河区	650106	Toutunhe Qu	TTH
+3357	新疆维吾尔自治区	南山矿区	650107	Nanshan Kuangqu	NSK
+3358	新疆维吾尔自治区	东山区	650108	Dongshan Qu	DSU
+3359	新疆维吾尔自治区	乌鲁木齐县	650121	Urumqi Xian	URX
+3360	新疆维吾尔自治区	克拉玛依市	650200	Karamay Shi	KAR
+3361	新疆维吾尔自治区	市辖区	650201	Shixiaqu	
+3362	新疆维吾尔自治区	独山子区	650202	Dushanzi Qu	DSZ
+3363	新疆维吾尔自治区	克拉玛依区	650203	Karamay Qu	KRQ
+3364	新疆维吾尔自治区	白碱滩区	650204	Baijiantan Qu	BJT
+3365	新疆维吾尔自治区	乌尔禾区	650205	Orku Qu	ORK
+3366	新疆维吾尔自治区	吐鲁番地区	652100	Turpan Diqu	TUD
+3367	新疆维吾尔自治区	吐鲁番市	652101	Turpan Shi	TUR
+3368	新疆维吾尔自治区	鄯善县	652122	Shanshan(piqan) Xian	SSX
+3369	新疆维吾尔自治区	托克逊县	652123	Toksun Xian	TOK
+3370	新疆维吾尔自治区	哈密地区	652200	Hami(kumul) Diqu	HMD
+3371	新疆维吾尔自治区	哈密市	652201	Hami(kumul) Shi	HAM
+3372	新疆维吾尔自治区	巴里坤哈萨克自治县	652222	Barkol Kazak Zizhixian	BAR
+3373	新疆维吾尔自治区	伊吾县	652223	Yiwu(Araturuk) Xian	YWX
+3374	新疆维吾尔自治区	昌吉回族自治州	652300	Changji Huizu Zizhizhou	CJZ
+3375	新疆维吾尔自治区	昌吉市	652301	Changji Shi	CJS
+3376	新疆维吾尔自治区	阜康市	652302	Fukang Shi	FKG
+3377	新疆维吾尔自治区	米泉市	652303	Miquan Shi	MQS
+3378	新疆维吾尔自治区	呼图壁县	652323	Hutubi Xian	HTB
+3379	新疆维吾尔自治区	玛纳斯县	652324	Manas Xian	MAS
+3380	新疆维吾尔自治区	奇台县	652325	Qitai Xian	QTA
+3381	新疆维吾尔自治区	吉木萨尔县	652327	Jimsar Xian	JIM
+3382	新疆维吾尔自治区	木垒哈萨克自治县	652328	Mori Kazak Zizhixian	MOR
+3383	新疆维吾尔自治区	博尔塔拉蒙古自治州	652700	Bortala Monglo Zizhizhou	BOR
+3384	新疆维吾尔自治区	博乐市	652701	Bole(Bortala) Shi	BLE
+3385	新疆维吾尔自治区	精河县	652722	Jinghe(Jing) Xian	JGH
+3386	新疆维吾尔自治区	温泉县	652723	Wenquan(Arixang) Xian	WNQ
+3387	新疆维吾尔自治区	巴音郭楞蒙古族自治州	652800	Bayingolin Mongol Zizhizhou	BAG
+3388	新疆维吾尔自治区	库尔勒市	652801	Korla Shi	KOR
+3389	新疆维吾尔自治区	轮台县	652822	Luntai(Bugur) Xian	LTX
+3390	新疆维吾尔自治区	尉犁县	652823	Yuli(Lopnur) Xian	YLI
+3391	新疆维吾尔自治区	若羌县	652824	Ruoqiang(Qakilik) Xian	RQG
+3392	新疆维吾尔自治区	且末县	652825	Qiemo(Qarqan) Xian	QMO
+3393	新疆维吾尔自治区	焉耆回族自治县	652826	Yanqi Huizu Zizhixian	YQI
+3394	新疆维吾尔自治区	和静县	652827	Hejing Xian	HJG
+3395	新疆维吾尔自治区	和硕县	652828	Hoxud Xian	HOX
+3396	新疆维吾尔自治区	博湖县	652829	Bohu(Bagrax) Xian	BHU
+3397	新疆维吾尔自治区	阿克苏地区	652900	Aksu Diqu	AKD
+3398	新疆维吾尔自治区	阿克苏市	652901	Aksu Shi	AKS
+3399	新疆维吾尔自治区	温宿县	652922	Wensu Xian	WSU
+3400	新疆维吾尔自治区	库车县	652923	Kuqa Xian	KUQ
+3401	新疆维吾尔自治区	沙雅县	652924	Xayar Xian	XYR
+3402	新疆维吾尔自治区	新和县	652925	Xinhe(Toksu) Xian	XHT
+3403	新疆维吾尔自治区	拜城县	652926	Baicheng(Bay) Xian	BCG
+3404	新疆维吾尔自治区	乌什县	652927	Wushi(Uqturpan) Xian	WSH
+3405	新疆维吾尔自治区	阿瓦提县	652928	Awat Xian	AWA
+3406	新疆维吾尔自治区	柯坪县	652929	Kalpin Xian	KAL
+3407	新疆维吾尔自治区	克孜勒苏柯尔克孜自治州	653000	Kizilsu Kirgiz Zizhizhou	KIZ
+3408	新疆维吾尔自治区	阿图什市	653001	Artux Shi	ART
+3409	新疆维吾尔自治区	阿克陶县	653022	Akto Xian	AKT
+3410	新疆维吾尔自治区	阿合奇县	653023	Akqi Xian	AKQ
+3411	新疆维吾尔自治区	乌恰县	653024	Wuqia(Ulugqat) Xian	WQA
+3412	新疆维吾尔自治区	喀什地区	653100	Kashi(Kaxgar) Diqu	KSI
+3413	新疆维吾尔自治区	喀什市	653101	Kashi (Kaxgar) Shi	KHG
+3414	新疆维吾尔自治区	疏附县	653121	Shufu Xian	SFU
+3415	新疆维吾尔自治区	疏勒县	653122	Shule Xian	SHL
+3416	新疆维吾尔自治区	英吉沙县	653123	Yengisar Xian	YEN
+3417	新疆维吾尔自治区	泽普县	653124	Zepu(Poskam) Xian	ZEP
+3418	新疆维吾尔自治区	莎车县	653125	Shache(Yarkant) Xian	SHC
+3419	新疆维吾尔自治区	叶城县	653126	Yecheng(Kargilik) Xian	YEC
+3420	新疆维吾尔自治区	麦盖提县	653127	Markit Xian	MAR
+3421	新疆维吾尔自治区	岳普湖县	653128	Yopurga Xian	YOP
+3422	新疆维吾尔自治区	伽师县	653129	Jiashi(Payzawat) Xian	JSI
+3423	新疆维吾尔自治区	巴楚县	653130	Bachu(Maralbexi) Xian	BCX
+3424	新疆维吾尔自治区	塔什库尔干塔吉克自治县	653131	Taxkorgan Tajik Zizhixian	TXK
+3425	新疆维吾尔自治区	和田地区	653200	Hotan Diqu	HOD
+3426	新疆维吾尔自治区	和田市	653201	Hotan Shi	HTS
+3427	新疆维吾尔自治区	和田县	653221	Hotan Xian	HOT
+3428	新疆维吾尔自治区	墨玉县	653222	Moyu(Karakax) Xian	MOY
+3429	新疆维吾尔自治区	皮山县	653223	Pishan(Guma) Xian	PSA
+3430	新疆维吾尔自治区	洛浦县	653224	Lop Xian	LOP
+3431	新疆维吾尔自治区	策勒县	653225	Qira Xian	QIR
+3432	新疆维吾尔自治区	于田县	653226	Yutian(Keriya) Xian	YUT
+3433	新疆维吾尔自治区	民丰县	653227	Minfeng(Niya) Xian	MFG
+3434	新疆维吾尔自治区	伊犁哈萨克自治州	654000	Ili Kazak Zizhizhou	ILD
+3435	新疆维吾尔自治区	奎屯市	654001	Kuytun Shi	KUY
+3436	新疆维吾尔自治区	伊犁地区	654100	Ili Diqu	ILI
+3437	新疆维吾尔自治区	伊宁市	654101	Yining(Gulja) Shi	YIN
+3438	新疆维吾尔自治区	伊宁县	654121	Yining(Gulja) Xian	YNI
+3439	新疆维吾尔自治区	察布查尔锡伯自治县	654122	Qapqal Xibe Zizhixian	QAP
+3440	新疆维吾尔自治区	霍城县	654123	Huocheng Xin	HCX
+3441	新疆维吾尔自治区	巩留县	654124	Gongliu(Tokkuztara) Xian	GLX
+3442	新疆维吾尔自治区	新源县	654125	Xinyuan(Kunes) Xian	XYT
+3443	新疆维吾尔自治区	昭苏县	654126	Zhaosu(Mongolkure) Xian	ZSX
+3444	新疆维吾尔自治区	特克斯县	654127	Tekes Xian	TEK
+3445	新疆维吾尔自治区	尼勒克县	654128	Nilka Xian	NIL
+3446	新疆维吾尔自治区	塔城地区	654200	Tacheng(Qoqek) Diqu	TCD
+3447	新疆维吾尔自治区	塔城市	654201	Tacheng(Qoqek) Shi	TCS
+3448	新疆维吾尔自治区	乌苏市	654202	Usu Shi	USU
+3449	新疆维吾尔自治区	额敏县	654221	Emin(Dorbiljin) Xian	EMN
+3450	新疆维吾尔自治区	沙湾县	654223	Shawan Xian	SWX
+3451	新疆维吾尔自治区	托里县	654224	Toli Xian	TLI
+3452	新疆维吾尔自治区	裕民县	654225	Yumin(Qagantokay) Xian	YMN
+3453	新疆维吾尔自治区	和布克塞尔蒙古自治县	654226	Hoboksar Mongol Zizhixian	HOB
+3454	新疆维吾尔自治区	阿勒泰地区	654300	Altay Diqu	ALD
+3455	新疆维吾尔自治区	阿勒泰市	654301	Altay Shi	ALT
+3456	新疆维吾尔自治区	布尔津县	654321	Burqin Xian	BUX
+3457	新疆维吾尔自治区	富蕴县	654322	Fuyun(Koktokay) Xian	FYN
+3458	新疆维吾尔自治区	福海县	654323	Fuhai(Burultokay) Xian	FHI
+3459	新疆维吾尔自治区	哈巴河县	654324	Habahe(Kaba) Xian	HBH
+3460	新疆维吾尔自治区	青河县	654325	Qinghe(Qinggil) Xian	QHX
+3461	新疆维吾尔自治区	吉木乃县	654326	Jeminay Xian	JEM
+3462	新疆维吾尔自治区	直辖行政单位	659000	Zhixia Xingzhengdanwei	
+3463	新疆维吾尔自治区	石河子市	659001	Shihezi Shi	SHZ
+3464	台湾省	台湾省	710000	Taiwan Sheng	TW
+3465	香港特别行政区	香港特别行政区	810000	Hongkong Tebiexingzhengqu	HK
